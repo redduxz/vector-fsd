@@ -26045,3 +26045,4 @@
 - 2026-09-25 20:34:37 iteration 13578: update research log
 - 2026-09-25 20:34:37 iteration 13579: mark test run
 - 2026-09-25 20:34:37 iteration 13580: mark test run
+- 2026-09-25 20:34:37 iteration 13581: log control tweak
