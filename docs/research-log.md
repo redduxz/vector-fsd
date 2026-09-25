@@ -2396,3 +2396,4 @@
 - 2026-09-25 19:24:30 iteration 2394: append session line
 - 2026-09-25 19:24:30 iteration 2395: mark test run
 - 2026-09-25 19:24:30 iteration 2396: jot safety review
+- 2026-09-25 19:24:30 iteration 2397: note latency sample
