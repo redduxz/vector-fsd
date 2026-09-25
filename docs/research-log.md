@@ -8975,3 +8975,4 @@
 - 2026-09-25 19:39:55 iteration 8973: jot safety review
 - 2026-09-25 19:39:55 iteration 8974: update research log
 - 2026-09-25 19:39:55 iteration 8975: mark test run
+- 2026-09-25 19:39:55 iteration 8976: log perception note
