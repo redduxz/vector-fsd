@@ -584,3 +584,4 @@
 - 2026-09-25 19:20:54 iteration 582: update research log
 - 2026-09-25 19:20:54 iteration 583: log loop iteration
 - 2026-09-25 19:20:54 iteration 584: note latency sample
+- 2026-09-25 19:20:54 iteration 585: note tuning delta
