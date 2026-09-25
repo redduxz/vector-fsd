@@ -37066,3 +37066,4 @@
 - 2026-09-25 21:14:21 iteration 24599: note tuning delta
 - 2026-09-25 21:14:21 iteration 24600: append session line
 - 2026-09-25 21:14:21 iteration 24601: log planning iteration
+- 2026-09-25 21:14:22 iteration 24602: log control tweak
