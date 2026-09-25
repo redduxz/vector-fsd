@@ -1710,3 +1710,4 @@
 - 2026-09-25 19:23:04 iteration 1708: log control tweak
 - 2026-09-25 19:23:04 iteration 1709: update research log
 - 2026-09-25 19:23:04 iteration 1710: record sim observation
+- 2026-09-25 19:23:04 iteration 1711: log perception note
