@@ -2807,3 +2807,4 @@
 - 2026-09-25 19:25:25 iteration 2805: log control tweak
 - 2026-09-25 19:25:25 iteration 2806: log planning iteration
 - 2026-09-25 19:25:25 iteration 2807: note latency sample
+- 2026-09-25 19:25:25 iteration 2808: update research log
