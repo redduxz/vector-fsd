@@ -8492,3 +8492,4 @@
 - 2026-09-25 19:38:48 iteration 8490: log control tweak
 - 2026-09-25 19:38:48 iteration 8491: mark test run
 - 2026-09-25 19:38:48 iteration 8492: log perception note
+- 2026-09-25 19:38:48 iteration 8493: update research log
