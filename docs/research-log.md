@@ -4572,3 +4572,4 @@
 - 2026-09-25 19:29:35 iteration 4570: note latency sample
 - 2026-09-25 19:29:35 iteration 4571: record sim observation
 - 2026-09-25 19:29:35 iteration 4572: log control tweak
+- 2026-09-25 19:29:35 iteration 4573: note tuning delta
