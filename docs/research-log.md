@@ -31201,3 +31201,4 @@
 - 2026-09-25 20:52:16 iteration 18734: append session line
 - 2026-09-25 20:52:17 iteration 18735: log planning iteration
 - 2026-09-25 20:52:17 iteration 18736: log planning iteration
+- 2026-09-25 20:52:17 iteration 18737: note tuning delta
