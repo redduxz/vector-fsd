@@ -17252,3 +17252,4 @@
 - 2026-09-25 20:00:06 iteration 4785: log planning iteration
 - 2026-09-25 20:00:06 iteration 4786: log perception note
 - 2026-09-25 20:00:06 iteration 4787: jot safety review
+- 2026-09-25 20:00:06 iteration 4788: note tuning delta
