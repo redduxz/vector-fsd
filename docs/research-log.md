@@ -27985,3 +27985,4 @@
 - 2026-09-25 20:41:41 iteration 15518: log control tweak
 - 2026-09-25 20:41:41 iteration 15519: append session line
 - 2026-09-25 20:41:41 iteration 15520: log planning iteration
+- 2026-09-25 20:41:42 iteration 15521: log perception note
