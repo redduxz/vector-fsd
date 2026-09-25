@@ -37349,3 +37349,4 @@
 - 2026-09-25 21:15:24 iteration 24882: mark test run
 - 2026-09-25 21:15:25 iteration 24883: log control tweak
 - 2026-09-25 21:15:25 iteration 24884: record checkpoint
+- 2026-09-25 21:15:25 iteration 24885: note latency sample
