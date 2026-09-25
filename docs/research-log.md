@@ -12094,3 +12094,4 @@
 - 2026-09-25 19:47:03 iteration 12092: mark test run
 - 2026-09-25 19:47:04 iteration 12093: record sim observation
 - 2026-09-25 19:47:04 iteration 12094: jot safety review
+- 2026-09-25 19:47:04 iteration 12095: log control tweak
