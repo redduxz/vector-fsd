@@ -21071,3 +21071,4 @@
 - 2026-09-25 20:14:29 iteration 8604: append session line
 - 2026-09-25 20:14:29 iteration 8605: log perception note
 - 2026-09-25 20:14:30 iteration 8606: record sim observation
+- 2026-09-25 20:14:30 iteration 8607: note tuning delta
