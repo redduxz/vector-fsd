@@ -9080,3 +9080,4 @@
 - 2026-09-25 19:40:09 iteration 9078: log loop iteration
 - 2026-09-25 19:40:10 iteration 9079: note tuning delta
 - 2026-09-25 19:40:10 iteration 9080: append session line
+- 2026-09-25 19:40:10 iteration 9081: record sim observation
