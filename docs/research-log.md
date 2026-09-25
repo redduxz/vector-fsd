@@ -21512,3 +21512,4 @@
 - 2026-09-25 20:16:08 iteration 9045: note latency sample
 - 2026-09-25 20:16:09 iteration 9046: record checkpoint
 - 2026-09-25 20:16:09 iteration 9047: append session line
+- 2026-09-25 20:16:09 iteration 9048: log control tweak
