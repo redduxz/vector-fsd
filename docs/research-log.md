@@ -39486,3 +39486,4 @@
 - 2026-09-25 21:22:34 iteration 27019: mark test run
 - 2026-09-25 21:22:34 iteration 27020: update research log
 - 2026-09-25 21:22:34 iteration 27021: append session line
+- 2026-09-25 21:22:34 iteration 27022: log control tweak
