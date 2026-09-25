@@ -13485,3 +13485,4 @@
 - 2026-09-25 19:51:11 iteration 1018: log perception note
 - 2026-09-25 19:51:11 iteration 1019: jot safety review
 - 2026-09-25 19:51:11 iteration 1020: log control tweak
+- 2026-09-25 19:51:11 iteration 1021: jot safety review
