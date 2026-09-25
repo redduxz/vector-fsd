@@ -16500,3 +16500,4 @@
 - 2026-09-25 19:58:10 iteration 4033: record checkpoint
 - 2026-09-25 19:58:10 iteration 4034: note tuning delta
 - 2026-09-25 19:58:10 iteration 4035: log control tweak
+- 2026-09-25 19:58:10 iteration 4036: mark test run
