@@ -17273,3 +17273,4 @@
 - 2026-09-25 20:00:09 iteration 4806: log control tweak
 - 2026-09-25 20:00:09 iteration 4807: record checkpoint
 - 2026-09-25 20:00:09 iteration 4808: jot safety review
+- 2026-09-25 20:00:09 iteration 4809: update research log
