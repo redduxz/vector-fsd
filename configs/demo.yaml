@@ -1,0 +1,26 @@
+sim:
+  host: 127.0.0.1
+  port: 2000
+  timeout_s: 20.0
+  fixed_delta_s: 0.05
+  town: Town05
+  traffic_count: 12
+  pedestrian_count: 6
+  seed: 7
+
+safety:
+  min_ttc_s: 1.5
+  max_speed_mps: 16.7
+  max_accel_mps2: 3.0
+  max_brake_mps2: 6.0
+  watchdog_timeout_s: 0.5
+  min_free_space_m: 8.0
+  max_steer_rate: 0.4
+
+vehicle:
+  blueprint: vehicle.tesla.model3
+  wheelbase_m: 2.875
+  max_steer_deg: 60.0
+  camera_hz: 20
+  lidar_channels: 16
+  radar_hz: 20

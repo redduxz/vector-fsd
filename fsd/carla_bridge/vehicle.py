@@ -112,10 +112,9 @@ class EgoVehicle:
             steer = float(self.actor.get_control().steer)
         except Exception:
             steer = 0.0
-        try:
-            ts = self.world.snapshot.timestamp.elapsed_seconds
-        except Exception:
-            ts = time.time()
+        # wall-clock, not sim elapsed_seconds — the safety monitor's
+        # freshness checks compare against time.time()
+        ts = time.time()
         return VehicleState(x=loc.x, y=loc.y, z=loc.z,
                             yaw=math.radians(rot.yaw), speed=speed,
                             accel=accel, steer=steer, timestamp=ts)
@@ -135,6 +134,24 @@ class EgoVehicle:
             hand_brake=bool(cmd.hand_brake),
             reverse=bool(cmd.reverse),
         ))
+
+    def relocate(self) -> bool:
+        """Teleport ego to a random spawn point — last-resort unstick."""
+        if self.actor is None or not self.actor.is_alive:
+            return False
+        points = self.world.spawn_points
+        if not points:
+            return False
+        tf = random.choice(points)
+        try:
+            self.actor.set_transform(tf)
+            self.spawn_transform = tf
+            log.warning("ego relocated to (%.1f, %.1f)",
+                        tf.location.x, tf.location.y)
+            return True
+        except Exception:
+            log.debug("relocate failed", exc_info=True)
+            return False
 
     # ----------------------------------------------------------------- events
 

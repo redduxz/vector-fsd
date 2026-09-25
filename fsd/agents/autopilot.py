@@ -519,6 +519,10 @@ class AutopilotAgent:
         self._last_ok: Dict[str, float] = {}
         self._last_perception: Optional[PerceptionOutput] = None
         self._fail_counts: Dict[str, int] = {}
+        self._stuck_ticks = 0
+        self._recover_ticks = 0
+        self._recover_steer = 0.0
+        self._relocations = 0
         self._setup_done = False
 
     # ------------------------------------------------------------------ setup
@@ -824,6 +828,7 @@ class AutopilotAgent:
                 default_speed=8.0)
             if traj is None:
                 raise RuntimeError("trajectory planner returned nothing")
+            self._last_traj = traj.points
             self._last_ok["planning"] = now
         except Exception:
             log.exception("planning stage failed — safe stop")
@@ -863,6 +868,35 @@ class AutopilotAgent:
         self.mode = mode
         if mode != prev_mode:
             log.warning("drive mode %s -> %s", prev_mode.name, mode.name)
+
+        # 7b. stuck recovery — powered but motionless (e.g. wedged on a
+        # pole perception lost). Reverse out; escalate to relocation.
+        if mode == DriveMode.ENGAGED and cmd is not None:
+            powered = cmd.throttle > 0.3 and not cmd.reverse
+            if powered and ego.speed < 0.2:
+                self._stuck_ticks += 1
+            else:
+                self._stuck_ticks = 0
+            if self._stuck_ticks >= int(3.0 / self.dt):
+                self._stuck_ticks = 0
+                self._recover_ticks = int(1.6 / self.dt)
+                self._recover_steer = -float(cmd.steer)
+                log.warning("ego wedged (thr=%.2f v=%.2f) — reverse recovery",
+                            cmd.throttle, ego.speed)
+        if self._recover_ticks > 0:
+            self._recover_ticks -= 1
+            if self._recover_ticks == 0 and ego.speed < 0.5 and \
+                    self.vehicle is not None and self._relocations < 3:
+                self._relocations += 1
+                log.warning("reverse failed to free ego — relocating (%d/3)",
+                            self._relocations)
+                try:
+                    self.vehicle.relocate()
+                except Exception:
+                    log.exception("relocate raised")
+            if mode == DriveMode.ENGAGED:
+                cmd = ControlCommand(throttle=0.55,
+                                     steer=self._recover_steer, reverse=True)
 
         # 8. actuate
         self._apply(cmd)
