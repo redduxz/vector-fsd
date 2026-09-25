@@ -28271,3 +28271,4 @@
 - 2026-09-25 20:42:36 iteration 15804: update research log
 - 2026-09-25 20:42:36 iteration 15805: mark test run
 - 2026-09-25 20:42:37 iteration 15806: jot safety review
+- 2026-09-25 20:42:37 iteration 15807: log perception note
