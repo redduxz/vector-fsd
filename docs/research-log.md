@@ -954,3 +954,4 @@
 - 2026-09-25 19:21:37 iteration 952: log loop iteration
 - 2026-09-25 19:21:37 iteration 953: log control tweak
 - 2026-09-25 19:21:37 iteration 954: note latency sample
+- 2026-09-25 19:21:37 iteration 955: jot safety review
