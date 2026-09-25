@@ -4626,3 +4626,4 @@
 - 2026-09-25 19:29:43 iteration 4624: mark test run
 - 2026-09-25 19:29:43 iteration 4625: jot safety review
 - 2026-09-25 19:29:43 iteration 4626: append session line
+- 2026-09-25 19:29:43 iteration 4627: note tuning delta
