@@ -38241,3 +38241,4 @@
 - 2026-09-25 21:18:42 iteration 25774: record sim observation
 - 2026-09-25 21:18:42 iteration 25775: update research log
 - 2026-09-25 21:18:42 iteration 25776: log perception note
+- 2026-09-25 21:18:42 iteration 25777: note tuning delta
