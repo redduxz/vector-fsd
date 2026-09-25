@@ -2922,3 +2922,4 @@
 - 2026-09-25 19:25:40 iteration 2920: record checkpoint
 - 2026-09-25 19:25:40 iteration 2921: mark test run
 - 2026-09-25 19:25:40 iteration 2922: log loop iteration
+- 2026-09-25 19:25:40 iteration 2923: note tuning delta
