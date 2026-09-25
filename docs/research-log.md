@@ -276,3 +276,4 @@
 - 2026-09-25 19:20:19 iteration 274: log control tweak
 - 2026-09-25 19:20:19 iteration 275: log planning iteration
 - 2026-09-25 19:20:19 iteration 276: jot safety review
+- 2026-09-25 19:20:19 iteration 277: record sim observation
