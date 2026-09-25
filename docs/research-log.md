@@ -10519,3 +10519,4 @@
 - 2026-09-25 19:43:24 iteration 10517: log control tweak
 - 2026-09-25 19:43:25 iteration 10518: jot safety review
 - 2026-09-25 19:43:25 iteration 10519: record checkpoint
+- 2026-09-25 19:43:25 iteration 10520: record sim observation
