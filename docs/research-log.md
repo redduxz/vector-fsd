@@ -7716,3 +7716,4 @@
 - 2026-09-25 19:37:00 iteration 7714: append session line
 - 2026-09-25 19:37:00 iteration 7715: log perception note
 - 2026-09-25 19:37:00 iteration 7716: record sim observation
+- 2026-09-25 19:37:01 iteration 7717: note tuning delta
