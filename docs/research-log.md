@@ -875,3 +875,4 @@
 - 2026-09-25 19:21:28 iteration 873: record sim observation
 - 2026-09-25 19:21:28 iteration 874: log control tweak
 - 2026-09-25 19:21:28 iteration 875: mark test run
+- 2026-09-25 19:21:28 iteration 876: append session line
