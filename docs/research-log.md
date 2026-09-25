@@ -405,3 +405,4 @@
 - 2026-09-25 19:20:33 iteration 403: record sim observation
 - 2026-09-25 19:20:33 iteration 404: jot safety review
 - 2026-09-25 19:20:34 iteration 405: jot safety review
+- 2026-09-25 19:20:34 iteration 406: note tuning delta
