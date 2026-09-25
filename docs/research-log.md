@@ -15529,3 +15529,4 @@
 - 2026-09-25 19:55:57 iteration 3062: append session line
 - 2026-09-25 19:55:57 iteration 3063: record checkpoint
 - 2026-09-25 19:55:57 iteration 3064: jot safety review
+- 2026-09-25 19:55:57 iteration 3065: log perception note
