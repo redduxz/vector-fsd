@@ -9758,3 +9758,4 @@
 - 2026-09-25 19:41:43 iteration 9756: note latency sample
 - 2026-09-25 19:41:43 iteration 9757: log planning iteration
 - 2026-09-25 19:41:43 iteration 9758: append session line
+- 2026-09-25 19:41:43 iteration 9759: log control tweak
