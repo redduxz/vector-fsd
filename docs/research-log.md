@@ -10373,3 +10373,4 @@
 - 2026-09-25 19:43:05 iteration 10371: mark test run
 - 2026-09-25 19:43:05 iteration 10372: mark test run
 - 2026-09-25 19:43:05 iteration 10373: mark test run
+- 2026-09-25 19:43:05 iteration 10374: note latency sample
