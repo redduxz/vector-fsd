@@ -21325,3 +21325,4 @@
 - 2026-09-25 20:15:28 iteration 8858: record sim observation
 - 2026-09-25 20:15:28 iteration 8859: record checkpoint
 - 2026-09-25 20:15:29 iteration 8860: log planning iteration
+- 2026-09-25 20:15:29 iteration 8861: log control tweak
