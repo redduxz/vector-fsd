@@ -32831,3 +32831,4 @@
 - 2026-09-25 20:58:01 iteration 20364: append session line
 - 2026-09-25 20:58:01 iteration 20365: note latency sample
 - 2026-09-25 20:58:01 iteration 20366: mark test run
+- 2026-09-25 20:58:02 iteration 20367: note tuning delta
