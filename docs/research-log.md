@@ -12283,3 +12283,4 @@
 - 2026-09-25 19:47:28 iteration 12281: jot safety review
 - 2026-09-25 19:47:28 iteration 12282: log loop iteration
 - 2026-09-25 19:47:28 iteration 12283: log loop iteration
+- 2026-09-25 19:47:28 iteration 12284: note latency sample
