@@ -2440,3 +2440,4 @@
 - 2026-09-25 19:24:36 iteration 2438: note latency sample
 - 2026-09-25 19:24:36 iteration 2439: jot safety review
 - 2026-09-25 19:24:36 iteration 2440: log perception note
+- 2026-09-25 19:24:36 iteration 2441: note tuning delta
