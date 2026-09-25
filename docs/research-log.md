@@ -848,3 +848,4 @@
 - 2026-09-25 19:21:25 iteration 846: jot safety review
 - 2026-09-25 19:21:25 iteration 847: note tuning delta
 - 2026-09-25 19:21:25 iteration 848: jot safety review
+- 2026-09-25 19:21:25 iteration 849: note latency sample
