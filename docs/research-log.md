@@ -17040,3 +17040,4 @@
 - 2026-09-25 19:59:35 iteration 4573: append session line
 - 2026-09-25 19:59:35 iteration 4574: log perception note
 - 2026-09-25 19:59:35 iteration 4575: jot safety review
+- 2026-09-25 19:59:35 iteration 4576: note latency sample
