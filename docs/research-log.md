@@ -7012,3 +7012,4 @@
 - 2026-09-25 19:35:23 iteration 7010: log control tweak
 - 2026-09-25 19:35:23 iteration 7011: jot safety review
 - 2026-09-25 19:35:23 iteration 7012: record checkpoint
+- 2026-09-25 19:35:23 iteration 7013: note latency sample
