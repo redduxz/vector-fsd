@@ -6031,3 +6031,4 @@
 - 2026-09-25 19:33:00 iteration 6029: mark test run
 - 2026-09-25 19:33:00 iteration 6030: record checkpoint
 - 2026-09-25 19:33:00 iteration 6031: record sim observation
+- 2026-09-25 19:33:00 iteration 6032: note latency sample
