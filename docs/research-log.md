@@ -15941,3 +15941,4 @@
 - 2026-09-25 19:56:53 iteration 3474: log control tweak
 - 2026-09-25 19:56:53 iteration 3475: log planning iteration
 - 2026-09-25 19:56:53 iteration 3476: mark test run
+- 2026-09-25 19:56:53 iteration 3477: log perception note
