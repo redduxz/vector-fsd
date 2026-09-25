@@ -20559,3 +20559,4 @@
 - 2026-09-25 20:12:23 iteration 8092: note latency sample
 - 2026-09-25 20:12:23 iteration 8093: jot safety review
 - 2026-09-25 20:12:23 iteration 8094: log planning iteration
+- 2026-09-25 20:12:24 iteration 8095: log control tweak
