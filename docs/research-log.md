@@ -4077,3 +4077,4 @@
 - 2026-09-25 19:28:26 iteration 4075: note latency sample
 - 2026-09-25 19:28:26 iteration 4076: log control tweak
 - 2026-09-25 19:28:26 iteration 4077: append session line
+- 2026-09-25 19:28:26 iteration 4078: log loop iteration
