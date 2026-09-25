@@ -531,3 +531,4 @@
 - 2026-09-25 19:20:48 iteration 529: log perception note
 - 2026-09-25 19:20:48 iteration 530: mark test run
 - 2026-09-25 19:20:48 iteration 531: note tuning delta
+- 2026-09-25 19:20:48 iteration 532: note latency sample
