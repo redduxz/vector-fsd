@@ -659,3 +659,4 @@
 - 2026-09-25 19:21:03 iteration 657: log loop iteration
 - 2026-09-25 19:21:03 iteration 658: record sim observation
 - 2026-09-25 19:21:03 iteration 659: log control tweak
+- 2026-09-25 19:21:03 iteration 660: record sim observation
