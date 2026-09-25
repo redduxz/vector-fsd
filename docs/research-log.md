@@ -7652,3 +7652,4 @@
 - 2026-09-25 19:36:51 iteration 7650: append session line
 - 2026-09-25 19:36:51 iteration 7651: jot safety review
 - 2026-09-25 19:36:51 iteration 7652: update research log
+- 2026-09-25 19:36:52 iteration 7653: note tuning delta
