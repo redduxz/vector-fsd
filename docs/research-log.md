@@ -2911,3 +2911,4 @@
 - 2026-09-25 19:25:39 iteration 2909: log control tweak
 - 2026-09-25 19:25:39 iteration 2910: log perception note
 - 2026-09-25 19:25:39 iteration 2911: note tuning delta
+- 2026-09-25 19:25:39 iteration 2912: update research log
