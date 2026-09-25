@@ -30521,3 +30521,4 @@
 - 2026-09-25 20:50:04 iteration 18054: update research log
 - 2026-09-25 20:50:04 iteration 18055: note tuning delta
 - 2026-09-25 20:50:04 iteration 18056: record sim observation
+- 2026-09-25 20:50:04 iteration 18057: log control tweak
