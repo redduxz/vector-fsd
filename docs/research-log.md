@@ -11940,3 +11940,4 @@
 - 2026-09-25 19:46:44 iteration 11938: append session line
 - 2026-09-25 19:46:44 iteration 11939: append session line
 - 2026-09-25 19:46:44 iteration 11940: mark test run
+- 2026-09-25 19:46:44 iteration 11941: record checkpoint
