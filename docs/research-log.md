@@ -11727,3 +11727,4 @@
 - 2026-09-25 19:46:17 iteration 11725: record checkpoint
 - 2026-09-25 19:46:17 iteration 11726: record checkpoint
 - 2026-09-25 19:46:17 iteration 11727: note tuning delta
+- 2026-09-25 19:46:17 iteration 11728: log control tweak
