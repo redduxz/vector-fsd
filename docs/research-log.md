@@ -5271,3 +5271,4 @@
 - 2026-09-25 19:31:11 iteration 5269: update research log
 - 2026-09-25 19:31:11 iteration 5270: append session line
 - 2026-09-25 19:31:11 iteration 5271: record checkpoint
+- 2026-09-25 19:31:12 iteration 5272: log control tweak
