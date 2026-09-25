@@ -30637,3 +30637,4 @@
 - 2026-09-25 20:50:26 iteration 18170: record sim observation
 - 2026-09-25 20:50:27 iteration 18171: jot safety review
 - 2026-09-25 20:50:27 iteration 18172: append session line
+- 2026-09-25 20:50:27 iteration 18173: note latency sample
