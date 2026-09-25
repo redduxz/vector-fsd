@@ -747,3 +747,4 @@
 - 2026-09-25 19:21:13 iteration 745: update research log
 - 2026-09-25 19:21:13 iteration 746: log control tweak
 - 2026-09-25 19:21:13 iteration 747: record checkpoint
+- 2026-09-25 19:21:13 iteration 748: log control tweak
