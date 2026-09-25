@@ -11591,3 +11591,4 @@
 - 2026-09-25 19:45:58 iteration 11589: append session line
 - 2026-09-25 19:45:58 iteration 11590: note latency sample
 - 2026-09-25 19:45:58 iteration 11591: record sim observation
+- 2026-09-25 19:45:58 iteration 11592: log perception note
