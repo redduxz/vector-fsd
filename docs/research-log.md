@@ -39181,3 +39181,4 @@
 - 2026-09-25 21:21:35 iteration 26714: record sim observation
 - 2026-09-25 21:21:35 iteration 26715: record checkpoint
 - 2026-09-25 21:21:35 iteration 26716: note tuning delta
+- 2026-09-25 21:21:35 iteration 26717: mark test run
