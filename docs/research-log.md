@@ -17485,3 +17485,4 @@
 - 2026-09-25 20:00:38 iteration 5018: update research log
 - 2026-09-25 20:00:38 iteration 5019: note tuning delta
 - 2026-09-25 20:00:38 iteration 5020: log control tweak
+- 2026-09-25 20:00:38 iteration 5021: log perception note
