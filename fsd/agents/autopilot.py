@@ -645,8 +645,23 @@ class AutopilotAgent:
         fn = _first_method(self.lane_detector, _DETECT_M)
         img = _reading_data(sensors, "camera_rgb")
         sem = _reading_data(sensors, "camera_sem")
+        # authoritative lane geometry from the map — vision stays as the
+        # fallback for any tick the projection fails
+        wp_arg, carla_map = None, None
+        actor = getattr(self.vehicle, "actor", None)
+        if actor is not None and self.world is not None:
+            try:
+                m = self.world.map
+                carla_map = m() if callable(m) else m
+                wp = carla_map.get_waypoint(
+                    actor.get_location(), project_to_road=True)
+                if wp is not None:
+                    wp_arg = (wp, ego)
+            except Exception:
+                wp_arg, carla_map = None, None
         return _as_lane(_call_flex(fn, img, ego,
                                    image=img, rgb=img, semantic=sem,
+                                   carla_waypoint=wp_arg, carla_map=carla_map,
                                    ego=ego, state=ego))
 
     def _detect_objects(self, ego, sensors):
