@@ -26300,3 +26300,4 @@
 - 2026-09-25 20:35:48 iteration 13833: note tuning delta
 - 2026-09-25 20:35:48 iteration 13834: log perception note
 - 2026-09-25 20:35:48 iteration 13835: log loop iteration
+- 2026-09-25 20:35:48 iteration 13836: log control tweak
