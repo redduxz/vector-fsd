@@ -12133,3 +12133,4 @@
 - 2026-09-25 19:47:08 iteration 12131: record checkpoint
 - 2026-09-25 19:47:08 iteration 12132: mark test run
 - 2026-09-25 19:47:09 iteration 12133: append session line
+- 2026-09-25 19:47:09 iteration 12134: record sim observation
