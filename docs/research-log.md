@@ -11987,3 +11987,4 @@
 - 2026-09-25 19:46:50 iteration 11985: jot safety review
 - 2026-09-25 19:46:50 iteration 11986: record checkpoint
 - 2026-09-25 19:46:50 iteration 11987: log loop iteration
+- 2026-09-25 19:46:50 iteration 11988: log control tweak
