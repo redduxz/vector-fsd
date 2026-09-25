@@ -1361,3 +1361,4 @@
 - 2026-09-25 19:22:24 iteration 1359: jot safety review
 - 2026-09-25 19:22:24 iteration 1360: record checkpoint
 - 2026-09-25 19:22:24 iteration 1361: log planning iteration
+- 2026-09-25 19:22:24 iteration 1362: note tuning delta
