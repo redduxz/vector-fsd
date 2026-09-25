@@ -1723,3 +1723,4 @@
 - 2026-09-25 19:23:05 iteration 1721: record checkpoint
 - 2026-09-25 19:23:06 iteration 1722: record checkpoint
 - 2026-09-25 19:23:06 iteration 1723: append session line
+- 2026-09-25 19:23:06 iteration 1724: log control tweak
