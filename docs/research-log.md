@@ -10715,3 +10715,4 @@
 - 2026-09-25 19:43:53 iteration 10713: log control tweak
 - 2026-09-25 19:43:53 iteration 10714: record sim observation
 - 2026-09-25 19:43:53 iteration 10715: record sim observation
+- 2026-09-25 19:43:53 iteration 10716: log planning iteration
