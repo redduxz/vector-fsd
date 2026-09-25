@@ -5094,3 +5094,4 @@
 - 2026-09-25 19:30:47 iteration 5092: log control tweak
 - 2026-09-25 19:30:47 iteration 5093: record sim observation
 - 2026-09-25 19:30:47 iteration 5094: note latency sample
+- 2026-09-25 19:30:47 iteration 5095: record checkpoint
