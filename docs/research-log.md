@@ -7949,3 +7949,4 @@
 - 2026-09-25 19:37:32 iteration 7947: note latency sample
 - 2026-09-25 19:37:32 iteration 7948: log planning iteration
 - 2026-09-25 19:37:32 iteration 7949: update research log
+- 2026-09-25 19:37:32 iteration 7950: log control tweak
