@@ -10233,3 +10233,4 @@
 - 2026-09-25 19:42:46 iteration 10231: update research log
 - 2026-09-25 19:42:47 iteration 10232: append session line
 - 2026-09-25 19:42:47 iteration 10233: record checkpoint
+- 2026-09-25 19:42:47 iteration 10234: log control tweak
