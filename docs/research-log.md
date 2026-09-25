@@ -14465,3 +14465,4 @@
 - 2026-09-25 19:53:25 iteration 1998: record sim observation
 - 2026-09-25 19:53:25 iteration 1999: record checkpoint
 - 2026-09-25 19:53:25 iteration 2000: log control tweak
+- 2026-09-25 19:53:26 iteration 2001: log loop iteration
