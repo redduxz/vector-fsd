@@ -4969,3 +4969,4 @@
 - 2026-09-25 19:30:30 iteration 4967: append session line
 - 2026-09-25 19:30:30 iteration 4968: note latency sample
 - 2026-09-25 19:30:30 iteration 4969: log planning iteration
+- 2026-09-25 19:30:30 iteration 4970: log perception note
