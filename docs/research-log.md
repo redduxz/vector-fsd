@@ -20129,3 +20129,4 @@
 - 2026-09-25 20:09:57 iteration 7662: log planning iteration
 - 2026-09-25 20:09:57 iteration 7663: jot safety review
 - 2026-09-25 20:09:58 iteration 7664: log control tweak
+- 2026-09-25 20:09:58 iteration 7665: log perception note
