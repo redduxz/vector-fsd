@@ -10268,3 +10268,4 @@
 - 2026-09-25 19:42:51 iteration 10266: note tuning delta
 - 2026-09-25 19:42:51 iteration 10267: jot safety review
 - 2026-09-25 19:42:51 iteration 10268: update research log
+- 2026-09-25 19:42:51 iteration 10269: note latency sample
