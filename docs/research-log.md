@@ -8785,3 +8785,4 @@
 - 2026-09-25 19:39:29 iteration 8783: log planning iteration
 - 2026-09-25 19:39:29 iteration 8784: note latency sample
 - 2026-09-25 19:39:29 iteration 8785: mark test run
+- 2026-09-25 19:39:29 iteration 8786: log perception note
