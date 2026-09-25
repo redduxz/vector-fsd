@@ -16800,3 +16800,4 @@
 - 2026-09-25 19:58:51 iteration 4333: log control tweak
 - 2026-09-25 19:58:51 iteration 4334: append session line
 - 2026-09-25 19:58:51 iteration 4335: note tuning delta
+- 2026-09-25 19:58:51 iteration 4336: log loop iteration
