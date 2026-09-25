@@ -5009,3 +5009,4 @@
 - 2026-09-25 19:30:35 iteration 5007: record sim observation
 - 2026-09-25 19:30:35 iteration 5008: record checkpoint
 - 2026-09-25 19:30:36 iteration 5009: log planning iteration
+- 2026-09-25 19:30:36 iteration 5010: note latency sample
