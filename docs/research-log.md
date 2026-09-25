@@ -7001,3 +7001,4 @@
 - 2026-09-25 19:35:21 iteration 6999: update research log
 - 2026-09-25 19:35:21 iteration 7000: append session line
 - 2026-09-25 19:35:21 iteration 7001: jot safety review
+- 2026-09-25 19:35:21 iteration 7002: note latency sample
