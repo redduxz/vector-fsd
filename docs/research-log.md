@@ -887,3 +887,4 @@
 - 2026-09-25 19:21:29 iteration 885: record sim observation
 - 2026-09-25 19:21:29 iteration 886: log planning iteration
 - 2026-09-25 19:21:29 iteration 887: note tuning delta
+- 2026-09-25 19:21:29 iteration 888: record sim observation
