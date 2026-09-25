@@ -4468,3 +4468,4 @@
 - 2026-09-25 19:29:21 iteration 4466: update research log
 - 2026-09-25 19:29:21 iteration 4467: note latency sample
 - 2026-09-25 19:29:21 iteration 4468: note tuning delta
+- 2026-09-25 19:29:22 iteration 4469: jot safety review
