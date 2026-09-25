@@ -5832,3 +5832,4 @@
 - 2026-09-25 19:32:32 iteration 5830: jot safety review
 - 2026-09-25 19:32:32 iteration 5831: update research log
 - 2026-09-25 19:32:33 iteration 5832: mark test run
+- 2026-09-25 19:32:33 iteration 5833: note tuning delta
