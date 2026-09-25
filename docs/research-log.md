@@ -7809,3 +7809,4 @@
 - 2026-09-25 19:37:13 iteration 7807: log perception note
 - 2026-09-25 19:37:13 iteration 7808: note tuning delta
 - 2026-09-25 19:37:14 iteration 7809: mark test run
+- 2026-09-25 19:37:14 iteration 7810: log control tweak
