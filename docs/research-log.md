@@ -37637,3 +37637,4 @@
 - 2026-09-25 21:16:27 iteration 25170: log perception note
 - 2026-09-25 21:16:27 iteration 25171: log control tweak
 - 2026-09-25 21:16:28 iteration 25172: jot safety review
+- 2026-09-25 21:16:28 iteration 25173: log control tweak
