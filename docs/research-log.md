@@ -13789,3 +13789,4 @@
 - 2026-09-25 19:51:53 iteration 1322: log loop iteration
 - 2026-09-25 19:51:53 iteration 1323: record checkpoint
 - 2026-09-25 19:51:54 iteration 1324: note tuning delta
+- 2026-09-25 19:51:54 iteration 1325: record sim observation
