@@ -770,3 +770,4 @@
 - 2026-09-25 19:21:16 iteration 768: update research log
 - 2026-09-25 19:21:16 iteration 769: log perception note
 - 2026-09-25 19:21:16 iteration 770: log control tweak
+- 2026-09-25 19:21:16 iteration 771: record sim observation
