@@ -12773,3 +12773,4 @@
 - 2026-09-25 19:49:28 iteration 306: note tuning delta
 - 2026-09-25 19:49:29 iteration 307: log perception note
 - 2026-09-25 19:49:29 iteration 308: note tuning delta
+- 2026-09-25 19:49:29 iteration 309: jot safety review
