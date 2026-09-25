@@ -6840,3 +6840,4 @@
 - 2026-09-25 19:34:59 iteration 6838: log planning iteration
 - 2026-09-25 19:34:59 iteration 6839: note tuning delta
 - 2026-09-25 19:34:59 iteration 6840: note latency sample
+- 2026-09-25 19:34:59 iteration 6841: log control tweak
