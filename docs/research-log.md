@@ -1213,3 +1213,4 @@
 - 2026-09-25 19:22:07 iteration 1211: log planning iteration
 - 2026-09-25 19:22:07 iteration 1212: append session line
 - 2026-09-25 19:22:07 iteration 1213: log perception note
+- 2026-09-25 19:22:07 iteration 1214: log control tweak
