@@ -8302,3 +8302,4 @@
 - 2026-09-25 19:38:17 iteration 8300: log planning iteration
 - 2026-09-25 19:38:17 iteration 8301: append session line
 - 2026-09-25 19:38:17 iteration 8302: record checkpoint
+- 2026-09-25 19:38:17 iteration 8303: log control tweak
