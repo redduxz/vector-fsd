@@ -21792,3 +21792,4 @@
 - 2026-09-25 20:17:25 iteration 9325: note latency sample
 - 2026-09-25 20:17:25 iteration 9326: update research log
 - 2026-09-25 20:17:25 iteration 9327: note tuning delta
+- 2026-09-25 20:17:26 iteration 9328: log control tweak
