@@ -279,3 +279,4 @@
 - 2026-09-25 19:20:19 iteration 277: record sim observation
 - 2026-09-25 19:20:19 iteration 278: log planning iteration
 - 2026-09-25 19:20:19 iteration 279: note tuning delta
+- 2026-09-25 19:20:19 iteration 280: note latency sample
