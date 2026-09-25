@@ -12921,3 +12921,4 @@
 - 2026-09-25 19:49:55 iteration 454: log perception note
 - 2026-09-25 19:49:55 iteration 455: log loop iteration
 - 2026-09-25 19:49:55 iteration 456: note latency sample
+- 2026-09-25 19:49:55 iteration 457: record sim observation
