@@ -7650,3 +7650,4 @@
 - 2026-09-25 19:36:51 iteration 7648: log control tweak
 - 2026-09-25 19:36:51 iteration 7649: log planning iteration
 - 2026-09-25 19:36:51 iteration 7650: append session line
+- 2026-09-25 19:36:51 iteration 7651: jot safety review
