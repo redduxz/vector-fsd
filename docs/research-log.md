@@ -19268,3 +19268,4 @@
 - 2026-09-25 20:06:00 iteration 6801: log loop iteration
 - 2026-09-25 20:06:01 iteration 6802: jot safety review
 - 2026-09-25 20:06:01 iteration 6803: log perception note
+- 2026-09-25 20:06:01 iteration 6804: log control tweak
