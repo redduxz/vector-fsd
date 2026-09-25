@@ -19275,3 +19275,4 @@
 - 2026-09-25 20:06:02 iteration 6808: update research log
 - 2026-09-25 20:06:02 iteration 6809: log perception note
 - 2026-09-25 20:06:02 iteration 6810: mark test run
+- 2026-09-25 20:06:03 iteration 6811: log control tweak
