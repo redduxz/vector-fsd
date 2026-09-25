@@ -4414,3 +4414,4 @@
 - 2026-09-25 19:29:14 iteration 4412: record sim observation
 - 2026-09-25 19:29:14 iteration 4413: mark test run
 - 2026-09-25 19:29:14 iteration 4414: note latency sample
+- 2026-09-25 19:29:14 iteration 4415: record sim observation
