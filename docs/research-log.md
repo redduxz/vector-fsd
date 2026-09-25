@@ -38747,3 +38747,4 @@
 - 2026-09-25 21:20:14 iteration 26280: append session line
 - 2026-09-25 21:20:14 iteration 26281: log control tweak
 - 2026-09-25 21:20:14 iteration 26282: record checkpoint
+- 2026-09-25 21:20:14 iteration 26283: log perception note
