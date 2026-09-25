@@ -15323,3 +15323,4 @@
 - 2026-09-25 19:55:29 iteration 2856: log loop iteration
 - 2026-09-25 19:55:29 iteration 2857: mark test run
 - 2026-09-25 19:55:29 iteration 2858: append session line
+- 2026-09-25 19:55:29 iteration 2859: note latency sample
