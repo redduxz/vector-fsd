@@ -37324,3 +37324,4 @@
 - 2026-09-25 21:15:18 iteration 24857: mark test run
 - 2026-09-25 21:15:19 iteration 24858: log planning iteration
 - 2026-09-25 21:15:19 iteration 24859: log loop iteration
+- 2026-09-25 21:15:19 iteration 24860: note tuning delta
