@@ -3963,3 +3963,4 @@
 - 2026-09-25 19:28:07 iteration 3961: record sim observation
 - 2026-09-25 19:28:08 iteration 3962: update research log
 - 2026-09-25 19:28:08 iteration 3963: record checkpoint
+- 2026-09-25 19:28:08 iteration 3964: note tuning delta
