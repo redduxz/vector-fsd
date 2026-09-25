@@ -97,3 +97,4 @@
 - 2026-09-25 19:19:58 iteration 95: jot safety review
 - 2026-09-25 19:19:58 iteration 96: record sim observation
 - 2026-09-25 19:19:58 iteration 97: record sim observation
+- 2026-09-25 19:19:58 iteration 98: log control tweak
