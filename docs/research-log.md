@@ -25270,3 +25270,4 @@
 - 2026-09-25 20:32:21 iteration 12803: log control tweak
 - 2026-09-25 20:32:21 iteration 12804: log loop iteration
 - 2026-09-25 20:32:21 iteration 12805: log control tweak
+- 2026-09-25 20:32:21 iteration 12806: record sim observation
