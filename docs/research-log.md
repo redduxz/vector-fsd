@@ -27897,3 +27897,4 @@
 - 2026-09-25 20:41:21 iteration 15430: record sim observation
 - 2026-09-25 20:41:21 iteration 15431: append session line
 - 2026-09-25 20:41:21 iteration 15432: jot safety review
+- 2026-09-25 20:41:21 iteration 15433: note tuning delta
