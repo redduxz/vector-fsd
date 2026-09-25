@@ -1,46 +1,38 @@
-<h1 align="center">NVIDIA-fsd</h1>
+<h1 align="center">Vector FSD</h1>
 
 <p align="center">
-  <b>A CARLA-paired full self-driving research stack — perception, planning, control, and a hard safety gate.</b>
+  <b>A safety-gated, full self-driving research stack paired with the CARLA simulator.</b>
 </p>
 
-<p align="center">
-  <a href=".github/workflows/ci.yml"><img alt="build" src="https://img.shields.io/badge/build-ci-36BCF7"></a>
-  <a href="LICENSE"><img alt="license" src="https://img.shields.io/badge/license-MIT-36BCF7"></a>
-  <a href="https://www.python.org/downloads/"><img alt="python" src="https://img.shields.io/badge/python-3.11-36BCF7"></a>
-  <a href="https://carla.org/"><img alt="carla" src="https://img.shields.io/badge/CARLA-0.9.15%2B-36BCF7"></a>
-</p>
-
-> **Status:** active side project, early stage. Parts of this codebase were built
-> with AI assistance and are still being cleaned up — you may see unused code or
-> rough edges while the architecture settles. Everything is tested against the
-> pipeline before it lands.
+> **Status:** an active side project in early development. Portions of this
+> codebase were produced with AI assistance and remain under review — one may
+> encounter unused code or rough edges whilst the architecture settles. All
+> contributions are exercised against the pipeline before landing.
 
 ---
 
-## Credits & stack
+## Acknowledgements
 
-Built in the open on top of tools that deserve the credit:
+This work stands upon tools and publications that deserve explicit credit:
 
-- **[CARLA](https://carla.org/)** — the open-source autonomous-driving simulator this stack drives in
-- **[NVIDIA DRIVE](https://developer.nvidia.com/drive)** — architectural inspiration for the safety-gated pipeline design
-- **[NumPy](https://numpy.org/)** — all the math under perception, planning, and control
-- **[PyYAML](https://pyyaml.org/)** — configuration
-- **[shields.io](https://shields.io/)** / **[Mermaid](https://mermaid.js.org/)** — badges and diagrams in this README
-- Members of the open-source autonomy ecosystem (openpilot, Autoware) for design reference
+- **[CARLA](https://carla.org/)** — the open-source autonomous-driving simulator in which the stack operates.
+- **[NVIDIA DRIVE](https://developer.nvidia.com/drive)** — architectural inspiration for the safety-gated pipeline design.
+- **[NumPy](https://numpy.org/)** — the numerical foundation beneath perception, planning, and control.
+- **[PyYAML](https://pyyaml.org/)** — configuration management.
+- The wider open-source autonomy community — openpilot and Autoware chiefly — for design reference.
 
 ---
 
-## What it is
+## Overview
 
-`fsd` is a modular end-to-end autonomy stack that drives an ego vehicle inside the
-[CARLA](https://carla.org/) simulator. It follows the classical **Sense → Plan → Act**
-decomposition with one deliberate twist: **every actuator command passes through a
-safety monitor** before it reaches the vehicle. Perception can be wrong, planning
-can stall, control can saturate — the safety gate is the last line of defense and
-can always force a minimum-risk safe stop.
+`fsd` is a modular, end-to-end autonomy stack driving an ego vehicle within CARLA.
+It follows the classical **Sense → Plan → Act** decomposition with one deliberate
+modification: **every actuator command is vetted by a safety monitor before
+reaching the vehicle**. Perception may err, planning may stall, and control may
+saturate — the safety gate remains the final line of defence and may always
+command a minimum-risk stop.
 
-## Architecture overview
+## Architecture
 
 ```mermaid
 flowchart LR
@@ -54,104 +46,108 @@ flowchart LR
     subgraph Stack["fsd autonomy stack · 20 Hz"]
         brg["carla_bridge<br/>world · vehicle · traffic"]
         per["perception<br/>lanes · objects · lights · fusion · occupancy"]
-        pln["planning<br/>behavior · route · trajectory · costmap"]
+        pln["planning<br/>behaviour · route · trajectory · costmap"]
         ctl["control<br/>PID · lateral · longitudinal · MPC"]
         gate{"safety gate<br/>TTC · speed cap · watchdog · free space"}
     end
 
     Sensors --> brg --> per --> pln --> ctl --> gate
     gate -->|pass| act["Actuation<br/>throttle / brake / steer"]
-    gate -->|violation| stop["Minimum-risk maneuver<br/>controlled safe stop"]
+    gate -->|violation| stop["Minimum-risk manoeuvre<br/>controlled safe stop"]
     act --> Sensors
 ```
 
-## Quickstart
+## Getting started
 
-**Prerequisites:** Python 3.11 · CARLA 0.9.15+ server (Windows or Linux)
+**Prerequisites:** Python 3.11; a CARLA 0.9.15+ server (Windows or Linux).
 
 ```bash
-# 1 — Python deps
+# 1 — Python dependencies
 pip install -r requirements.txt
 
-# 2 — get CARLA 0.9.15
+# 2 — obtain CARLA 0.9.15
 powershell -ExecutionPolicy Bypass -File scripts/setup_carla.ps1   # Windows helper
-# or grab a release: https://github.com/carla-simulator/carla/releases
+# alternatively: https://github.com/carla-simulator/carla/releases
 
-# 3 — start the simulator (separate terminal)
+# 3 — launch the simulator (in a separate terminal)
 %CARLA_ROOT%\CarlaUE4.exe        # Windows
 $CARLA_ROOT/CarlaUE4.sh          # Linux
 
 # 4 — run the autopilot
 python -m fsd.agents.autopilot --config configs/default.yaml
 
-# no simulator? synthetic smoke mode runs the full pipeline anyway:
+# without a simulator, a synthetic smoke mode exercises the full pipeline:
 python -m fsd.agents.autopilot --no-carla --ticks 300
 ```
 
-### Configs
+### Configuration
 
 | File | Purpose |
 | --- | --- |
-| `configs/default.yaml` | Urban driving in `Town10HD_Opt`, 60 km/h safety cap |
-| `configs/highway.yaml` | Highway profile — higher speed cap, longer horizon |
-| `configs/sensors.yaml` | Sensor mounts + parameters (camera, lidar, radar, GNSS, IMU) |
+| `configs/default.yaml` | Urban driving in `Town10HD_Opt`; 60 km/h safety cap |
+| `configs/highway.yaml` | Highway profile; higher speed cap and longer horizon |
+| `configs/sensors.yaml` | Sensor mounts and parameters (camera, lidar, radar, GNSS, IMU) |
 
 ## Module map
 
 | Module | Path | Responsibility |
 | --- | --- | --- |
-| `core` | `fsd/core/` | Shared data contracts, YAML config loader, structured logging |
+| `core` | `fsd/core/` | Shared data contracts, YAML configuration, structured logging |
 | `carla_bridge` | `fsd/carla_bridge/` | World lifecycle, ego vehicle, sensor suite, traffic manager |
-| `perception` | `fsd/perception/` | Lane detection, object detection, traffic lights, fusion, occupancy grid, segmentation |
-| `planning` | `fsd/planning/` | Behavior FSM, route planner, trajectory generation, costmap |
-| `control` | `fsd/control/` | PID · Stanley lateral · speed-tracking longitudinal · MPC-lite |
+| `perception` | `fsd/perception/` | Lane detection, object detection, traffic lights, fusion, occupancy, segmentation |
+| `planning` | `fsd/planning/` | Behavioural FSM, route planner, trajectory generation, costmap |
+| `control` | `fsd/control/` | PID, Stanley lateral, speed-tracking longitudinal, MPC-lite |
 | `safety` | `fsd/safety/` | Rule-engine monitor, watchdog, diagnostics, minimum-risk fallback |
 | `agents` | `fsd/agents/` | Autopilot main loop (entry point), manual override |
-| `ml` | `fsd/ml/` | Model registry, inference engine, imitation-learning trainer, run recorder |
+| `ml` | `fsd/ml/` | Model registry, inference engine, imitation-learning trainer, recorder |
 
 ## Safety model
 
-Safety here is a **gate, not a feature**. A `ControlCommand` never reaches the
-vehicle directly — `fsd.safety.monitor` evaluates it against the configured
-envelope on every tick:
+Safety is treated as a **gate rather than a feature**. A `ControlCommand` never
+reaches the vehicle directly; `fsd.safety.monitor` evaluates every demand against
+the configured envelope on each tick:
 
-- **Time-to-collision** — TTC below `min_ttc_s` forces intervention
-- **Speed cap** — demands above `max_speed_mps` are cut
-- **Accel/brake limits** — exceeding `max_accel_mps2` / `max_brake_mps2` is clamped
-- **Free space** — `free_space_ahead` below `min_free_space_m` blocks forward motion
-- **Watchdog** — pipeline data older than `watchdog_timeout_s` is treated as a stall
+- **Time-to-collision** — a TTC below `min_ttc_s` compels intervention
+- **Speed cap** — demands exceeding `max_speed_mps` are curtailed
+- **Acceleration limits** — anything beyond `max_accel_mps2` / `max_brake_mps2` is clamped
+- **Free space** — `free_space_ahead` beneath `min_free_space_m` prohibits forward motion
+- **Watchdog** — pipeline data older than `watchdog_timeout_s` constitutes a stall
 
-Violations move the drive mode `ENGAGED → DEGRADED → SAFE_STOP`. `SAFE_STOP` is
-terminal for the run: throttle cut, brakes ramp to max, vehicle holds until a
-human resets. Full detail in [docs/SAFETY.md](docs/SAFETY.md); pipeline internals
-in [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
+Violations progress the drive mode `ENGAGED → DEGRADED → SAFE_STOP`. `SAFE_STOP`
+is terminal for the run: throttle is cut, brakes ramp to maximum, and the vehicle
+holds position pending human reset. The full safety case is documented in
+[docs/SAFETY.md](docs/SAFETY.md); pipeline internals in
+[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md); the performance and C++ migration
+programme in [docs/PERFORMANCE.md](docs/PERFORMANCE.md).
 
 ## Testing
 
 ```bash
-python -m compileall fsd          # every module compiles clean
-python -m unittest discover tests # 36 tests: types, safety rules, planning
+python -m compileall fsd           # every module compiles cleanly
+python -m unittest discover tests  # 36 tests: contracts, safety rules, planning
 ```
 
-CI runs both on every push ([.github/workflows/ci.yml](.github/workflows/ci.yml)).
+Continuous integration executes both on every push
+([.github/workflows/ci.yml](.github/workflows/ci.yml)).
 
 ## Roadmap
 
-- [x] Core contracts, config, logging
+- [x] Core contracts, configuration, logging
 - [x] Safety-gated control pipeline
-- [x] CARLA bridge + synthetic smoke mode
-- [ ] Full perception suite on camera/lidar (fusion + occupancy + segmentation hardening)
-- [ ] Learned components in `fsd.ml` (onnxruntime inference, recorded training data)
-- [ ] Scenario + fault-injection harness, regression metrics
-- [ ] Closed-loop eval dashboards (routes completed, disengagements, rule hits)
+- [x] CARLA bridge and synthetic smoke mode
+- [ ] C++ hot-path port for safety monitor and control loop (see docs/PERFORMANCE.md)
+- [ ] TensorRT-backed perception inference
+- [ ] Scenario and fault-injection harness with regression metrics
+- [ ] Closed-loop evaluation dashboards (routes completed, disengagements, rule hits)
 
 ## Disclaimer
 
-> **Research / simulation only.** This project is an educational autonomy stack
-> for the CARLA simulator. It has not been validated for any real vehicle and
-> **must never be used on public roads or with physical actuators.** All safety
-> mechanisms are best-effort sim constructs, not certified automotive functions.
+> **Research and simulation only.** This project is an educational autonomy
+> stack for the CARLA simulator. It has not been validated for any physical
+> vehicle and **must never be employed on public roads or with physical
+> actuators**. All safety mechanisms are best-effort simulation constructs, not
+> certified automotive functions.
 
 ---
 
-<p align="center"><samp>built by redduxz · contributions welcome when it's stable</samp></p>
+<p align="center"><samp>built by redduxz · distributed under the MIT licence</samp></p>
