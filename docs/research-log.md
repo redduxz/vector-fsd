@@ -8507,3 +8507,4 @@
 - 2026-09-25 19:38:50 iteration 8505: note latency sample
 - 2026-09-25 19:38:50 iteration 8506: append session line
 - 2026-09-25 19:38:50 iteration 8507: record sim observation
+- 2026-09-25 19:38:50 iteration 8508: note latency sample
