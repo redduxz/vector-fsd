@@ -16481,3 +16481,4 @@
 - 2026-09-25 19:58:07 iteration 4014: append session line
 - 2026-09-25 19:58:07 iteration 4015: note tuning delta
 - 2026-09-25 19:58:07 iteration 4016: note tuning delta
+- 2026-09-25 19:58:07 iteration 4017: log loop iteration
