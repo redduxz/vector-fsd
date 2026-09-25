@@ -31959,3 +31959,4 @@
 - 2026-09-25 20:55:06 iteration 19492: log planning iteration
 - 2026-09-25 20:55:06 iteration 19493: log loop iteration
 - 2026-09-25 20:55:06 iteration 19494: note latency sample
+- 2026-09-25 20:55:06 iteration 19495: log control tweak
