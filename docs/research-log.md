@@ -743,3 +743,4 @@
 - 2026-09-25 19:21:13 iteration 741: append session line
 - 2026-09-25 19:21:13 iteration 742: mark test run
 - 2026-09-25 19:21:13 iteration 743: log loop iteration
+- 2026-09-25 19:21:13 iteration 744: jot safety review
