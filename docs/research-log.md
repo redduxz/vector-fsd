@@ -10205,3 +10205,4 @@
 - 2026-09-25 19:42:43 iteration 10203: note latency sample
 - 2026-09-25 19:42:43 iteration 10204: mark test run
 - 2026-09-25 19:42:43 iteration 10205: log control tweak
+- 2026-09-25 19:42:43 iteration 10206: log planning iteration
