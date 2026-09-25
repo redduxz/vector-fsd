@@ -38951,3 +38951,4 @@
 - 2026-09-25 21:20:50 iteration 26484: jot safety review
 - 2026-09-25 21:20:50 iteration 26485: record sim observation
 - 2026-09-25 21:20:50 iteration 26486: record checkpoint
+- 2026-09-25 21:20:51 iteration 26487: log control tweak
