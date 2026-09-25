@@ -4180,3 +4180,4 @@
 - 2026-09-25 19:28:41 iteration 4178: record checkpoint
 - 2026-09-25 19:28:41 iteration 4179: log loop iteration
 - 2026-09-25 19:28:41 iteration 4180: note latency sample
+- 2026-09-25 19:28:41 iteration 4181: mark test run
