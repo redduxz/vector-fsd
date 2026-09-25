@@ -7530,3 +7530,4 @@
 - 2026-09-25 19:36:35 iteration 7528: update research log
 - 2026-09-25 19:36:35 iteration 7529: mark test run
 - 2026-09-25 19:36:35 iteration 7530: jot safety review
+- 2026-09-25 19:36:35 iteration 7531: note tuning delta
