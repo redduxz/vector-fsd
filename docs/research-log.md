@@ -17548,3 +17548,4 @@
 - 2026-09-25 20:00:46 iteration 5081: log planning iteration
 - 2026-09-25 20:00:46 iteration 5082: log perception note
 - 2026-09-25 20:00:47 iteration 5083: record checkpoint
+- 2026-09-25 20:00:47 iteration 5084: log control tweak
