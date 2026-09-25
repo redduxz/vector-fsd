@@ -10365,3 +10365,4 @@
 - 2026-09-25 19:43:04 iteration 10363: mark test run
 - 2026-09-25 19:43:04 iteration 10364: append session line
 - 2026-09-25 19:43:04 iteration 10365: jot safety review
+- 2026-09-25 19:43:04 iteration 10366: note tuning delta
