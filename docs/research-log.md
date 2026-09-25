@@ -477,3 +477,4 @@
 - 2026-09-25 19:20:42 iteration 475: update research log
 - 2026-09-25 19:20:42 iteration 476: append session line
 - 2026-09-25 19:20:42 iteration 477: note tuning delta
+- 2026-09-25 19:20:42 iteration 478: mark test run
