@@ -36530,3 +36530,4 @@
 - 2026-09-25 21:11:59 iteration 24063: log loop iteration
 - 2026-09-25 21:11:59 iteration 24064: jot safety review
 - 2026-09-25 21:11:59 iteration 24065: append session line
+- 2026-09-25 21:11:59 iteration 24066: note tuning delta
