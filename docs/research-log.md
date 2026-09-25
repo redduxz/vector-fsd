@@ -1526,3 +1526,4 @@
 - 2026-09-25 19:22:43 iteration 1524: jot safety review
 - 2026-09-25 19:22:43 iteration 1525: log planning iteration
 - 2026-09-25 19:22:43 iteration 1526: log perception note
+- 2026-09-25 19:22:43 iteration 1527: note latency sample
