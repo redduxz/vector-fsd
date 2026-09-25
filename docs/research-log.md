@@ -37698,3 +37698,4 @@
 - 2026-09-25 21:16:41 iteration 25231: record sim observation
 - 2026-09-25 21:16:42 iteration 25232: note tuning delta
 - 2026-09-25 21:16:42 iteration 25233: note latency sample
+- 2026-09-25 21:16:42 iteration 25234: log control tweak
