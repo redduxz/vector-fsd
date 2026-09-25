@@ -9305,3 +9305,4 @@
 - 2026-09-25 19:40:39 iteration 9303: record sim observation
 - 2026-09-25 19:40:39 iteration 9304: append session line
 - 2026-09-25 19:40:39 iteration 9305: log control tweak
+- 2026-09-25 19:40:39 iteration 9306: note tuning delta
