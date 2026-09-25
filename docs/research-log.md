@@ -32844,3 +32844,4 @@
 - 2026-09-25 20:58:04 iteration 20377: mark test run
 - 2026-09-25 20:58:04 iteration 20378: mark test run
 - 2026-09-25 20:58:04 iteration 20379: log control tweak
+- 2026-09-25 20:58:04 iteration 20380: log perception note
