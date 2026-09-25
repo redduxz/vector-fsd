@@ -8327,3 +8327,4 @@
 - 2026-09-25 19:38:25 iteration 8325: mark test run
 - 2026-09-25 19:38:25 iteration 8326: record checkpoint
 - 2026-09-25 19:38:25 iteration 8327: update research log
+- 2026-09-25 19:38:26 iteration 8328: note latency sample
