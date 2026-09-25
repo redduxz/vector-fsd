@@ -4085,3 +4085,4 @@
 - 2026-09-25 19:28:27 iteration 4083: jot safety review
 - 2026-09-25 19:28:27 iteration 4084: log perception note
 - 2026-09-25 19:28:28 iteration 4085: append session line
+- 2026-09-25 19:28:28 iteration 4086: log control tweak
