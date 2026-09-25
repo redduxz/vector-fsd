@@ -4190,3 +4190,4 @@
 - 2026-09-25 19:28:42 iteration 4188: log control tweak
 - 2026-09-25 19:28:42 iteration 4189: record sim observation
 - 2026-09-25 19:28:42 iteration 4190: log perception note
+- 2026-09-25 19:28:42 iteration 4191: note tuning delta
