@@ -5938,3 +5938,4 @@
 - 2026-09-25 19:32:47 iteration 5936: log control tweak
 - 2026-09-25 19:32:48 iteration 5937: log loop iteration
 - 2026-09-25 19:32:48 iteration 5938: log perception note
+- 2026-09-25 19:32:48 iteration 5939: mark test run
