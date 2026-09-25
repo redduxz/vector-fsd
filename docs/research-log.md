@@ -1716,3 +1716,4 @@
 - 2026-09-25 19:23:05 iteration 1714: log control tweak
 - 2026-09-25 19:23:05 iteration 1715: log control tweak
 - 2026-09-25 19:23:05 iteration 1716: log planning iteration
+- 2026-09-25 19:23:05 iteration 1717: record sim observation
