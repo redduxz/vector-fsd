@@ -37667,3 +37667,4 @@
 - 2026-09-25 21:16:34 iteration 25200: record checkpoint
 - 2026-09-25 21:16:35 iteration 25201: note latency sample
 - 2026-09-25 21:16:35 iteration 25202: note latency sample
+- 2026-09-25 21:16:35 iteration 25203: log perception note
