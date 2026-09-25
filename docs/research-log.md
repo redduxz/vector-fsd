@@ -20489,3 +20489,4 @@
 - 2026-09-25 20:12:07 iteration 8022: append session line
 - 2026-09-25 20:12:08 iteration 8023: update research log
 - 2026-09-25 20:12:08 iteration 8024: mark test run
+- 2026-09-25 20:12:08 iteration 8025: note tuning delta
