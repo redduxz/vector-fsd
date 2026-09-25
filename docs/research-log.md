@@ -3386,3 +3386,4 @@
 - 2026-09-25 19:26:42 iteration 3384: log planning iteration
 - 2026-09-25 19:26:42 iteration 3385: jot safety review
 - 2026-09-25 19:26:42 iteration 3386: record sim observation
+- 2026-09-25 19:26:42 iteration 3387: note tuning delta
