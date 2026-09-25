@@ -8880,3 +8880,4 @@
 - 2026-09-25 19:39:42 iteration 8878: log control tweak
 - 2026-09-25 19:39:42 iteration 8879: update research log
 - 2026-09-25 19:39:42 iteration 8880: note latency sample
+- 2026-09-25 19:39:42 iteration 8881: record checkpoint
