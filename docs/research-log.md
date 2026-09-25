@@ -30526,3 +30526,4 @@
 - 2026-09-25 20:50:05 iteration 18059: mark test run
 - 2026-09-25 20:50:05 iteration 18060: log control tweak
 - 2026-09-25 20:50:05 iteration 18061: append session line
+- 2026-09-25 20:50:05 iteration 18062: note tuning delta
