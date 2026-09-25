@@ -10926,3 +10926,4 @@
 - 2026-09-25 19:44:22 iteration 10924: log perception note
 - 2026-09-25 19:44:22 iteration 10925: log control tweak
 - 2026-09-25 19:44:22 iteration 10926: log perception note
+- 2026-09-25 19:44:22 iteration 10927: jot safety review
