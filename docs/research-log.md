@@ -21207,3 +21207,4 @@
 - 2026-09-25 20:15:03 iteration 8740: mark test run
 - 2026-09-25 20:15:03 iteration 8741: record checkpoint
 - 2026-09-25 20:15:03 iteration 8742: append session line
+- 2026-09-25 20:15:03 iteration 8743: log control tweak
