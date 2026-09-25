@@ -529,6 +529,7 @@ class AutopilotAgent:
         self._recover_steer = 0.0
         self._relocations = 0
         self._recorder = None
+        self._metrics = None
         self._setup_done = False
 
     # ------------------------------------------------------------------ setup
@@ -1017,6 +1018,16 @@ class AutopilotAgent:
         self._recorder = RunRecorder(out_dir=out_dir)
         log.info("recording (obs, act) pairs -> %s", out_dir)
 
+    def enable_metrics(self) -> None:
+        """Attach the streaming closed-loop metrics aggregator."""
+        try:
+            from fsd.eval.metrics import ClosedLoopMetrics
+        except Exception as exc:
+            log.warning("metrics unavailable: %s", exc)
+            return
+        self._metrics = ClosedLoopMetrics(dt=self.dt)
+        log.info("closed-loop metrics collection enabled")
+
     # ------------------------------------------------------------------- run
 
     def run(self, max_ticks: int = 0, duration_s: float = 0.0,
@@ -1047,6 +1058,16 @@ class AutopilotAgent:
                     last_res = dict(tick=self._tick_idx, cmd=cmd,
                                     mode=DriveMode.SAFE_STOP, crashed=True)
                 self._periodic_log(last_res)
+                if self._metrics is not None:
+                    try:
+                        self._metrics.observe(
+                            last_res, self._tick_idx * self.dt)
+                        ev = getattr(getattr(self, "safety", None),
+                                     "event_log", None)
+                        if ev:
+                            self._metrics.ingest_safety_events(ev)
+                    except Exception:
+                        log.debug("metrics observe failed", exc_info=True)
                 if max_ticks and self._tick_idx >= max_ticks:
                     break
                 if pace:
@@ -1059,8 +1080,15 @@ class AutopilotAgent:
             self._running = False
         log.info("loop finished after %d ticks (mode=%s)",
                  self._tick_idx, self.mode.name)
+        metrics = None
+        if self._metrics is not None:
+            try:
+                metrics = self._metrics.finalize()
+            except Exception:
+                log.debug("metrics finalize failed", exc_info=True)
         return {"ticks": self._tick_idx, "mode": self.mode,
-                "failures": dict(self._fail_counts), "last": last_res}
+                "failures": dict(self._fail_counts), "last": last_res,
+                "metrics": metrics}
 
     def _periodic_log(self, res: Dict[str, Any]) -> None:
         per = max(1, int(round(1.0 / self.dt)))
@@ -1154,6 +1182,8 @@ def main(argv: Optional[List[str]] = None) -> int:
                    help="disable real-time pacing")
     p.add_argument("--record", default="",
                    help="directory to log (obs, act) .npz episodes into")
+    p.add_argument("--metrics-out", default="",
+                   help="write finalized closed-loop metrics JSON here")
     args = p.parse_args(argv)
 
     cfg = Config.load(args.config)
@@ -1176,12 +1206,24 @@ def main(argv: Optional[List[str]] = None) -> int:
 
     if args.record:
         agent.enable_recording(args.record)
+    if args.metrics_out:
+        agent.enable_metrics()
     try:
         result = agent.run(max_ticks=args.ticks,
                            duration_s=args.duration,
                            pace=not args.fast)
     finally:
         agent.cleanup()
+    if args.metrics_out and result.get("metrics") is not None:
+        import json
+        from dataclasses import asdict
+        try:
+            with open(args.metrics_out, "w") as f:
+                json.dump(asdict(result["metrics"]), f, indent=2,
+                          default=str)
+            log.info("metrics written -> %s", args.metrics_out)
+        except Exception as exc:
+            log.warning("metrics dump failed: %s", exc)
     return 0 if not result["failures"] else 0
 
 
