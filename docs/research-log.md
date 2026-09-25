@@ -8016,3 +8016,4 @@
 - 2026-09-25 19:37:41 iteration 8014: log planning iteration
 - 2026-09-25 19:37:41 iteration 8015: record sim observation
 - 2026-09-25 19:37:41 iteration 8016: record sim observation
+- 2026-09-25 19:37:41 iteration 8017: log control tweak
