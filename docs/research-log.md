@@ -22388,3 +22388,4 @@
 - 2026-09-25 20:20:01 iteration 9921: append session line
 - 2026-09-25 20:20:01 iteration 9922: mark test run
 - 2026-09-25 20:20:01 iteration 9923: update research log
+- 2026-09-25 20:20:01 iteration 9924: note latency sample
