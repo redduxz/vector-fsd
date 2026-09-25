@@ -20335,3 +20335,4 @@
 - 2026-09-25 20:11:11 iteration 7868: record checkpoint
 - 2026-09-25 20:11:11 iteration 7869: note latency sample
 - 2026-09-25 20:11:12 iteration 7870: note tuning delta
+- 2026-09-25 20:11:12 iteration 7871: log control tweak
