@@ -29306,3 +29306,4 @@
 - 2026-09-25 20:46:06 iteration 16839: log planning iteration
 - 2026-09-25 20:46:07 iteration 16840: append session line
 - 2026-09-25 20:46:07 iteration 16841: log loop iteration
+- 2026-09-25 20:46:07 iteration 16842: log control tweak
