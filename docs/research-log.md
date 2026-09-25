@@ -2845,3 +2845,4 @@
 - 2026-09-25 19:25:30 iteration 2843: log perception note
 - 2026-09-25 19:25:30 iteration 2844: log planning iteration
 - 2026-09-25 19:25:30 iteration 2845: note latency sample
+- 2026-09-25 19:25:30 iteration 2846: note tuning delta
