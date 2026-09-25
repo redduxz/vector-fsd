@@ -9685,3 +9685,4 @@
 - 2026-09-25 19:41:28 iteration 9683: jot safety review
 - 2026-09-25 19:41:28 iteration 9684: record checkpoint
 - 2026-09-25 19:41:28 iteration 9685: log control tweak
+- 2026-09-25 19:41:28 iteration 9686: mark test run
