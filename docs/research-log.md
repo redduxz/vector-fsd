@@ -8990,3 +8990,4 @@
 - 2026-09-25 19:39:57 iteration 8988: mark test run
 - 2026-09-25 19:39:57 iteration 8989: log planning iteration
 - 2026-09-25 19:39:57 iteration 8990: append session line
+- 2026-09-25 19:39:57 iteration 8991: record checkpoint
