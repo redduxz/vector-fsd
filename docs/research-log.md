@@ -21966,3 +21966,4 @@
 - 2026-09-25 20:18:10 iteration 9499: jot safety review
 - 2026-09-25 20:18:10 iteration 9500: log loop iteration
 - 2026-09-25 20:18:11 iteration 9501: log planning iteration
+- 2026-09-25 20:18:11 iteration 9502: note tuning delta
