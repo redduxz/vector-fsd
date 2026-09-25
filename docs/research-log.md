@@ -5,3 +5,4 @@
 - 2026-09-25 19:19:47 iteration 3: note tuning delta
 - 2026-09-25 19:19:47 iteration 4: log planning iteration
 - 2026-09-25 19:19:47 iteration 5: log loop iteration
+- 2026-09-25 19:19:47 iteration 6: log perception note
