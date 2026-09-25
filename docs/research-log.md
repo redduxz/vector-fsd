@@ -14295,3 +14295,4 @@
 - 2026-09-25 19:53:02 iteration 1828: jot safety review
 - 2026-09-25 19:53:02 iteration 1829: append session line
 - 2026-09-25 19:53:02 iteration 1830: record sim observation
+- 2026-09-25 19:53:02 iteration 1831: log control tweak
