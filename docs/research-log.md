@@ -3768,3 +3768,4 @@
 - 2026-09-25 19:27:36 iteration 3766: mark test run
 - 2026-09-25 19:27:37 iteration 3767: mark test run
 - 2026-09-25 19:27:37 iteration 3768: append session line
+- 2026-09-25 19:27:37 iteration 3769: note latency sample
