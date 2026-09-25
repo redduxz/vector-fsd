@@ -7113,3 +7113,4 @@
 - 2026-09-25 19:35:37 iteration 7111: append session line
 - 2026-09-25 19:35:37 iteration 7112: log perception note
 - 2026-09-25 19:35:37 iteration 7113: mark test run
+- 2026-09-25 19:35:37 iteration 7114: record sim observation
