@@ -22674,3 +22674,4 @@
 - 2026-09-25 20:21:36 iteration 10207: append session line
 - 2026-09-25 20:21:36 iteration 10208: mark test run
 - 2026-09-25 20:21:37 iteration 10209: log loop iteration
+- 2026-09-25 20:21:37 iteration 10210: note tuning delta
