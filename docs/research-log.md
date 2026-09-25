@@ -11245,3 +11245,4 @@
 - 2026-09-25 19:45:10 iteration 11243: record checkpoint
 - 2026-09-25 19:45:11 iteration 11244: note latency sample
 - 2026-09-25 19:45:11 iteration 11245: mark test run
+- 2026-09-25 19:45:11 iteration 11246: jot safety review
