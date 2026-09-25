@@ -39151,3 +39151,4 @@
 - 2026-09-25 21:21:29 iteration 26684: log perception note
 - 2026-09-25 21:21:30 iteration 26685: note latency sample
 - 2026-09-25 21:21:30 iteration 26686: note tuning delta
+- 2026-09-25 21:21:30 iteration 26687: record sim observation
