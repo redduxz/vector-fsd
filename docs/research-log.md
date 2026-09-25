@@ -868,3 +868,4 @@
 - 2026-09-25 19:21:27 iteration 866: append session line
 - 2026-09-25 19:21:27 iteration 867: log perception note
 - 2026-09-25 19:21:27 iteration 868: note tuning delta
+- 2026-09-25 19:21:27 iteration 869: log control tweak
