@@ -27481,3 +27481,4 @@
 - 2026-09-25 20:40:11 iteration 15014: log planning iteration
 - 2026-09-25 20:40:11 iteration 15015: record checkpoint
 - 2026-09-25 20:40:11 iteration 15016: jot safety review
+- 2026-09-25 20:40:11 iteration 15017: note latency sample
