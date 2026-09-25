@@ -2545,3 +2545,4 @@
 - 2026-09-25 19:24:49 iteration 2543: log loop iteration
 - 2026-09-25 19:24:49 iteration 2544: mark test run
 - 2026-09-25 19:24:49 iteration 2545: note latency sample
+- 2026-09-25 19:24:49 iteration 2546: record checkpoint
