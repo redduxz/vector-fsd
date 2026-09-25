@@ -4712,3 +4712,4 @@
 - 2026-09-25 19:29:54 iteration 4710: note latency sample
 - 2026-09-25 19:29:55 iteration 4711: log planning iteration
 - 2026-09-25 19:29:55 iteration 4712: jot safety review
+- 2026-09-25 19:29:55 iteration 4713: log perception note
