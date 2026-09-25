@@ -4503,3 +4503,4 @@
 - 2026-09-25 19:29:26 iteration 4501: record checkpoint
 - 2026-09-25 19:29:26 iteration 4502: log perception note
 - 2026-09-25 19:29:26 iteration 4503: update research log
+- 2026-09-25 19:29:26 iteration 4504: note tuning delta
