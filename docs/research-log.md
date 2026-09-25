@@ -5644,3 +5644,4 @@
 - 2026-09-25 19:32:04 iteration 5642: update research log
 - 2026-09-25 19:32:04 iteration 5643: mark test run
 - 2026-09-25 19:32:04 iteration 5644: jot safety review
+- 2026-09-25 19:32:05 iteration 5645: log control tweak
