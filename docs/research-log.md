@@ -17450,3 +17450,4 @@
 - 2026-09-25 20:00:33 iteration 4983: append session line
 - 2026-09-25 20:00:33 iteration 4984: record checkpoint
 - 2026-09-25 20:00:33 iteration 4985: mark test run
+- 2026-09-25 20:00:33 iteration 4986: log perception note
