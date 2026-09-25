@@ -391,3 +391,4 @@
 - 2026-09-25 19:20:32 iteration 389: update research log
 - 2026-09-25 19:20:32 iteration 390: log control tweak
 - 2026-09-25 19:20:32 iteration 391: note tuning delta
+- 2026-09-25 19:20:32 iteration 392: record checkpoint
