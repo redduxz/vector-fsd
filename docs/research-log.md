@@ -5370,3 +5370,4 @@
 - 2026-09-25 19:31:25 iteration 5368: note tuning delta
 - 2026-09-25 19:31:25 iteration 5369: record sim observation
 - 2026-09-25 19:31:25 iteration 5370: record checkpoint
+- 2026-09-25 19:31:25 iteration 5371: log control tweak
