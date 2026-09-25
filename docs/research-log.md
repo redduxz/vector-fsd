@@ -35269,3 +35269,4 @@
 - 2026-09-25 21:07:25 iteration 22802: record checkpoint
 - 2026-09-25 21:07:25 iteration 22803: note tuning delta
 - 2026-09-25 21:07:25 iteration 22804: update research log
+- 2026-09-25 21:07:25 iteration 22805: log control tweak
