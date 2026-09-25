@@ -1820,3 +1820,4 @@
 - 2026-09-25 19:23:17 iteration 1818: append session line
 - 2026-09-25 19:23:17 iteration 1819: record checkpoint
 - 2026-09-25 19:23:17 iteration 1820: log control tweak
+- 2026-09-25 19:23:17 iteration 1821: log planning iteration
