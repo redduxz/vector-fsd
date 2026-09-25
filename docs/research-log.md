@@ -5475,3 +5475,4 @@
 - 2026-09-25 19:31:40 iteration 5473: record checkpoint
 - 2026-09-25 19:31:40 iteration 5474: log loop iteration
 - 2026-09-25 19:31:40 iteration 5475: mark test run
+- 2026-09-25 19:31:40 iteration 5476: log control tweak
