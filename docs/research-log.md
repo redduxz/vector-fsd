@@ -10419,3 +10419,4 @@
 - 2026-09-25 19:43:11 iteration 10417: mark test run
 - 2026-09-25 19:43:11 iteration 10418: update research log
 - 2026-09-25 19:43:11 iteration 10419: append session line
+- 2026-09-25 19:43:11 iteration 10420: note latency sample
