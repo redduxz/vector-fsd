@@ -834,3 +834,4 @@
 - 2026-09-25 19:21:23 iteration 832: log planning iteration
 - 2026-09-25 19:21:23 iteration 833: log perception note
 - 2026-09-25 19:21:23 iteration 834: mark test run
+- 2026-09-25 19:21:23 iteration 835: note tuning delta
