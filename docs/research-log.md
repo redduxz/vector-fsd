@@ -9353,3 +9353,4 @@
 - 2026-09-25 19:40:45 iteration 9351: log loop iteration
 - 2026-09-25 19:40:45 iteration 9352: jot safety review
 - 2026-09-25 19:40:45 iteration 9353: note latency sample
+- 2026-09-25 19:40:45 iteration 9354: log control tweak
