@@ -14178,3 +14178,4 @@
 - 2026-09-25 19:52:46 iteration 1711: jot safety review
 - 2026-09-25 19:52:46 iteration 1712: record sim observation
 - 2026-09-25 19:52:47 iteration 1713: log perception note
+- 2026-09-25 19:52:47 iteration 1714: log control tweak
