@@ -1843,3 +1843,4 @@
 - 2026-09-25 19:23:19 iteration 1841: update research log
 - 2026-09-25 19:23:20 iteration 1842: note tuning delta
 - 2026-09-25 19:23:20 iteration 1843: mark test run
+- 2026-09-25 19:23:20 iteration 1844: log perception note
