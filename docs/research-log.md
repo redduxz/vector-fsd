@@ -5964,3 +5964,4 @@
 - 2026-09-25 19:32:51 iteration 5962: append session line
 - 2026-09-25 19:32:51 iteration 5963: record checkpoint
 - 2026-09-25 19:32:51 iteration 5964: log perception note
+- 2026-09-25 19:32:51 iteration 5965: log planning iteration
