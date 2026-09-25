@@ -10198,3 +10198,4 @@
 - 2026-09-25 19:42:42 iteration 10196: log control tweak
 - 2026-09-25 19:42:42 iteration 10197: mark test run
 - 2026-09-25 19:42:42 iteration 10198: append session line
+- 2026-09-25 19:42:42 iteration 10199: log control tweak
