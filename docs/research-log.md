@@ -4114,3 +4114,4 @@
 - 2026-09-25 19:28:31 iteration 4112: update research log
 - 2026-09-25 19:28:32 iteration 4113: log control tweak
 - 2026-09-25 19:28:32 iteration 4114: note tuning delta
+- 2026-09-25 19:28:32 iteration 4115: log perception note
