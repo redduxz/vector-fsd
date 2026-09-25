@@ -14470,3 +14470,4 @@
 - 2026-09-25 19:53:26 iteration 2003: jot safety review
 - 2026-09-25 19:53:26 iteration 2004: log control tweak
 - 2026-09-25 19:53:26 iteration 2005: log perception note
+- 2026-09-25 19:53:26 iteration 2006: note tuning delta
