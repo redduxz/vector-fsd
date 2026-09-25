@@ -1060,3 +1060,4 @@
 - 2026-09-25 19:21:49 iteration 1058: note latency sample
 - 2026-09-25 19:21:49 iteration 1059: append session line
 - 2026-09-25 19:21:49 iteration 1060: append session line
+- 2026-09-25 19:21:49 iteration 1061: record sim observation
