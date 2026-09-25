@@ -990,3 +990,4 @@
 - 2026-09-25 19:21:41 iteration 988: record checkpoint
 - 2026-09-25 19:21:41 iteration 989: jot safety review
 - 2026-09-25 19:21:41 iteration 990: jot safety review
+- 2026-09-25 19:21:41 iteration 991: record sim observation
