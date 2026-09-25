@@ -7800,3 +7800,4 @@
 - 2026-09-25 19:37:12 iteration 7798: update research log
 - 2026-09-25 19:37:12 iteration 7799: log control tweak
 - 2026-09-25 19:37:12 iteration 7800: log control tweak
+- 2026-09-25 19:37:12 iteration 7801: note tuning delta
