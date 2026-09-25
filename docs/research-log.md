@@ -9002,3 +9002,4 @@
 - 2026-09-25 19:39:59 iteration 9000: note latency sample
 - 2026-09-25 19:39:59 iteration 9001: append session line
 - 2026-09-25 19:39:59 iteration 9002: append session line
+- 2026-09-25 19:39:59 iteration 9003: mark test run
