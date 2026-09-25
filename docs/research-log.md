@@ -2819,3 +2819,4 @@
 - 2026-09-25 19:25:27 iteration 2817: update research log
 - 2026-09-25 19:25:27 iteration 2818: log perception note
 - 2026-09-25 19:25:27 iteration 2819: record sim observation
+- 2026-09-25 19:25:27 iteration 2820: note latency sample
