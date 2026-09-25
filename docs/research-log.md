@@ -9705,3 +9705,4 @@
 - 2026-09-25 19:41:35 iteration 9703: note latency sample
 - 2026-09-25 19:41:35 iteration 9704: log control tweak
 - 2026-09-25 19:41:35 iteration 9705: mark test run
+- 2026-09-25 19:41:36 iteration 9706: log loop iteration
