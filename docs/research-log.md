@@ -14777,3 +14777,4 @@
 - 2026-09-25 19:54:08 iteration 2310: append session line
 - 2026-09-25 19:54:08 iteration 2311: log control tweak
 - 2026-09-25 19:54:08 iteration 2312: note latency sample
+- 2026-09-25 19:54:09 iteration 2313: log perception note
