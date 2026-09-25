@@ -14830,3 +14830,4 @@
 - 2026-09-25 19:54:16 iteration 2363: log planning iteration
 - 2026-09-25 19:54:16 iteration 2364: log control tweak
 - 2026-09-25 19:54:16 iteration 2365: log perception note
+- 2026-09-25 19:54:16 iteration 2366: update research log
