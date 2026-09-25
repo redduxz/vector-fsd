@@ -14487,3 +14487,4 @@
 - 2026-09-25 19:53:28 iteration 2020: jot safety review
 - 2026-09-25 19:53:28 iteration 2021: log planning iteration
 - 2026-09-25 19:53:28 iteration 2022: note tuning delta
+- 2026-09-25 19:53:28 iteration 2023: log perception note
