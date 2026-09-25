@@ -4662,3 +4662,4 @@
 - 2026-09-25 19:29:48 iteration 4660: jot safety review
 - 2026-09-25 19:29:48 iteration 4661: jot safety review
 - 2026-09-25 19:29:48 iteration 4662: log loop iteration
+- 2026-09-25 19:29:48 iteration 4663: note latency sample
