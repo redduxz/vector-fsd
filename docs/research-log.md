@@ -970,3 +970,4 @@
 - 2026-09-25 19:21:39 iteration 968: append session line
 - 2026-09-25 19:21:39 iteration 969: jot safety review
 - 2026-09-25 19:21:39 iteration 970: log control tweak
+- 2026-09-25 19:21:39 iteration 971: append session line
