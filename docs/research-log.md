@@ -35300,3 +35300,4 @@
 - 2026-09-25 21:07:32 iteration 22833: update research log
 - 2026-09-25 21:07:32 iteration 22834: note tuning delta
 - 2026-09-25 21:07:33 iteration 22835: update research log
+- 2026-09-25 21:07:33 iteration 22836: jot safety review
