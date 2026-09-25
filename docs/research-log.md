@@ -10703,3 +10703,4 @@
 - 2026-09-25 19:43:51 iteration 10701: note latency sample
 - 2026-09-25 19:43:51 iteration 10702: update research log
 - 2026-09-25 19:43:51 iteration 10703: log control tweak
+- 2026-09-25 19:43:51 iteration 10704: jot safety review
