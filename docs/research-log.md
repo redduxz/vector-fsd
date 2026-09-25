@@ -9263,3 +9263,4 @@
 - 2026-09-25 19:40:33 iteration 9261: log control tweak
 - 2026-09-25 19:40:34 iteration 9262: update research log
 - 2026-09-25 19:40:34 iteration 9263: log planning iteration
+- 2026-09-25 19:40:34 iteration 9264: note tuning delta
