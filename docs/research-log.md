@@ -5931,3 +5931,4 @@
 - 2026-09-25 19:32:47 iteration 5929: jot safety review
 - 2026-09-25 19:32:47 iteration 5930: record sim observation
 - 2026-09-25 19:32:47 iteration 5931: log perception note
+- 2026-09-25 19:32:47 iteration 5932: note latency sample
