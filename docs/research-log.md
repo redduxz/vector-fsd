@@ -10910,3 +10910,4 @@
 - 2026-09-25 19:44:20 iteration 10908: note tuning delta
 - 2026-09-25 19:44:20 iteration 10909: note latency sample
 - 2026-09-25 19:44:20 iteration 10910: log planning iteration
+- 2026-09-25 19:44:20 iteration 10911: log control tweak
