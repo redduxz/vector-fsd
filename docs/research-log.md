@@ -3627,3 +3627,4 @@
 - 2026-09-25 19:27:16 iteration 3625: update research log
 - 2026-09-25 19:27:16 iteration 3626: record sim observation
 - 2026-09-25 19:27:16 iteration 3627: note tuning delta
+- 2026-09-25 19:27:16 iteration 3628: log perception note
