@@ -29727,3 +29727,4 @@
 - 2026-09-25 20:47:28 iteration 17260: log control tweak
 - 2026-09-25 20:47:28 iteration 17261: note tuning delta
 - 2026-09-25 20:47:29 iteration 17262: record checkpoint
+- 2026-09-25 20:47:29 iteration 17263: jot safety review
