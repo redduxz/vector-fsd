@@ -20548,3 +20548,4 @@
 - 2026-09-25 20:12:20 iteration 8081: log perception note
 - 2026-09-25 20:12:21 iteration 8082: update research log
 - 2026-09-25 20:12:21 iteration 8083: record sim observation
+- 2026-09-25 20:12:21 iteration 8084: note latency sample
