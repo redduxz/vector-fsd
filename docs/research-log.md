@@ -9968,3 +9968,4 @@
 - 2026-09-25 19:42:12 iteration 9966: log loop iteration
 - 2026-09-25 19:42:12 iteration 9967: mark test run
 - 2026-09-25 19:42:12 iteration 9968: mark test run
+- 2026-09-25 19:42:12 iteration 9969: note latency sample
