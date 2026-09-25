@@ -13072,3 +13072,4 @@
 - 2026-09-25 19:50:16 iteration 605: mark test run
 - 2026-09-25 19:50:16 iteration 606: record checkpoint
 - 2026-09-25 19:50:16 iteration 607: mark test run
+- 2026-09-25 19:50:16 iteration 608: note latency sample
