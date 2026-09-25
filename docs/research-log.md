@@ -5869,3 +5869,4 @@
 - 2026-09-25 19:32:38 iteration 5867: record checkpoint
 - 2026-09-25 19:32:38 iteration 5868: mark test run
 - 2026-09-25 19:32:38 iteration 5869: log control tweak
+- 2026-09-25 19:32:38 iteration 5870: note tuning delta
