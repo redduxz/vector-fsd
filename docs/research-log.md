@@ -24737,3 +24737,4 @@
 - 2026-09-25 20:30:04 iteration 12270: log control tweak
 - 2026-09-25 20:30:04 iteration 12271: append session line
 - 2026-09-25 20:30:04 iteration 12272: update research log
+- 2026-09-25 20:30:05 iteration 12273: log perception note
