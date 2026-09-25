@@ -13872,3 +13872,4 @@
 - 2026-09-25 19:52:05 iteration 1405: log perception note
 - 2026-09-25 19:52:05 iteration 1406: note latency sample
 - 2026-09-25 19:52:05 iteration 1407: record checkpoint
+- 2026-09-25 19:52:05 iteration 1408: note tuning delta
