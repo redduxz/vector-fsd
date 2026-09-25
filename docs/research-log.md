@@ -11932,3 +11932,4 @@
 - 2026-09-25 19:46:43 iteration 11930: record sim observation
 - 2026-09-25 19:46:43 iteration 11931: log loop iteration
 - 2026-09-25 19:46:43 iteration 11932: record sim observation
+- 2026-09-25 19:46:43 iteration 11933: log control tweak
