@@ -19286,3 +19286,4 @@
 - 2026-09-25 20:06:05 iteration 6819: update research log
 - 2026-09-25 20:06:05 iteration 6820: log control tweak
 - 2026-09-25 20:06:06 iteration 6821: append session line
+- 2026-09-25 20:06:06 iteration 6822: note latency sample
