@@ -36689,3 +36689,4 @@
 - 2026-09-25 21:12:31 iteration 24222: note latency sample
 - 2026-09-25 21:12:31 iteration 24223: jot safety review
 - 2026-09-25 21:12:32 iteration 24224: note tuning delta
+- 2026-09-25 21:12:32 iteration 24225: log perception note
