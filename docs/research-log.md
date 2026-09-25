@@ -1068,3 +1068,4 @@
 - 2026-09-25 19:21:50 iteration 1066: append session line
 - 2026-09-25 19:21:50 iteration 1067: log planning iteration
 - 2026-09-25 19:21:50 iteration 1068: jot safety review
+- 2026-09-25 19:21:50 iteration 1069: note tuning delta
