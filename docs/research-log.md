@@ -4660,3 +4660,4 @@
 - 2026-09-25 19:29:47 iteration 4658: append session line
 - 2026-09-25 19:29:47 iteration 4659: log control tweak
 - 2026-09-25 19:29:48 iteration 4660: jot safety review
+- 2026-09-25 19:29:48 iteration 4661: jot safety review
