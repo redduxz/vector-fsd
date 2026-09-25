@@ -914,3 +914,4 @@
 - 2026-09-25 19:21:32 iteration 912: jot safety review
 - 2026-09-25 19:21:32 iteration 913: note tuning delta
 - 2026-09-25 19:21:32 iteration 914: record checkpoint
+- 2026-09-25 19:21:32 iteration 915: log perception note
