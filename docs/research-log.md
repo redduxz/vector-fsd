@@ -15834,3 +15834,4 @@
 - 2026-09-25 19:56:38 iteration 3367: note latency sample
 - 2026-09-25 19:56:38 iteration 3368: log loop iteration
 - 2026-09-25 19:56:38 iteration 3369: log control tweak
+- 2026-09-25 19:56:38 iteration 3370: log perception note
