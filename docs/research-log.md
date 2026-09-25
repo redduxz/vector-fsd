@@ -25913,3 +25913,4 @@
 - 2026-09-25 20:34:11 iteration 13446: log control tweak
 - 2026-09-25 20:34:11 iteration 13447: update research log
 - 2026-09-25 20:34:11 iteration 13448: record sim observation
+- 2026-09-25 20:34:11 iteration 13449: log perception note
