@@ -7415,3 +7415,4 @@
 - 2026-09-25 19:36:19 iteration 7413: jot safety review
 - 2026-09-25 19:36:19 iteration 7414: log planning iteration
 - 2026-09-25 19:36:19 iteration 7415: log perception note
+- 2026-09-25 19:36:19 iteration 7416: log control tweak
