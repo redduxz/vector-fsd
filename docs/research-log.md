@@ -4213,3 +4213,4 @@
 - 2026-09-25 19:28:45 iteration 4211: note latency sample
 - 2026-09-25 19:28:45 iteration 4212: log control tweak
 - 2026-09-25 19:28:45 iteration 4213: record sim observation
+- 2026-09-25 19:28:45 iteration 4214: log control tweak
