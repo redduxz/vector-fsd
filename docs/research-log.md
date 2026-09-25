@@ -3128,3 +3128,4 @@
 - 2026-09-25 19:26:05 iteration 3126: log perception note
 - 2026-09-25 19:26:05 iteration 3127: append session line
 - 2026-09-25 19:26:05 iteration 3128: log control tweak
+- 2026-09-25 19:26:06 iteration 3129: log perception note
