@@ -32642,3 +32642,4 @@
 - 2026-09-25 20:57:22 iteration 20175: record checkpoint
 - 2026-09-25 20:57:22 iteration 20176: mark test run
 - 2026-09-25 20:57:23 iteration 20177: note tuning delta
+- 2026-09-25 20:57:23 iteration 20178: log control tweak
