@@ -8127,3 +8127,4 @@
 - 2026-09-25 19:37:55 iteration 8125: update research log
 - 2026-09-25 19:37:55 iteration 8126: mark test run
 - 2026-09-25 19:37:55 iteration 8127: note latency sample
+- 2026-09-25 19:37:55 iteration 8128: note tuning delta
