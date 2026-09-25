@@ -16772,3 +16772,4 @@
 - 2026-09-25 19:58:47 iteration 4305: log loop iteration
 - 2026-09-25 19:58:47 iteration 4306: record sim observation
 - 2026-09-25 19:58:47 iteration 4307: note tuning delta
+- 2026-09-25 19:58:47 iteration 4308: log perception note
