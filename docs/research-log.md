@@ -16840,3 +16840,4 @@
 - 2026-09-25 19:58:56 iteration 4373: record checkpoint
 - 2026-09-25 19:58:56 iteration 4374: note latency sample
 - 2026-09-25 19:58:57 iteration 4375: record sim observation
+- 2026-09-25 19:58:57 iteration 4376: log perception note
