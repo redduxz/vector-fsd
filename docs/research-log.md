@@ -4873,3 +4873,4 @@
 - 2026-09-25 19:30:17 iteration 4871: record checkpoint
 - 2026-09-25 19:30:17 iteration 4872: mark test run
 - 2026-09-25 19:30:17 iteration 4873: record checkpoint
+- 2026-09-25 19:30:17 iteration 4874: note latency sample
