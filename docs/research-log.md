@@ -5375,3 +5375,4 @@
 - 2026-09-25 19:31:26 iteration 5373: log perception note
 - 2026-09-25 19:31:26 iteration 5374: mark test run
 - 2026-09-25 19:31:26 iteration 5375: jot safety review
+- 2026-09-25 19:31:26 iteration 5376: note tuning delta
