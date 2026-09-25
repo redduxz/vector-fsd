@@ -17508,3 +17508,4 @@
 - 2026-09-25 20:00:41 iteration 5041: log control tweak
 - 2026-09-25 20:00:41 iteration 5042: append session line
 - 2026-09-25 20:00:41 iteration 5043: mark test run
+- 2026-09-25 20:00:41 iteration 5044: update research log
