@@ -11119,3 +11119,4 @@
 - 2026-09-25 19:44:48 iteration 11117: jot safety review
 - 2026-09-25 19:44:48 iteration 11118: log planning iteration
 - 2026-09-25 19:44:49 iteration 11119: append session line
+- 2026-09-25 19:44:49 iteration 11120: note tuning delta
