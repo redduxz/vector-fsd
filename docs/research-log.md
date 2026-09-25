@@ -11946,3 +11946,4 @@
 - 2026-09-25 19:46:45 iteration 11944: record checkpoint
 - 2026-09-25 19:46:45 iteration 11945: log perception note
 - 2026-09-25 19:46:45 iteration 11946: note tuning delta
+- 2026-09-25 19:46:45 iteration 11947: note latency sample
