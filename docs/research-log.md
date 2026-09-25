@@ -2780,3 +2780,4 @@
 - 2026-09-25 19:25:22 iteration 2778: note tuning delta
 - 2026-09-25 19:25:22 iteration 2779: record checkpoint
 - 2026-09-25 19:25:22 iteration 2780: log loop iteration
+- 2026-09-25 19:25:22 iteration 2781: record sim observation
