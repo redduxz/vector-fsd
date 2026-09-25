@@ -12212,3 +12212,4 @@
 - 2026-09-25 19:47:19 iteration 12210: update research log
 - 2026-09-25 19:47:19 iteration 12211: note tuning delta
 - 2026-09-25 19:47:19 iteration 12212: note latency sample
+- 2026-09-25 19:47:19 iteration 12213: log control tweak
