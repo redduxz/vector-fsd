@@ -19395,3 +19395,4 @@
 - 2026-09-25 20:06:41 iteration 6928: update research log
 - 2026-09-25 20:06:42 iteration 6929: log control tweak
 - 2026-09-25 20:06:42 iteration 6930: append session line
+- 2026-09-25 20:06:42 iteration 6931: jot safety review
