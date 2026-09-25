@@ -14051,3 +14051,4 @@
 - 2026-09-25 19:52:29 iteration 1584: log control tweak
 - 2026-09-25 19:52:30 iteration 1585: append session line
 - 2026-09-25 19:52:30 iteration 1586: mark test run
+- 2026-09-25 19:52:30 iteration 1587: record checkpoint
