@@ -860,3 +860,4 @@
 - 2026-09-25 19:21:26 iteration 858: log loop iteration
 - 2026-09-25 19:21:26 iteration 859: note latency sample
 - 2026-09-25 19:21:26 iteration 860: append session line
+- 2026-09-25 19:21:26 iteration 861: log perception note
