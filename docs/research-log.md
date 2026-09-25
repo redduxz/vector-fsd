@@ -9063,3 +9063,4 @@
 - 2026-09-25 19:40:07 iteration 9061: mark test run
 - 2026-09-25 19:40:07 iteration 9062: log perception note
 - 2026-09-25 19:40:07 iteration 9063: log control tweak
+- 2026-09-25 19:40:07 iteration 9064: note latency sample
