@@ -18586,3 +18586,4 @@
 - 2026-09-25 20:03:28 iteration 6119: log planning iteration
 - 2026-09-25 20:03:28 iteration 6120: append session line
 - 2026-09-25 20:03:28 iteration 6121: mark test run
+- 2026-09-25 20:03:28 iteration 6122: log perception note
