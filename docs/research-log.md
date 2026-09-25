@@ -8081,3 +8081,4 @@
 - 2026-09-25 19:37:49 iteration 8079: mark test run
 - 2026-09-25 19:37:49 iteration 8080: append session line
 - 2026-09-25 19:37:49 iteration 8081: log control tweak
+- 2026-09-25 19:37:49 iteration 8082: log planning iteration
