@@ -37882,3 +37882,4 @@
 - 2026-09-25 21:17:21 iteration 25415: log planning iteration
 - 2026-09-25 21:17:21 iteration 25416: jot safety review
 - 2026-09-25 21:17:21 iteration 25417: note tuning delta
+- 2026-09-25 21:17:21 iteration 25418: record sim observation
