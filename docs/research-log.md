@@ -8060,3 +8060,4 @@
 - 2026-09-25 19:37:46 iteration 8058: mark test run
 - 2026-09-25 19:37:46 iteration 8059: log control tweak
 - 2026-09-25 19:37:46 iteration 8060: note latency sample
+- 2026-09-25 19:37:46 iteration 8061: record sim observation
