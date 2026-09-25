@@ -1900,3 +1900,4 @@
 - 2026-09-25 19:23:26 iteration 1898: log loop iteration
 - 2026-09-25 19:23:26 iteration 1899: record checkpoint
 - 2026-09-25 19:23:26 iteration 1900: log perception note
+- 2026-09-25 19:23:27 iteration 1901: log control tweak
