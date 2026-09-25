@@ -26297,3 +26297,4 @@
 - 2026-09-25 20:35:47 iteration 13830: log perception note
 - 2026-09-25 20:35:48 iteration 13831: mark test run
 - 2026-09-25 20:35:48 iteration 13832: record checkpoint
+- 2026-09-25 20:35:48 iteration 13833: note tuning delta
