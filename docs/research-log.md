@@ -1808,3 +1808,4 @@
 - 2026-09-25 19:23:16 iteration 1806: record sim observation
 - 2026-09-25 19:23:16 iteration 1807: append session line
 - 2026-09-25 19:23:16 iteration 1808: record checkpoint
+- 2026-09-25 19:23:16 iteration 1809: log control tweak
