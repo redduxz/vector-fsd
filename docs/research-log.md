@@ -4050,3 +4050,4 @@
 - 2026-09-25 19:28:22 iteration 4048: record sim observation
 - 2026-09-25 19:28:22 iteration 4049: note latency sample
 - 2026-09-25 19:28:23 iteration 4050: mark test run
+- 2026-09-25 19:28:23 iteration 4051: append session line
