@@ -10238,3 +10238,4 @@
 - 2026-09-25 19:42:47 iteration 10236: record sim observation
 - 2026-09-25 19:42:47 iteration 10237: log planning iteration
 - 2026-09-25 19:42:47 iteration 10238: log planning iteration
+- 2026-09-25 19:42:47 iteration 10239: log control tweak
