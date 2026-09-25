@@ -4632,3 +4632,4 @@
 - 2026-09-25 19:29:44 iteration 4630: append session line
 - 2026-09-25 19:29:44 iteration 4631: note latency sample
 - 2026-09-25 19:29:44 iteration 4632: log planning iteration
+- 2026-09-25 19:29:44 iteration 4633: log loop iteration
