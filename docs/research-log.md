@@ -3874,3 +3874,4 @@
 - 2026-09-25 19:27:55 iteration 3872: update research log
 - 2026-09-25 19:27:56 iteration 3873: mark test run
 - 2026-09-25 19:27:56 iteration 3874: record checkpoint
+- 2026-09-25 19:27:56 iteration 3875: note tuning delta
