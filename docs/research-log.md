@@ -1405,3 +1405,4 @@
 - 2026-09-25 19:22:29 iteration 1403: append session line
 - 2026-09-25 19:22:29 iteration 1404: append session line
 - 2026-09-25 19:22:29 iteration 1405: record sim observation
+- 2026-09-25 19:22:29 iteration 1406: mark test run
