@@ -8721,3 +8721,4 @@
 - 2026-09-25 19:39:20 iteration 8719: log perception note
 - 2026-09-25 19:39:20 iteration 8720: append session line
 - 2026-09-25 19:39:20 iteration 8721: mark test run
+- 2026-09-25 19:39:20 iteration 8722: note tuning delta
