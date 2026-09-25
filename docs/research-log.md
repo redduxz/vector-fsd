@@ -25365,3 +25365,4 @@
 - 2026-09-25 20:32:42 iteration 12898: log perception note
 - 2026-09-25 20:32:42 iteration 12899: log perception note
 - 2026-09-25 20:32:43 iteration 12900: log perception note
+- 2026-09-25 20:32:43 iteration 12901: note latency sample
