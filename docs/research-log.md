@@ -808,3 +808,4 @@
 - 2026-09-25 19:21:20 iteration 806: record sim observation
 - 2026-09-25 19:21:20 iteration 807: log planning iteration
 - 2026-09-25 19:21:20 iteration 808: record checkpoint
+- 2026-09-25 19:21:20 iteration 809: log perception note
