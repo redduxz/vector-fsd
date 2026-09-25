@@ -13561,3 +13561,4 @@
 - 2026-09-25 19:51:21 iteration 1094: note tuning delta
 - 2026-09-25 19:51:21 iteration 1095: update research log
 - 2026-09-25 19:51:21 iteration 1096: record checkpoint
+- 2026-09-25 19:51:21 iteration 1097: jot safety review
