@@ -22610,3 +22610,4 @@
 - 2026-09-25 20:20:50 iteration 10143: log perception note
 - 2026-09-25 20:20:50 iteration 10144: note tuning delta
 - 2026-09-25 20:20:51 iteration 10145: append session line
+- 2026-09-25 20:20:51 iteration 10146: log control tweak
