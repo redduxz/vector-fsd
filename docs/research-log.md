@@ -1549,3 +1549,4 @@
 - 2026-09-25 19:22:45 iteration 1547: record sim observation
 - 2026-09-25 19:22:45 iteration 1548: update research log
 - 2026-09-25 19:22:45 iteration 1549: log perception note
+- 2026-09-25 19:22:45 iteration 1550: log control tweak
