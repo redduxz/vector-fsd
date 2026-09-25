@@ -19670,3 +19670,4 @@
 - 2026-09-25 20:07:58 iteration 7203: log loop iteration
 - 2026-09-25 20:07:58 iteration 7204: append session line
 - 2026-09-25 20:07:58 iteration 7205: log control tweak
+- 2026-09-25 20:07:59 iteration 7206: record sim observation
