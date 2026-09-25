@@ -16348,3 +16348,4 @@
 - 2026-09-25 19:57:48 iteration 3881: log control tweak
 - 2026-09-25 19:57:48 iteration 3882: note latency sample
 - 2026-09-25 19:57:48 iteration 3883: log planning iteration
+- 2026-09-25 19:57:48 iteration 3884: note tuning delta
