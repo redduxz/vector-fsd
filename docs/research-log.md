@@ -9839,3 +9839,4 @@
 - 2026-09-25 19:41:53 iteration 9837: note latency sample
 - 2026-09-25 19:41:53 iteration 9838: log planning iteration
 - 2026-09-25 19:41:54 iteration 9839: note tuning delta
+- 2026-09-25 19:41:54 iteration 9840: jot safety review
