@@ -12368,3 +12368,4 @@
 - 2026-09-25 19:47:38 iteration 12366: mark test run
 - 2026-09-25 19:47:39 iteration 12367: append session line
 - 2026-09-25 19:47:39 iteration 12368: note tuning delta
+- 2026-09-25 19:47:39 iteration 12369: jot safety review
