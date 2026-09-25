@@ -2979,3 +2979,4 @@
 - 2026-09-25 19:25:46 iteration 2977: mark test run
 - 2026-09-25 19:25:47 iteration 2978: append session line
 - 2026-09-25 19:25:47 iteration 2979: log loop iteration
+- 2026-09-25 19:25:47 iteration 2980: record sim observation
