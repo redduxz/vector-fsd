@@ -2020,3 +2020,4 @@
 - 2026-09-25 19:23:40 iteration 2018: append session line
 - 2026-09-25 19:23:40 iteration 2019: mark test run
 - 2026-09-25 19:23:44 iteration 2020: log loop iteration
+- 2026-09-25 19:23:45 iteration 2021: note latency sample
