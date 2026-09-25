@@ -28538,3 +28538,4 @@
 - 2026-09-25 20:43:27 iteration 16071: log planning iteration
 - 2026-09-25 20:43:27 iteration 16072: note tuning delta
 - 2026-09-25 20:43:27 iteration 16073: append session line
+- 2026-09-25 20:43:27 iteration 16074: log control tweak
