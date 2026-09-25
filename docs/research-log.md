@@ -6826,3 +6826,4 @@
 - 2026-09-25 19:34:57 iteration 6824: jot safety review
 - 2026-09-25 19:34:57 iteration 6825: log perception note
 - 2026-09-25 19:34:57 iteration 6826: log control tweak
+- 2026-09-25 19:34:57 iteration 6827: note latency sample
