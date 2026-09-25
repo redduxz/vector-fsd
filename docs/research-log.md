@@ -37413,3 +37413,4 @@
 - 2026-09-25 21:15:38 iteration 24946: record checkpoint
 - 2026-09-25 21:15:39 iteration 24947: log loop iteration
 - 2026-09-25 21:15:39 iteration 24948: append session line
+- 2026-09-25 21:15:39 iteration 24949: log control tweak
