@@ -27926,3 +27926,4 @@
 - 2026-09-25 20:41:26 iteration 15459: record sim observation
 - 2026-09-25 20:41:26 iteration 15460: note latency sample
 - 2026-09-25 20:41:26 iteration 15461: mark test run
+- 2026-09-25 20:41:26 iteration 15462: log control tweak
