@@ -3770,3 +3770,4 @@
 - 2026-09-25 19:27:37 iteration 3768: append session line
 - 2026-09-25 19:27:37 iteration 3769: note latency sample
 - 2026-09-25 19:27:37 iteration 3770: mark test run
+- 2026-09-25 19:27:37 iteration 3771: record sim observation
