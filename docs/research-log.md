@@ -602,3 +602,4 @@
 - 2026-09-25 19:20:56 iteration 600: log planning iteration
 - 2026-09-25 19:20:56 iteration 601: log planning iteration
 - 2026-09-25 19:20:56 iteration 602: record sim observation
+- 2026-09-25 19:20:56 iteration 603: log control tweak
