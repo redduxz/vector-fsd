@@ -13857,3 +13857,4 @@
 - 2026-09-25 19:52:03 iteration 1390: append session line
 - 2026-09-25 19:52:03 iteration 1391: jot safety review
 - 2026-09-25 19:52:03 iteration 1392: update research log
+- 2026-09-25 19:52:03 iteration 1393: note latency sample
