@@ -38214,3 +38214,4 @@
 - 2026-09-25 21:18:24 iteration 25747: append session line
 - 2026-09-25 21:18:24 iteration 25748: log loop iteration
 - 2026-09-25 21:18:24 iteration 25749: record checkpoint
+- 2026-09-25 21:18:24 iteration 25750: note tuning delta
