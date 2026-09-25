@@ -34035,3 +34035,4 @@
 - 2026-09-25 21:02:25 iteration 21568: append session line
 - 2026-09-25 21:02:26 iteration 21569: jot safety review
 - 2026-09-25 21:02:26 iteration 21570: note tuning delta
+- 2026-09-25 21:02:26 iteration 21571: log control tweak
