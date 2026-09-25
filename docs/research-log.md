@@ -14500,3 +14500,4 @@
 - 2026-09-25 19:53:30 iteration 2033: log loop iteration
 - 2026-09-25 19:53:30 iteration 2034: mark test run
 - 2026-09-25 19:53:30 iteration 2035: note tuning delta
+- 2026-09-25 19:53:30 iteration 2036: note latency sample
