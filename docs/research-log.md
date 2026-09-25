@@ -6509,3 +6509,4 @@
 - 2026-09-25 19:34:13 iteration 6507: note latency sample
 - 2026-09-25 19:34:13 iteration 6508: log control tweak
 - 2026-09-25 19:34:13 iteration 6509: jot safety review
+- 2026-09-25 19:34:13 iteration 6510: update research log
