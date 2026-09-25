@@ -38081,3 +38081,4 @@
 - 2026-09-25 21:18:00 iteration 25614: log planning iteration
 - 2026-09-25 21:18:00 iteration 25615: append session line
 - 2026-09-25 21:18:00 iteration 25616: log control tweak
+- 2026-09-25 21:18:00 iteration 25617: jot safety review
