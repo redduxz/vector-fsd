@@ -15049,3 +15049,4 @@
 - 2026-09-25 19:54:52 iteration 2582: note latency sample
 - 2026-09-25 19:54:53 iteration 2583: record checkpoint
 - 2026-09-25 19:54:53 iteration 2584: note latency sample
+- 2026-09-25 19:54:53 iteration 2585: log control tweak
