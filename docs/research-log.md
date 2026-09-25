@@ -8764,3 +8764,4 @@
 - 2026-09-25 19:39:26 iteration 8762: log loop iteration
 - 2026-09-25 19:39:26 iteration 8763: log loop iteration
 - 2026-09-25 19:39:26 iteration 8764: append session line
+- 2026-09-25 19:39:26 iteration 8765: log control tweak
