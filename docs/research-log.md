@@ -3501,3 +3501,4 @@
 - 2026-09-25 19:26:58 iteration 3499: append session line
 - 2026-09-25 19:26:58 iteration 3500: log perception note
 - 2026-09-25 19:26:58 iteration 3501: record sim observation
+- 2026-09-25 19:26:58 iteration 3502: jot safety review
