@@ -10675,3 +10675,4 @@
 - 2026-09-25 19:43:46 iteration 10673: update research log
 - 2026-09-25 19:43:46 iteration 10674: append session line
 - 2026-09-25 19:43:47 iteration 10675: update research log
+- 2026-09-25 19:43:47 iteration 10676: log control tweak
