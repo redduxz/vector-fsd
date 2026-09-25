@@ -7821,3 +7821,4 @@
 - 2026-09-25 19:37:15 iteration 7819: update research log
 - 2026-09-25 19:37:15 iteration 7820: log control tweak
 - 2026-09-25 19:37:15 iteration 7821: log control tweak
+- 2026-09-25 19:37:15 iteration 7822: note latency sample
