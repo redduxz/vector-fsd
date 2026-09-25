@@ -16981,3 +16981,4 @@
 - 2026-09-25 19:59:25 iteration 4514: update research log
 - 2026-09-25 19:59:25 iteration 4515: log control tweak
 - 2026-09-25 19:59:26 iteration 4516: append session line
+- 2026-09-25 19:59:26 iteration 4517: note latency sample
