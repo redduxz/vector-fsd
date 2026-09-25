@@ -2035,3 +2035,4 @@
 - 2026-09-25 19:23:46 iteration 2033: note latency sample
 - 2026-09-25 19:23:46 iteration 2034: log loop iteration
 - 2026-09-25 19:23:46 iteration 2035: jot safety review
+- 2026-09-25 19:23:46 iteration 2036: note tuning delta
