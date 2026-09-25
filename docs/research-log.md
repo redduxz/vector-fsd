@@ -10138,3 +10138,4 @@
 - 2026-09-25 19:42:34 iteration 10136: record sim observation
 - 2026-09-25 19:42:34 iteration 10137: record checkpoint
 - 2026-09-25 19:42:34 iteration 10138: log control tweak
+- 2026-09-25 19:42:34 iteration 10139: note tuning delta
