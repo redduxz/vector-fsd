@@ -800,3 +800,4 @@
 - 2026-09-25 19:21:19 iteration 798: record sim observation
 - 2026-09-25 19:21:19 iteration 799: note tuning delta
 - 2026-09-25 19:21:19 iteration 800: log planning iteration
+- 2026-09-25 19:21:19 iteration 801: record checkpoint
