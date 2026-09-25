@@ -16001,3 +16001,4 @@
 - 2026-09-25 19:57:01 iteration 3534: log planning iteration
 - 2026-09-25 19:57:01 iteration 3535: update research log
 - 2026-09-25 19:57:01 iteration 3536: append session line
+- 2026-09-25 19:57:02 iteration 3537: log control tweak
