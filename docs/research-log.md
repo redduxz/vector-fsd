@@ -16475,3 +16475,4 @@
 - 2026-09-25 19:58:06 iteration 4008: note tuning delta
 - 2026-09-25 19:58:06 iteration 4009: log perception note
 - 2026-09-25 19:58:06 iteration 4010: note tuning delta
+- 2026-09-25 19:58:07 iteration 4011: log control tweak
