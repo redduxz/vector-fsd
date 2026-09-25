@@ -5528,3 +5528,4 @@
 - 2026-09-25 19:31:47 iteration 5526: mark test run
 - 2026-09-25 19:31:48 iteration 5527: log control tweak
 - 2026-09-25 19:31:48 iteration 5528: jot safety review
+- 2026-09-25 19:31:48 iteration 5529: log perception note
