@@ -25830,3 +25830,4 @@
 - 2026-09-25 20:33:58 iteration 13363: mark test run
 - 2026-09-25 20:33:58 iteration 13364: note tuning delta
 - 2026-09-25 20:33:58 iteration 13365: jot safety review
+- 2026-09-25 20:33:58 iteration 13366: log perception note
