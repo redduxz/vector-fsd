@@ -11596,3 +11596,4 @@
 - 2026-09-25 19:45:58 iteration 11594: mark test run
 - 2026-09-25 19:45:59 iteration 11595: record checkpoint
 - 2026-09-25 19:45:59 iteration 11596: log perception note
+- 2026-09-25 19:45:59 iteration 11597: log control tweak
