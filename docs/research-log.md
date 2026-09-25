@@ -1729,3 +1729,4 @@
 - 2026-09-25 19:23:06 iteration 1727: record sim observation
 - 2026-09-25 19:23:06 iteration 1728: log perception note
 - 2026-09-25 19:23:06 iteration 1729: log planning iteration
+- 2026-09-25 19:23:06 iteration 1730: note tuning delta
