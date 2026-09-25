@@ -11635,3 +11635,4 @@
 - 2026-09-25 19:46:04 iteration 11633: log perception note
 - 2026-09-25 19:46:04 iteration 11634: log perception note
 - 2026-09-25 19:46:04 iteration 11635: log control tweak
+- 2026-09-25 19:46:04 iteration 11636: note tuning delta
