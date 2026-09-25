@@ -20472,3 +20472,4 @@
 - 2026-09-25 20:12:04 iteration 8005: note tuning delta
 - 2026-09-25 20:12:04 iteration 8006: jot safety review
 - 2026-09-25 20:12:04 iteration 8007: log control tweak
+- 2026-09-25 20:12:04 iteration 8008: log control tweak
