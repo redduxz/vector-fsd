@@ -1504,3 +1504,4 @@
 - 2026-09-25 19:22:40 iteration 1502: log planning iteration
 - 2026-09-25 19:22:40 iteration 1503: note latency sample
 - 2026-09-25 19:22:40 iteration 1504: record sim observation
+- 2026-09-25 19:22:40 iteration 1505: jot safety review
