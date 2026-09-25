@@ -3164,3 +3164,4 @@
 - 2026-09-25 19:26:10 iteration 3162: update research log
 - 2026-09-25 19:26:10 iteration 3163: note latency sample
 - 2026-09-25 19:26:10 iteration 3164: record checkpoint
+- 2026-09-25 19:26:10 iteration 3165: note tuning delta
