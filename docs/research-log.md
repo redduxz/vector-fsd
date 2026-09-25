@@ -145,3 +145,4 @@
 - 2026-09-25 19:20:03 iteration 143: append session line
 - 2026-09-25 19:20:04 iteration 144: log perception note
 - 2026-09-25 19:20:04 iteration 145: log control tweak
+- 2026-09-25 19:20:04 iteration 146: update research log
