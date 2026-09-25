@@ -12454,3 +12454,4 @@
 - 2026-09-25 19:47:50 iteration 12452: append session line
 - 2026-09-25 19:47:50 iteration 12453: append session line
 - 2026-09-25 19:47:50 iteration 12454: note tuning delta
+- 2026-09-25 19:47:50 iteration 12455: log control tweak
