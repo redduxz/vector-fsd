@@ -3193,3 +3193,4 @@
 - 2026-09-25 19:26:15 iteration 3191: jot safety review
 - 2026-09-25 19:26:15 iteration 3192: append session line
 - 2026-09-25 19:26:15 iteration 3193: record checkpoint
+- 2026-09-25 19:26:15 iteration 3194: note latency sample
