@@ -36725,3 +36725,4 @@
 - 2026-09-25 21:12:38 iteration 24258: record checkpoint
 - 2026-09-25 21:12:38 iteration 24259: record checkpoint
 - 2026-09-25 21:12:38 iteration 24260: log control tweak
+- 2026-09-25 21:12:38 iteration 24261: log loop iteration
