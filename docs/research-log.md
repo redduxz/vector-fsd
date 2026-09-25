@@ -14578,3 +14578,4 @@
 - 2026-09-25 19:53:41 iteration 2111: jot safety review
 - 2026-09-25 19:53:41 iteration 2112: jot safety review
 - 2026-09-25 19:53:41 iteration 2113: mark test run
+- 2026-09-25 19:53:41 iteration 2114: log control tweak
