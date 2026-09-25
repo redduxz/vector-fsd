@@ -13272,3 +13272,4 @@
 - 2026-09-25 19:50:42 iteration 805: log control tweak
 - 2026-09-25 19:50:42 iteration 806: note latency sample
 - 2026-09-25 19:50:42 iteration 807: log control tweak
+- 2026-09-25 19:50:43 iteration 808: mark test run
