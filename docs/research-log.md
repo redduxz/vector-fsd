@@ -30481,3 +30481,4 @@
 - 2026-09-25 20:49:56 iteration 18014: log planning iteration
 - 2026-09-25 20:49:56 iteration 18015: record sim observation
 - 2026-09-25 20:49:57 iteration 18016: jot safety review
+- 2026-09-25 20:49:57 iteration 18017: log control tweak
