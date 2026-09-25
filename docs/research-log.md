@@ -29823,3 +29823,4 @@
 - 2026-09-25 20:47:47 iteration 17356: log perception note
 - 2026-09-25 20:47:47 iteration 17357: jot safety review
 - 2026-09-25 20:47:47 iteration 17358: append session line
+- 2026-09-25 20:47:47 iteration 17359: note tuning delta
