@@ -27607,3 +27607,4 @@
 - 2026-09-25 20:40:33 iteration 15140: log planning iteration
 - 2026-09-25 20:40:33 iteration 15141: append session line
 - 2026-09-25 20:40:33 iteration 15142: jot safety review
+- 2026-09-25 20:40:33 iteration 15143: note tuning delta
