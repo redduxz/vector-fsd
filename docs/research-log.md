@@ -38590,3 +38590,4 @@
 - 2026-09-25 21:19:45 iteration 26123: update research log
 - 2026-09-25 21:19:45 iteration 26124: note latency sample
 - 2026-09-25 21:19:45 iteration 26125: jot safety review
+- 2026-09-25 21:19:45 iteration 26126: log perception note
