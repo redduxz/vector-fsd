@@ -12502,3 +12502,4 @@
 - 2026-09-25 19:48:51 iteration 35: append session line
 - 2026-09-25 19:48:51 iteration 36: update research log
 - 2026-09-25 19:48:51 iteration 37: note tuning delta
+- 2026-09-25 19:48:51 iteration 38: jot safety review
