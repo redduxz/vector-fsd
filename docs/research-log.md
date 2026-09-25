@@ -19846,3 +19846,4 @@
 - 2026-09-25 20:08:41 iteration 7379: log control tweak
 - 2026-09-25 20:08:42 iteration 7380: jot safety review
 - 2026-09-25 20:08:42 iteration 7381: note tuning delta
+- 2026-09-25 20:08:43 iteration 7382: note latency sample
