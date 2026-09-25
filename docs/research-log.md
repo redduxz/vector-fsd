@@ -4527,3 +4527,4 @@
 - 2026-09-25 19:29:29 iteration 4525: log loop iteration
 - 2026-09-25 19:29:29 iteration 4526: log planning iteration
 - 2026-09-25 19:29:29 iteration 4527: jot safety review
+- 2026-09-25 19:29:30 iteration 4528: log control tweak
