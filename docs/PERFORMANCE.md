@@ -62,6 +62,25 @@ A parallel track under `fsd.ml`: a single network mapping camera → trajectory
 strictly behind the safety gate — an end-to-end policy that cannot veto itself
 is not one we drive with.
 
+## Measured: `fsd_cpp` versus Python (Phase 1 landed)
+
+`scripts/bench_cpp.py` on an RTX-4060 Windows box, 3000 ticks / 300 warmup:
+
+| Call | Python | C++ adapter | Delta |
+| --- | --- | --- | --- |
+| `controller.compute()` | 4382.6 µs | 220.1 µs | **19.9x faster** |
+| `monitor.check()` | 21.7 µs | 40.0 µs | 1.85x slower |
+
+The controller win is real and live: the autopilot builds
+`CppVehicleController`/`CppSafetyMonitor` through `fsd.compat`, so the C++
+loop drives every tick with Python as the automatic fallback.
+
+The monitor regression is honest: at ~20 µs the function is too small for
+the pybind dict conversion to amortise. Fix is a slimmer context object
+kept C++-side rather than rebuilding the crossing each tick. Even so the
+net effect is positive — control dominates the budget by two orders of
+magnitude.
+
 ## Budget
 
 | Stage | Budget at 20 Hz | Notes |

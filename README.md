@@ -70,10 +70,18 @@ powershell -ExecutionPolicy Bypass -File scripts/setup_carla.ps1   # Windows hel
 # or download a release: https://github.com/carla-simulator/carla/releases
 
 # 3: start the simulator (separate terminal)
-%CARLA_ROOT%\CarlaUE4.exe        # Windows
-$CARLA_ROOT/CarlaUE4.sh          # Linux
+#    DX11 flag avoids the 0.9.16 D3D12 crash on RTX-class cards
+%CARLA_ROOT%\CarlaUE4.exe /Game/Carla/Maps/Town05 -windowed -ResX=1280 -ResY=720 -dx11   # Windows
+$CARLA_ROOT/CarlaUE4.sh -dx11                                                          # Linux
 
-# 4: run the autopilot
+# 4: autopilot + live web dashboard (camera, bird's-eye, semantic feed)
+python ui/dashboard.py --config configs/demo.yaml --port 8085
+#    then open http://127.0.0.1:8085
+
+# one-command version: probes the server, can spawn it, runs everything
+python scripts/run_demo.py --carla-exe "%CARLA_ROOT%\CarlaUE4.exe" --town /Game/Carla/Maps/Town05
+
+# headless autopilot without the dashboard:
 python -m fsd.agents.autopilot --config configs/default.yaml
 
 # no simulator? synthetic smoke mode runs the full pipeline anyway:
@@ -84,9 +92,13 @@ python -m fsd.agents.autopilot --no-carla --ticks 300
 
 | File | Purpose |
 | --- | --- |
+| `configs/demo.yaml` | City demo on `Town05`: light traffic, 16-ch LiDAR, tuned for real-time ticks |
 | `configs/default.yaml` | Urban driving in `Town10HD_Opt`, 60 km/h safety cap |
 | `configs/highway.yaml` | Highway profile, higher speed cap and longer horizon |
 | `configs/sensors.yaml` | Sensor mounts and parameters (camera, lidar, radar, GNSS, IMU) |
+
+Full demo instructions, including the hardware notes for known CARLA
+pitfalls, live in [docs/DEMO.md](docs/DEMO.md).
 
 ## Module map
 
@@ -100,6 +112,11 @@ python -m fsd.agents.autopilot --no-carla --ticks 300
 | `safety` | `fsd/safety/` | Rule-engine monitor, watchdog, diagnostics, minimum-risk fallback |
 | `agents` | `fsd/agents/` | Autopilot main loop (entry point), manual override |
 | `ml` | `fsd/ml/` | Model registry, inference engine, imitation-learning trainer, recorder |
+| `compat` | `fsd/compat/` | Python<->C++ bridge: picks the `fsd_cpp` backend when built, falls back to Python |
+| `scenarios` | `fsd/scenarios/` | Closed-loop scenarios and fault injection with pass/fail criteria |
+| `eval` | `fsd/eval/` | Closed-loop metrics: min TTC, rule hits, disengagements, jerk |
+| `cpp` | `cpp/` | C++17 hot path: safety monitor, controllers, occupancy; pybind11 module |
+| `ui` | `ui/` | Live web dashboard: annotated camera, bird's-eye, semantic feed |
 
 ## Safety model
 
@@ -133,9 +150,10 @@ CI runs both on every push ([.github/workflows/ci.yml](.github/workflows/ci.yml)
 - [x] Core contracts, config, logging
 - [x] Safety-gated control pipeline
 - [x] CARLA bridge and synthetic smoke mode
-- [ ] C++ hot-path port: safety monitor and control loop (see docs/PERFORMANCE.md)
+- [x] C++ hot-path port: safety monitor and control loop, live via `fsd/compat` (see docs/PERFORMANCE.md)
+- [x] Scenario and fault-injection harness with pass/fail criteria
+- [x] Live web dashboard (camera detections, bird's-eye, semantic view)
 - [ ] TensorRT-backed perception inference
-- [ ] Scenario and fault-injection harness with regression metrics
 - [ ] Closed-loop evaluation dashboards (routes completed, disengagements, rule hits)
 
 ## Disclaimer
