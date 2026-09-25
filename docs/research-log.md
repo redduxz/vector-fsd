@@ -14873,3 +14873,4 @@
 - 2026-09-25 19:54:22 iteration 2406: jot safety review
 - 2026-09-25 19:54:22 iteration 2407: update research log
 - 2026-09-25 19:54:22 iteration 2408: log planning iteration
+- 2026-09-25 19:54:22 iteration 2409: log control tweak
