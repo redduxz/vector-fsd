@@ -17125,3 +17125,4 @@
 - 2026-09-25 19:59:47 iteration 4658: append session line
 - 2026-09-25 19:59:47 iteration 4659: update research log
 - 2026-09-25 19:59:47 iteration 4660: jot safety review
+- 2026-09-25 19:59:48 iteration 4661: record sim observation
