@@ -5074,3 +5074,4 @@
 - 2026-09-25 19:30:44 iteration 5072: log perception note
 - 2026-09-25 19:30:44 iteration 5073: log control tweak
 - 2026-09-25 19:30:45 iteration 5074: log loop iteration
+- 2026-09-25 19:30:45 iteration 5075: note tuning delta
