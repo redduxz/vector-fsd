@@ -6401,3 +6401,4 @@
 - 2026-09-25 19:33:51 iteration 6399: jot safety review
 - 2026-09-25 19:33:51 iteration 6400: log perception note
 - 2026-09-25 19:33:51 iteration 6401: jot safety review
+- 2026-09-25 19:33:51 iteration 6402: log control tweak
