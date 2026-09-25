@@ -4975,3 +4975,4 @@
 - 2026-09-25 19:30:31 iteration 4973: log loop iteration
 - 2026-09-25 19:30:31 iteration 4974: jot safety review
 - 2026-09-25 19:30:31 iteration 4975: log control tweak
+- 2026-09-25 19:30:31 iteration 4976: mark test run
