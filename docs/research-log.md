@@ -25383,3 +25383,4 @@
 - 2026-09-25 20:32:46 iteration 12916: note tuning delta
 - 2026-09-25 20:32:47 iteration 12917: update research log
 - 2026-09-25 20:32:47 iteration 12918: note tuning delta
+- 2026-09-25 20:32:47 iteration 12919: log control tweak
