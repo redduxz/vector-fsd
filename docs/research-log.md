@@ -672,3 +672,4 @@
 - 2026-09-25 19:21:04 iteration 670: log loop iteration
 - 2026-09-25 19:21:04 iteration 671: jot safety review
 - 2026-09-25 19:21:04 iteration 672: note tuning delta
+- 2026-09-25 19:21:05 iteration 673: record sim observation
