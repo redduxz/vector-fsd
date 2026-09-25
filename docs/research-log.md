@@ -8107,3 +8107,4 @@
 - 2026-09-25 19:37:52 iteration 8105: log control tweak
 - 2026-09-25 19:37:52 iteration 8106: note tuning delta
 - 2026-09-25 19:37:52 iteration 8107: record sim observation
+- 2026-09-25 19:37:52 iteration 8108: append session line
