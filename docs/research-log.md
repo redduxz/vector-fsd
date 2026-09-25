@@ -2828,3 +2828,4 @@
 - 2026-09-25 19:25:28 iteration 2826: log control tweak
 - 2026-09-25 19:25:28 iteration 2827: log control tweak
 - 2026-09-25 19:25:28 iteration 2828: append session line
+- 2026-09-25 19:25:28 iteration 2829: jot safety review
