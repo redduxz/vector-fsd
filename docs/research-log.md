@@ -3700,3 +3700,4 @@
 - 2026-09-25 19:27:28 iteration 3698: jot safety review
 - 2026-09-25 19:27:28 iteration 3699: record checkpoint
 - 2026-09-25 19:27:28 iteration 3700: append session line
+- 2026-09-25 19:27:28 iteration 3701: update research log
