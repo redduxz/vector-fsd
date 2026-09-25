@@ -9530,3 +9530,4 @@
 - 2026-09-25 19:41:07 iteration 9528: log perception note
 - 2026-09-25 19:41:07 iteration 9529: log perception note
 - 2026-09-25 19:41:07 iteration 9530: append session line
+- 2026-09-25 19:41:07 iteration 9531: note latency sample
