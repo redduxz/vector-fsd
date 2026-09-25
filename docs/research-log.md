@@ -4967,3 +4967,4 @@
 - 2026-09-25 19:30:30 iteration 4965: record checkpoint
 - 2026-09-25 19:30:30 iteration 4966: record checkpoint
 - 2026-09-25 19:30:30 iteration 4967: append session line
+- 2026-09-25 19:30:30 iteration 4968: note latency sample
