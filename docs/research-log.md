@@ -4582,3 +4582,4 @@
 - 2026-09-25 19:29:36 iteration 4580: log planning iteration
 - 2026-09-25 19:29:37 iteration 4581: record sim observation
 - 2026-09-25 19:29:37 iteration 4582: record sim observation
+- 2026-09-25 19:29:37 iteration 4583: note tuning delta
