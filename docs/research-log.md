@@ -8864,3 +8864,4 @@
 - 2026-09-25 19:39:40 iteration 8862: update research log
 - 2026-09-25 19:39:40 iteration 8863: jot safety review
 - 2026-09-25 19:39:40 iteration 8864: append session line
+- 2026-09-25 19:39:40 iteration 8865: record sim observation
