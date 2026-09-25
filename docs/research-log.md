@@ -8860,3 +8860,4 @@
 - 2026-09-25 19:39:39 iteration 8858: log loop iteration
 - 2026-09-25 19:39:39 iteration 8859: log loop iteration
 - 2026-09-25 19:39:40 iteration 8860: record checkpoint
+- 2026-09-25 19:39:40 iteration 8861: record sim observation
