@@ -3542,3 +3542,4 @@
 - 2026-09-25 19:27:04 iteration 3540: record checkpoint
 - 2026-09-25 19:27:04 iteration 3541: log control tweak
 - 2026-09-25 19:27:04 iteration 3542: mark test run
+- 2026-09-25 19:27:04 iteration 3543: jot safety review
