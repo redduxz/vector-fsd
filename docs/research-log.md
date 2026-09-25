@@ -1810,3 +1810,4 @@
 - 2026-09-25 19:23:16 iteration 1808: record checkpoint
 - 2026-09-25 19:23:16 iteration 1809: log control tweak
 - 2026-09-25 19:23:16 iteration 1810: jot safety review
+- 2026-09-25 19:23:16 iteration 1811: log loop iteration
