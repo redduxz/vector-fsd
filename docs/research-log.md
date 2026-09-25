@@ -1978,3 +1978,4 @@
 - 2026-09-25 19:23:35 iteration 1976: log perception note
 - 2026-09-25 19:23:35 iteration 1977: append session line
 - 2026-09-25 19:23:35 iteration 1978: append session line
+- 2026-09-25 19:23:36 iteration 1979: log control tweak
