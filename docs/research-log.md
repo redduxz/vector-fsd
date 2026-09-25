@@ -34170,3 +34170,4 @@
 - 2026-09-25 21:02:53 iteration 21703: log perception note
 - 2026-09-25 21:02:53 iteration 21704: note latency sample
 - 2026-09-25 21:02:53 iteration 21705: jot safety review
+- 2026-09-25 21:02:53 iteration 21706: record sim observation
