@@ -15939,3 +15939,4 @@
 - 2026-09-25 19:56:53 iteration 3472: append session line
 - 2026-09-25 19:56:53 iteration 3473: mark test run
 - 2026-09-25 19:56:53 iteration 3474: log control tweak
+- 2026-09-25 19:56:53 iteration 3475: log planning iteration
