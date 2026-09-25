@@ -9970,3 +9970,4 @@
 - 2026-09-25 19:42:12 iteration 9968: mark test run
 - 2026-09-25 19:42:12 iteration 9969: note latency sample
 - 2026-09-25 19:42:12 iteration 9970: jot safety review
+- 2026-09-25 19:42:13 iteration 9971: note tuning delta
