@@ -10677,3 +10677,4 @@
 - 2026-09-25 19:43:47 iteration 10675: update research log
 - 2026-09-25 19:43:47 iteration 10676: log control tweak
 - 2026-09-25 19:43:47 iteration 10677: log perception note
+- 2026-09-25 19:43:47 iteration 10678: mark test run
