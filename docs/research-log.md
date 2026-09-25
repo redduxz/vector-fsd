@@ -8314,3 +8314,4 @@
 - 2026-09-25 19:38:23 iteration 8312: note latency sample
 - 2026-09-25 19:38:24 iteration 8313: record checkpoint
 - 2026-09-25 19:38:24 iteration 8314: log control tweak
+- 2026-09-25 19:38:24 iteration 8315: jot safety review
