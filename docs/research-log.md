@@ -6035,3 +6035,4 @@
 - 2026-09-25 19:33:01 iteration 6033: jot safety review
 - 2026-09-25 19:33:01 iteration 6034: record sim observation
 - 2026-09-25 19:33:01 iteration 6035: log control tweak
+- 2026-09-25 19:33:01 iteration 6036: record checkpoint
