@@ -35960,3 +35960,4 @@
 - 2026-09-25 21:09:43 iteration 23493: append session line
 - 2026-09-25 21:09:43 iteration 23494: note tuning delta
 - 2026-09-25 21:09:44 iteration 23495: record checkpoint
+- 2026-09-25 21:09:44 iteration 23496: log control tweak
