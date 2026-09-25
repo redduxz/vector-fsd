@@ -12867,3 +12867,4 @@
 - 2026-09-25 19:49:47 iteration 400: log perception note
 - 2026-09-25 19:49:47 iteration 401: mark test run
 - 2026-09-25 19:49:48 iteration 402: record checkpoint
+- 2026-09-25 19:49:48 iteration 403: note latency sample
