@@ -385,3 +385,4 @@
 - 2026-09-25 19:20:31 iteration 383: record sim observation
 - 2026-09-25 19:20:31 iteration 384: log loop iteration
 - 2026-09-25 19:20:31 iteration 385: mark test run
+- 2026-09-25 19:20:31 iteration 386: record checkpoint
