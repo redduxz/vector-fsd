@@ -1029,3 +1029,4 @@
 - 2026-09-25 19:21:45 iteration 1027: note tuning delta
 - 2026-09-25 19:21:45 iteration 1028: record sim observation
 - 2026-09-25 19:21:45 iteration 1029: note tuning delta
+- 2026-09-25 19:21:46 iteration 1030: jot safety review
