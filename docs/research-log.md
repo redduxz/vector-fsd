@@ -7052,3 +7052,4 @@
 - 2026-09-25 19:35:28 iteration 7050: append session line
 - 2026-09-25 19:35:28 iteration 7051: note tuning delta
 - 2026-09-25 19:35:28 iteration 7052: append session line
+- 2026-09-25 19:35:29 iteration 7053: log control tweak
