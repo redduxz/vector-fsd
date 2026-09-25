@@ -22736,3 +22736,4 @@
 - 2026-09-25 20:21:51 iteration 10269: log loop iteration
 - 2026-09-25 20:21:51 iteration 10270: log planning iteration
 - 2026-09-25 20:21:51 iteration 10271: log control tweak
+- 2026-09-25 20:21:52 iteration 10272: note latency sample
