@@ -4403,3 +4403,4 @@
 - 2026-09-25 19:29:12 iteration 4401: log loop iteration
 - 2026-09-25 19:29:12 iteration 4402: note latency sample
 - 2026-09-25 19:29:12 iteration 4403: log control tweak
+- 2026-09-25 19:29:12 iteration 4404: log perception note
