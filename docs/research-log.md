@@ -10889,3 +10889,4 @@
 - 2026-09-25 19:44:17 iteration 10887: note latency sample
 - 2026-09-25 19:44:17 iteration 10888: note latency sample
 - 2026-09-25 19:44:17 iteration 10889: record checkpoint
+- 2026-09-25 19:44:17 iteration 10890: log control tweak
