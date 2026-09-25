@@ -4738,3 +4738,4 @@
 - 2026-09-25 19:29:58 iteration 4736: record checkpoint
 - 2026-09-25 19:29:58 iteration 4737: log planning iteration
 - 2026-09-25 19:29:58 iteration 4738: update research log
+- 2026-09-25 19:29:58 iteration 4739: log control tweak
