@@ -36354,3 +36354,4 @@
 - 2026-09-25 21:11:25 iteration 23887: update research log
 - 2026-09-25 21:11:25 iteration 23888: mark test run
 - 2026-09-25 21:11:25 iteration 23889: record checkpoint
+- 2026-09-25 21:11:25 iteration 23890: note tuning delta
