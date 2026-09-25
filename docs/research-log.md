@@ -24317,3 +24317,4 @@
 - 2026-09-25 20:28:09 iteration 11850: log planning iteration
 - 2026-09-25 20:28:09 iteration 11851: log loop iteration
 - 2026-09-25 20:28:09 iteration 11852: log control tweak
+- 2026-09-25 20:28:09 iteration 11853: note tuning delta
