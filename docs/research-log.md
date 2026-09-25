@@ -1493,3 +1493,4 @@
 - 2026-09-25 19:22:39 iteration 1491: log loop iteration
 - 2026-09-25 19:22:39 iteration 1492: mark test run
 - 2026-09-25 19:22:39 iteration 1493: record checkpoint
+- 2026-09-25 19:22:39 iteration 1494: log perception note
