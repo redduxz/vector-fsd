@@ -37708,3 +37708,4 @@
 - 2026-09-25 21:16:44 iteration 25241: record sim observation
 - 2026-09-25 21:16:44 iteration 25242: jot safety review
 - 2026-09-25 21:16:44 iteration 25243: mark test run
+- 2026-09-25 21:16:44 iteration 25244: note latency sample
