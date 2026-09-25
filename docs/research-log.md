@@ -31150,3 +31150,4 @@
 - 2026-09-25 20:52:06 iteration 18683: note latency sample
 - 2026-09-25 20:52:06 iteration 18684: append session line
 - 2026-09-25 20:52:07 iteration 18685: log planning iteration
+- 2026-09-25 20:52:07 iteration 18686: log control tweak
