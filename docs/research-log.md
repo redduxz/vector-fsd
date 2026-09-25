@@ -8203,3 +8203,4 @@
 - 2026-09-25 19:38:04 iteration 8201: update research log
 - 2026-09-25 19:38:04 iteration 8202: mark test run
 - 2026-09-25 19:38:04 iteration 8203: note tuning delta
+- 2026-09-25 19:38:05 iteration 8204: log perception note
