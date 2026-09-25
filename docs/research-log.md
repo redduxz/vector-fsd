@@ -33057,3 +33057,4 @@
 - 2026-09-25 20:58:50 iteration 20590: append session line
 - 2026-09-25 20:58:50 iteration 20591: note tuning delta
 - 2026-09-25 20:58:50 iteration 20592: mark test run
+- 2026-09-25 20:58:51 iteration 20593: record sim observation
