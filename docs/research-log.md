@@ -29963,3 +29963,4 @@
 - 2026-09-25 20:48:14 iteration 17496: note latency sample
 - 2026-09-25 20:48:14 iteration 17497: jot safety review
 - 2026-09-25 20:48:14 iteration 17498: mark test run
+- 2026-09-25 20:48:14 iteration 17499: log control tweak
