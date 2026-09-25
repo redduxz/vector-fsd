@@ -8392,3 +8392,4 @@
 - 2026-09-25 19:38:34 iteration 8390: record sim observation
 - 2026-09-25 19:38:34 iteration 8391: append session line
 - 2026-09-25 19:38:34 iteration 8392: log control tweak
+- 2026-09-25 19:38:34 iteration 8393: log planning iteration
