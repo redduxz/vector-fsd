@@ -1995,3 +1995,4 @@
 - 2026-09-25 19:23:37 iteration 1993: log planning iteration
 - 2026-09-25 19:23:37 iteration 1994: jot safety review
 - 2026-09-25 19:23:37 iteration 1995: log control tweak
+- 2026-09-25 19:23:38 iteration 1996: log perception note
