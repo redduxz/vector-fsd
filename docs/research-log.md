@@ -8504,3 +8504,4 @@
 - 2026-09-25 19:38:50 iteration 8502: log planning iteration
 - 2026-09-25 19:38:50 iteration 8503: append session line
 - 2026-09-25 19:38:50 iteration 8504: update research log
+- 2026-09-25 19:38:50 iteration 8505: note latency sample
