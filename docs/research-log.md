@@ -957,3 +957,4 @@
 - 2026-09-25 19:21:37 iteration 955: jot safety review
 - 2026-09-25 19:21:37 iteration 956: note tuning delta
 - 2026-09-25 19:21:37 iteration 957: note latency sample
+- 2026-09-25 19:21:37 iteration 958: record sim observation
