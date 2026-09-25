@@ -21800,3 +21800,4 @@
 - 2026-09-25 20:17:27 iteration 9333: record checkpoint
 - 2026-09-25 20:17:27 iteration 9334: mark test run
 - 2026-09-25 20:17:27 iteration 9335: record sim observation
+- 2026-09-25 20:17:27 iteration 9336: log perception note
