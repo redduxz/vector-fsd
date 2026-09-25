@@ -4059,3 +4059,4 @@
 - 2026-09-25 19:28:24 iteration 4057: mark test run
 - 2026-09-25 19:28:24 iteration 4058: record checkpoint
 - 2026-09-25 19:28:24 iteration 4059: note tuning delta
+- 2026-09-25 19:28:24 iteration 4060: log control tweak
