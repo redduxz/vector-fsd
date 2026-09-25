@@ -5998,3 +5998,4 @@
 - 2026-09-25 19:32:55 iteration 5996: log control tweak
 - 2026-09-25 19:32:56 iteration 5997: log loop iteration
 - 2026-09-25 19:32:56 iteration 5998: note latency sample
+- 2026-09-25 19:32:56 iteration 5999: mark test run
