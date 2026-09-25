@@ -2628,3 +2628,4 @@
 - 2026-09-25 19:25:01 iteration 2626: record sim observation
 - 2026-09-25 19:25:01 iteration 2627: record sim observation
 - 2026-09-25 19:25:01 iteration 2628: log loop iteration
+- 2026-09-25 19:25:01 iteration 2629: record checkpoint
