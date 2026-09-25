@@ -26130,3 +26130,4 @@
 - 2026-09-25 20:34:51 iteration 13663: update research log
 - 2026-09-25 20:34:51 iteration 13664: record sim observation
 - 2026-09-25 20:34:52 iteration 13665: record sim observation
+- 2026-09-25 20:34:52 iteration 13666: log control tweak
