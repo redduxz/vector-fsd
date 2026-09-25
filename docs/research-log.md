@@ -11485,3 +11485,4 @@
 - 2026-09-25 19:45:44 iteration 11483: mark test run
 - 2026-09-25 19:45:44 iteration 11484: mark test run
 - 2026-09-25 19:45:44 iteration 11485: jot safety review
+- 2026-09-25 19:45:44 iteration 11486: log control tweak
