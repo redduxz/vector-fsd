@@ -6480,3 +6480,4 @@
 - 2026-09-25 19:34:09 iteration 6478: log control tweak
 - 2026-09-25 19:34:09 iteration 6479: note latency sample
 - 2026-09-25 19:34:09 iteration 6480: jot safety review
+- 2026-09-25 19:34:09 iteration 6481: append session line
