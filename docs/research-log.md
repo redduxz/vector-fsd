@@ -11860,3 +11860,4 @@
 - 2026-09-25 19:46:34 iteration 11858: note latency sample
 - 2026-09-25 19:46:34 iteration 11859: record checkpoint
 - 2026-09-25 19:46:34 iteration 11860: jot safety review
+- 2026-09-25 19:46:34 iteration 11861: record sim observation
