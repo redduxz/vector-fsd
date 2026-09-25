@@ -1960,3 +1960,4 @@
 - 2026-09-25 19:23:33 iteration 1958: mark test run
 - 2026-09-25 19:23:33 iteration 1959: record checkpoint
 - 2026-09-25 19:23:33 iteration 1960: append session line
+- 2026-09-25 19:23:33 iteration 1961: record sim observation
