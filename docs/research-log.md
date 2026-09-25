@@ -24244,3 +24244,4 @@
 - 2026-09-25 20:27:52 iteration 11777: record sim observation
 - 2026-09-25 20:27:52 iteration 11778: log planning iteration
 - 2026-09-25 20:27:52 iteration 11779: note tuning delta
+- 2026-09-25 20:27:52 iteration 11780: log perception note
