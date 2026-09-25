@@ -2682,3 +2682,4 @@
 - 2026-09-25 19:25:08 iteration 2680: record sim observation
 - 2026-09-25 19:25:08 iteration 2681: append session line
 - 2026-09-25 19:25:09 iteration 2682: note latency sample
+- 2026-09-25 19:25:09 iteration 2683: log planning iteration
