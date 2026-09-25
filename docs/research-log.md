@@ -6124,3 +6124,4 @@
 - 2026-09-25 19:33:13 iteration 6122: update research log
 - 2026-09-25 19:33:13 iteration 6123: append session line
 - 2026-09-25 19:33:13 iteration 6124: note latency sample
+- 2026-09-25 19:33:14 iteration 6125: note tuning delta
