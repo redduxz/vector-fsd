@@ -36581,3 +36581,4 @@
 - 2026-09-25 21:12:09 iteration 24114: jot safety review
 - 2026-09-25 21:12:09 iteration 24115: update research log
 - 2026-09-25 21:12:09 iteration 24116: record checkpoint
+- 2026-09-25 21:12:10 iteration 24117: note tuning delta
