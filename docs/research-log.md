@@ -2335,3 +2335,4 @@
 - 2026-09-25 19:24:23 iteration 2333: jot safety review
 - 2026-09-25 19:24:23 iteration 2334: mark test run
 - 2026-09-25 19:24:23 iteration 2335: mark test run
+- 2026-09-25 19:24:23 iteration 2336: note tuning delta
