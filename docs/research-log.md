@@ -30819,3 +30819,4 @@
 - 2026-09-25 20:51:01 iteration 18352: note tuning delta
 - 2026-09-25 20:51:01 iteration 18353: mark test run
 - 2026-09-25 20:51:01 iteration 18354: jot safety review
+- 2026-09-25 20:51:02 iteration 18355: log control tweak
