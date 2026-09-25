@@ -6079,3 +6079,4 @@
 - 2026-09-25 19:33:07 iteration 6077: note latency sample
 - 2026-09-25 19:33:07 iteration 6078: log control tweak
 - 2026-09-25 19:33:07 iteration 6079: note tuning delta
+- 2026-09-25 19:33:07 iteration 6080: log perception note
