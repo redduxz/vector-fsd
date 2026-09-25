@@ -819,3 +819,4 @@
 - 2026-09-25 19:21:21 iteration 817: update research log
 - 2026-09-25 19:21:21 iteration 818: append session line
 - 2026-09-25 19:21:21 iteration 819: note latency sample
+- 2026-09-25 19:21:22 iteration 820: note tuning delta
