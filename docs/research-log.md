@@ -2610,3 +2610,4 @@
 - 2026-09-25 19:24:58 iteration 2608: append session line
 - 2026-09-25 19:24:58 iteration 2609: record checkpoint
 - 2026-09-25 19:24:58 iteration 2610: record sim observation
+- 2026-09-25 19:24:58 iteration 2611: log planning iteration
