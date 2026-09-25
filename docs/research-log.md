@@ -15186,3 +15186,4 @@
 - 2026-09-25 19:55:11 iteration 2719: update research log
 - 2026-09-25 19:55:11 iteration 2720: mark test run
 - 2026-09-25 19:55:11 iteration 2721: jot safety review
+- 2026-09-25 19:55:11 iteration 2722: note latency sample
