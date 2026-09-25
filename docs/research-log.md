@@ -2106,3 +2106,4 @@
 - 2026-09-25 19:23:55 iteration 2104: record checkpoint
 - 2026-09-25 19:23:55 iteration 2105: update research log
 - 2026-09-25 19:23:55 iteration 2106: record sim observation
+- 2026-09-25 19:23:55 iteration 2107: log control tweak
