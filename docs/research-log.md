@@ -9113,3 +9113,4 @@
 - 2026-09-25 19:40:14 iteration 9111: record checkpoint
 - 2026-09-25 19:40:14 iteration 9112: log control tweak
 - 2026-09-25 19:40:14 iteration 9113: record sim observation
+- 2026-09-25 19:40:15 iteration 9114: note latency sample
