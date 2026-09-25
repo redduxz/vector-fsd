@@ -3118,3 +3118,4 @@
 - 2026-09-25 19:26:04 iteration 3116: log planning iteration
 - 2026-09-25 19:26:04 iteration 3117: log loop iteration
 - 2026-09-25 19:26:04 iteration 3118: note latency sample
+- 2026-09-25 19:26:04 iteration 3119: log perception note
