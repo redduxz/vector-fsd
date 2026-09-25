@@ -39410,3 +39410,4 @@
 - 2026-09-25 21:22:18 iteration 26943: append session line
 - 2026-09-25 21:22:19 iteration 26944: update research log
 - 2026-09-25 21:22:19 iteration 26945: log loop iteration
+- 2026-09-25 21:22:19 iteration 26946: note tuning delta
