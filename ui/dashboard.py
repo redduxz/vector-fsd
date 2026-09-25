@@ -39,6 +39,22 @@ def _jpeg(frame: np.ndarray) -> bytes:
     return buf.tobytes() if ok else b""
 
 
+_CLS_COL = {"vehicle": (60, 80, 230), "pedestrian": (60, 190, 230),
+            "cyclist": (60, 140, 230), "sign": (140, 140, 150),
+            "misc": (120, 120, 130)}
+
+
+def _cam_project(fwd: float, right: float, z_top: float,
+                 W: int, H: int, cam_h: float = 1.4):
+    """Ground-plane pinhole: ego-frame point -> pixel. Returns (px, py)."""
+    if fwd <= 0.5:
+        return None
+    fx = W / 2.0                       # hfov 90 deg -> fx = W/2
+    px = int(W / 2.0 + right * fx / fwd)
+    py = int(H / 2.0 + (cam_h - z_top) * fx / fwd)
+    return px, py
+
+
 def _overlay_cam(frame: np.ndarray, st: dict) -> np.ndarray:
     img = frame.copy()
     h, w = img.shape[:2]
@@ -46,10 +62,51 @@ def _overlay_cam(frame: np.ndarray, st: dict) -> np.ndarray:
     color = {"ENGAGED": (60, 220, 120), "DEGRADED": (0, 200, 255),
              "SAFE_STOP": (60, 60, 240), "DISENGAGED": (180, 180, 180)}.get(
         mode, (200, 200, 200))
-    cv2.rectangle(img, (0, 0), (w, 46), (10, 14, 18), -1)
-    cv2.putText(img, f"{mode}", (12, 32), cv2.FONT_HERSHEY_SIMPLEX, 0.9, color, 2)
+
+    # ---- projected detections ---------------------------------------- #
+    ex_x, ex_y, eyaw = st.get("x", 0.0), st.get("y", 0.0), st.get("yaw", 0.0)
+    cos_y, sin_y = np.cos(eyaw), np.sin(eyaw)
+    for o in st.get("objects", []):
+        dx, dy = o["x"] - ex_x, o["y"] - ex_y
+        fwd = dx * cos_y + dy * sin_y
+        right = -dx * sin_y + dy * cos_y
+        if fwd <= 1.0 or fwd > 80.0:
+            continue
+        col = _CLS_COL.get(o.get("cls"), (160, 160, 160))
+        hw = max(0.6, o.get("ey", 0.9))          # half width
+        ht = max(0.8, o.get("ez", 1.4) * 2.0)    # full height
+        p1 = _cam_project(fwd, right - hw, ht, w, h)
+        p2 = _cam_project(fwd, right + hw, 0.0, w, h)
+        if p1 is None or p2 is None:
+            continue
+        cv2.rectangle(img, p1, p2, col, 2)
+        cv2.putText(img, f"{o.get('cls','?')} {fwd:.0f}m",
+                    (p1[0], max(14, p1[1] - 5)),
+                    cv2.FONT_HERSHEY_SIMPLEX, 0.45, col, 1)
+
+    # ---- header bar --------------------------------------------------- #
+    ov = img.copy()
+    cv2.rectangle(ov, (0, 0), (w, 46), (10, 14, 18), -1)
+    cv2.addWeighted(ov, 0.82, img, 0.18, 0, img)
+    cv2.putText(img, f"{mode}", (12, 32), cv2.FONT_HERSHEY_SIMPLEX, 0.9,
+                color, 2)
     cv2.putText(img, f"{st.get('speed_kph', 0):5.1f} km/h", (w - 250, 32),
                 cv2.FONT_HERSHEY_SIMPLEX, 0.9, (80, 220, 255), 2)
+
+    # ---- traffic-light banner ------------------------------------------ #
+    light = st.get("light", "UNKNOWN")
+    if light in ("RED", "YELLOW", "GREEN"):
+        lc = {"RED": (60, 60, 230), "YELLOW": (60, 190, 230),
+              "GREEN": (60, 200, 120)}[light]
+        sl = st.get("stop_line")
+        label = f"{light}" + (f"  {sl:.0f} m" if sl and sl < 200 else "")
+        cv2.rectangle(img, (w // 2 - 80, 8), (w // 2 + 80, 40),
+                      (12, 16, 20), -1)
+        cv2.rectangle(img, (w // 2 - 80, 8), (w // 2 + 80, 40), lc, 2)
+        cv2.putText(img, label, (w // 2 - 62, 31),
+                    cv2.FONT_HERSHEY_SIMPLEX, 0.7, lc, 2)
+
+    # ---- lane offset bar ----------------------------------------------- #
     lane = st.get("lane", {})
     if lane.get("detected"):
         off = lane.get("center_offset", 0.0)
@@ -81,8 +138,9 @@ def _bev(st: dict, size=560, ppm=6.0) -> np.ndarray:
 
     # grid
     for g in range(-10, 61, 10):
-        cv2.line(img, (0, cy - g * ppm), (size, cy - g * ppm), (22, 26, 32), 1)
-        cv2.putText(img, f"{g}m", (4, cy - g * ppm - 3),
+        gy = int(cy - g * ppm)
+        cv2.line(img, (0, gy), (size, gy), (22, 26, 32), 1)
+        cv2.putText(img, f"{g}m", (4, gy - 3),
                     cv2.FONT_HERSHEY_SIMPLEX, 0.35, (60, 66, 74), 1)
 
     # lane edges
@@ -102,16 +160,25 @@ def _bev(st: dict, size=560, ppm=6.0) -> np.ndarray:
     fs = min(st.get("free_space", 0.0), 60.0)
     cv2.line(img, (cx, cy), (cx, int(cy - fs * ppm)), (30, 90, 60), 12)
 
-    # trajectory
-    for p in st.get("traj", [])[:45]:
-        cv2.circle(img, to_px(p["x"], p["y"]), 3, (200, 160, 60), -1)
+    # stop line (active traffic light)
+    sl = st.get("stop_line")
+    if sl is not None and 0.0 < sl < 70.0:
+        py = int(cy - sl * ppm)
+        cv2.line(img, (cx - 60, py), (cx + 60, py), (60, 60, 220), 3)
+        cv2.putText(img, "STOP", (cx + 64, py + 5),
+                    cv2.FONT_HERSHEY_SIMPLEX, 0.4, (60, 60, 220), 1)
 
-    # objects
+    # trajectory as a connected path
+    tpts = [to_px(p["x"], p["y"]) for p in st.get("traj", [])[:60]]
+    for i in range(len(tpts) - 1):
+        cv2.line(img, tpts[i], tpts[i + 1], (200, 160, 60), 2)
+
+    # objects — class-coloured footprint
     for o in st.get("objects", []):
         px, py = to_px(o["x"], o["y"])
         ex = max(4, int(o.get("ex", 2.2) * ppm))
         ey = max(4, int(o.get("ey", 0.9) * ppm))
-        col = (60, 60, 220) if o.get("cls") == "vehicle" else (60, 180, 220)
+        col = _CLS_COL.get(o.get("cls"), (150, 150, 150))
         cv2.rectangle(img, (px - ey, py - ex), (px + ey, py + ex), col, 2)
         cv2.putText(img, o.get("cls", "?")[:8], (px - ey, py - ex - 4),
                     cv2.FONT_HERSHEY_SIMPLEX, 0.35, col, 1)
@@ -122,6 +189,22 @@ def _bev(st: dict, size=560, ppm=6.0) -> np.ndarray:
     cv2.putText(img, "EGO", (cx - 16, cy + 42), cv2.FONT_HERSHEY_SIMPLEX,
                 0.45, (80, 220, 255), 1)
     return img
+
+
+# CARLA semantic tag id -> BGR colour (Cityscapes palette subset)
+_SEM_LUT = np.zeros((24, 3), np.uint8)
+for _i, _c in {
+    1: (70, 70, 70), 4: (60, 20, 220), 6: (157, 234, 50),
+    7: (128, 64, 128), 8: (244, 35, 232), 9: (107, 142, 35),
+    10: (0, 0, 142), 12: (0, 220, 220), 13: (180, 130, 70),
+    18: (250, 170, 30), 20: (180, 60, 220), 21: (230, 170, 60),
+    22: (150, 110, 60),
+}.items():
+    _SEM_LUT[_i] = _c
+
+
+def _colorize_sem(tag_img: np.ndarray) -> np.ndarray:
+    return _SEM_LUT[np.clip(tag_img.astype(np.int32), 0, len(_SEM_LUT) - 1)]
 
 
 def _snapshot(agent):
@@ -151,6 +234,11 @@ def _mjpeg(which):
                         rd = sensors.get("camera_rgb")
                         if rd is not None:
                             out = _overlay_cam(np.asarray(rd.data), st)
+                    elif which == "sem":
+                        _, sensors = _snapshot(agent)
+                        rd = sensors.get("camera_sem")
+                        if rd is not None:
+                            out = _colorize_sem(np.asarray(rd.data))
                     else:
                         out = _bev(st)
                 except Exception:
@@ -176,6 +264,11 @@ def stream_cam():
 @app.get("/stream/bev")
 def stream_bev():
     return _mjpeg("bev")
+
+
+@app.get("/stream/sem")
+def stream_sem():
+    return _mjpeg("sem")
 
 
 @app.get("/state")
@@ -227,11 +320,16 @@ PAGE = """<!doctype html>
       <div class="stat"><div class="k">BRAKE</div><div class="v" id="brk">0%</div><div class="bar"><div id="brkb" style="background:#f85149;width:0%"></div></div></div>
       <div class="stat"><div class="k">STEER</div><div class="v" id="str">0</div><div class="bar"><div id="strb" style="background:#36bcf7;width:50%"></div></div></div>
       <div class="stat"><div class="k">TRAFFIC LIGHT</div><div class="v" id="tl">—</div></div>
+      <div class="stat"><div class="k">STOP LINE</div><div class="v"><span id="sld">—</span> m</div></div>
+      <div class="stat"><div class="k">PERCEPTION</div><div class="v" id="pok">—</div></div>
+      <div class="stat"><div class="k">PLANNING</div><div class="v" id="qok">—</div></div>
+      <div class="stat"><div class="k">TICK</div><div class="v" id="tk">0</div></div>
     </div>
     <div class="card"><div class="h">CAMERA · DRIVER VIEW</div><img src="/stream/cam"></div>
   </div>
   <div>
     <div class="card"><div class="h">BIRD'S-EYE · WORLD STATE</div><img src="/stream/bev"></div>
+    <div class="card" style="margin-top:14px"><div class="h">PERCEPTION · SEMANTIC</div><img src="/stream/sem"></div>
     <div class="card" style="margin-top:14px"><div class="h">SAFETY LOG</div><div id="events"></div></div>
   </div>
 </div>
@@ -245,6 +343,13 @@ setInterval(async () => {
     document.getElementById('fs').textContent = (s.free_space||0).toFixed(0);
     document.getElementById('obj').textContent = s.object_count||0;
     document.getElementById('tl').textContent = s.light||'—';
+    document.getElementById('sld').textContent =
+      (s.stop_line!=null && s.stop_line<900) ? s.stop_line.toFixed(0) : '—';
+    document.getElementById('pok').textContent = s.perception_ok?'OK':'DEGRADED';
+    document.getElementById('pok').style.color = s.perception_ok?'#3ddc78':'#ffa657';
+    document.getElementById('qok').textContent = s.planning_ok?'OK':'DEGRADED';
+    document.getElementById('qok').style.color = s.planning_ok?'#3ddc78':'#ffa657';
+    document.getElementById('tk').textContent = s.tick||0;
     const c = s.cmd||{};
     document.getElementById('thr').textContent = Math.round((c.throttle||0)*100)+'%';
     document.getElementById('brk').textContent = Math.round((c.brake||0)*100)+'%';
@@ -287,9 +392,15 @@ def drive(cfg_path: str, smoke: bool):
             "cmd": {"throttle": cmd.throttle, "brake": cmd.brake,
                     "steer": cmd.steer} if cmd else {},
             "objects": [{"x": o.position.x, "y": o.position.y, "cls": o.cls,
-                         "ex": o.bbox_extent.x, "ey": o.bbox_extent.y}
+                         "ex": o.bbox_extent.x, "ey": o.bbox_extent.y,
+                         "ez": o.bbox_extent.z}
                         for o in (perc.objects if perc else [])],
             "object_count": len(perc.objects) if perc else 0,
+            "stop_line": getattr(perc, "stop_line_m", float("inf"))
+                         if perc else float("inf"),
+            "perception_ok": r.get("perception_ok", True),
+            "planning_ok": r.get("planning_ok", True),
+            "relocations": getattr(agent, "_relocations", 0),
             "lane": {"detected": perc.lane.detected,
                      "center_offset": perc.lane.center_offset,
                      "lane_width": perc.lane.lane_width} if perc else {},
