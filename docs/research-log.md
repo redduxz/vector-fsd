@@ -38561,3 +38561,4 @@
 - 2026-09-25 21:19:39 iteration 26094: mark test run
 - 2026-09-25 21:19:40 iteration 26095: log loop iteration
 - 2026-09-25 21:19:40 iteration 26096: jot safety review
+- 2026-09-25 21:19:40 iteration 26097: note latency sample
