@@ -36402,3 +36402,4 @@
 - 2026-09-25 21:11:34 iteration 23935: update research log
 - 2026-09-25 21:11:35 iteration 23936: jot safety review
 - 2026-09-25 21:11:35 iteration 23937: mark test run
+- 2026-09-25 21:11:35 iteration 23938: note tuning delta
