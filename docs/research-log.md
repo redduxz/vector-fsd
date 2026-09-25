@@ -332,3 +332,4 @@
 - 2026-09-25 19:20:25 iteration 330: record checkpoint
 - 2026-09-25 19:20:25 iteration 331: append session line
 - 2026-09-25 19:20:25 iteration 332: note tuning delta
+- 2026-09-25 19:20:25 iteration 333: mark test run
