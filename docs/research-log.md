@@ -514,3 +514,4 @@
 - 2026-09-25 19:20:46 iteration 512: jot safety review
 - 2026-09-25 19:20:46 iteration 513: mark test run
 - 2026-09-25 19:20:46 iteration 514: record checkpoint
+- 2026-09-25 19:20:46 iteration 515: note tuning delta
