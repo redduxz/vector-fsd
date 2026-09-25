@@ -8174,3 +8174,4 @@
 - 2026-09-25 19:38:01 iteration 8172: log control tweak
 - 2026-09-25 19:38:01 iteration 8173: log perception note
 - 2026-09-25 19:38:01 iteration 8174: update research log
+- 2026-09-25 19:38:01 iteration 8175: record sim observation
