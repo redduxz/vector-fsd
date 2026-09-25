@@ -4938,3 +4938,4 @@
 - 2026-09-25 19:30:26 iteration 4936: log perception note
 - 2026-09-25 19:30:26 iteration 4937: append session line
 - 2026-09-25 19:30:26 iteration 4938: log perception note
+- 2026-09-25 19:30:26 iteration 4939: note latency sample
