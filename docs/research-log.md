@@ -998,3 +998,4 @@
 - 2026-09-25 19:21:42 iteration 996: log perception note
 - 2026-09-25 19:21:42 iteration 997: append session line
 - 2026-09-25 19:21:42 iteration 998: log control tweak
+- 2026-09-25 19:21:42 iteration 999: log planning iteration
