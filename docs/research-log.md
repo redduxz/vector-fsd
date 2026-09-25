@@ -3310,3 +3310,4 @@
 - 2026-09-25 19:26:31 iteration 3308: log perception note
 - 2026-09-25 19:26:31 iteration 3309: note latency sample
 - 2026-09-25 19:26:31 iteration 3310: append session line
+- 2026-09-25 19:26:31 iteration 3311: record sim observation
