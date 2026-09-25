@@ -22175,3 +22175,4 @@
 - 2026-09-25 20:19:09 iteration 9708: append session line
 - 2026-09-25 20:19:10 iteration 9709: record sim observation
 - 2026-09-25 20:19:10 iteration 9710: mark test run
+- 2026-09-25 20:19:10 iteration 9711: log loop iteration
