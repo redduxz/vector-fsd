@@ -30538,3 +30538,4 @@
 - 2026-09-25 20:50:07 iteration 18071: record checkpoint
 - 2026-09-25 20:50:07 iteration 18072: mark test run
 - 2026-09-25 20:50:08 iteration 18073: log loop iteration
+- 2026-09-25 20:50:08 iteration 18074: note latency sample
