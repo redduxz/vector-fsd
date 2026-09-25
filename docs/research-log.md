@@ -5562,3 +5562,4 @@
 - 2026-09-25 19:31:53 iteration 5560: log control tweak
 - 2026-09-25 19:31:53 iteration 5561: record sim observation
 - 2026-09-25 19:31:53 iteration 5562: record sim observation
+- 2026-09-25 19:31:53 iteration 5563: log perception note
