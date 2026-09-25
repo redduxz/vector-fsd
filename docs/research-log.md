@@ -8877,3 +8877,4 @@
 - 2026-09-25 19:39:42 iteration 8875: update research log
 - 2026-09-25 19:39:42 iteration 8876: jot safety review
 - 2026-09-25 19:39:42 iteration 8877: mark test run
+- 2026-09-25 19:39:42 iteration 8878: log control tweak
