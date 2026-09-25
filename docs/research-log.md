@@ -9937,3 +9937,4 @@
 - 2026-09-25 19:42:08 iteration 9935: log perception note
 - 2026-09-25 19:42:08 iteration 9936: log loop iteration
 - 2026-09-25 19:42:08 iteration 9937: log control tweak
+- 2026-09-25 19:42:08 iteration 9938: note latency sample
