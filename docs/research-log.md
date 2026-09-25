@@ -359,3 +359,4 @@
 - 2026-09-25 19:20:28 iteration 357: log perception note
 - 2026-09-25 19:20:28 iteration 358: log control tweak
 - 2026-09-25 19:20:28 iteration 359: update research log
+- 2026-09-25 19:20:29 iteration 360: jot safety review
