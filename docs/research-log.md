@@ -32785,3 +32785,4 @@
 - 2026-09-25 20:57:52 iteration 20318: update research log
 - 2026-09-25 20:57:52 iteration 20319: record sim observation
 - 2026-09-25 20:57:52 iteration 20320: jot safety review
+- 2026-09-25 20:57:52 iteration 20321: log control tweak
