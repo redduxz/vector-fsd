@@ -10505,3 +10505,4 @@
 - 2026-09-25 19:43:22 iteration 10503: record sim observation
 - 2026-09-25 19:43:22 iteration 10504: record checkpoint
 - 2026-09-25 19:43:22 iteration 10505: log control tweak
+- 2026-09-25 19:43:23 iteration 10506: note latency sample
