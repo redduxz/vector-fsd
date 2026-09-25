@@ -25131,3 +25131,4 @@
 - 2026-09-25 20:31:47 iteration 12664: log control tweak
 - 2026-09-25 20:31:48 iteration 12665: log loop iteration
 - 2026-09-25 20:31:48 iteration 12666: append session line
+- 2026-09-25 20:31:48 iteration 12667: note tuning delta
