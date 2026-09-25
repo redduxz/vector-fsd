@@ -21586,3 +21586,4 @@
 - 2026-09-25 20:16:35 iteration 9119: note latency sample
 - 2026-09-25 20:16:36 iteration 9120: log perception note
 - 2026-09-25 20:16:36 iteration 9121: log control tweak
+- 2026-09-25 20:16:36 iteration 9122: note tuning delta
