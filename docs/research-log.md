@@ -29492,3 +29492,4 @@
 - 2026-09-25 20:46:43 iteration 17025: jot safety review
 - 2026-09-25 20:46:43 iteration 17026: log perception note
 - 2026-09-25 20:46:44 iteration 17027: log perception note
+- 2026-09-25 20:46:44 iteration 17028: record sim observation
