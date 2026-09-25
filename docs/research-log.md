@@ -335,3 +335,4 @@
 - 2026-09-25 19:20:25 iteration 333: mark test run
 - 2026-09-25 19:20:26 iteration 334: log planning iteration
 - 2026-09-25 19:20:26 iteration 335: note tuning delta
+- 2026-09-25 19:20:26 iteration 336: note latency sample
