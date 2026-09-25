@@ -22844,3 +22844,4 @@
 - 2026-09-25 20:22:13 iteration 10377: note latency sample
 - 2026-09-25 20:22:13 iteration 10378: record sim observation
 - 2026-09-25 20:22:13 iteration 10379: append session line
+- 2026-09-25 20:22:13 iteration 10380: log perception note
