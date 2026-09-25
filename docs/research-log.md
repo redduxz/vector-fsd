@@ -8616,3 +8616,4 @@
 - 2026-09-25 19:39:06 iteration 8614: record checkpoint
 - 2026-09-25 19:39:06 iteration 8615: jot safety review
 - 2026-09-25 19:39:06 iteration 8616: log perception note
+- 2026-09-25 19:39:06 iteration 8617: update research log
