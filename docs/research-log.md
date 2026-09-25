@@ -1627,3 +1627,4 @@
 - 2026-09-25 19:22:54 iteration 1625: record checkpoint
 - 2026-09-25 19:22:55 iteration 1626: jot safety review
 - 2026-09-25 19:22:55 iteration 1627: note latency sample
+- 2026-09-25 19:22:55 iteration 1628: note tuning delta
