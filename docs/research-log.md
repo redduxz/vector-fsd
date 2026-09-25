@@ -3238,3 +3238,4 @@
 - 2026-09-25 19:26:21 iteration 3236: append session line
 - 2026-09-25 19:26:21 iteration 3237: log loop iteration
 - 2026-09-25 19:26:21 iteration 3238: log planning iteration
+- 2026-09-25 19:26:21 iteration 3239: note tuning delta
