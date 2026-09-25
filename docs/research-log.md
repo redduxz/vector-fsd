@@ -7982,3 +7982,4 @@
 - 2026-09-25 19:37:36 iteration 7980: note tuning delta
 - 2026-09-25 19:37:36 iteration 7981: jot safety review
 - 2026-09-25 19:37:37 iteration 7982: log control tweak
+- 2026-09-25 19:37:37 iteration 7983: record checkpoint
