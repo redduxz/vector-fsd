@@ -10409,3 +10409,4 @@
 - 2026-09-25 19:43:10 iteration 10407: record checkpoint
 - 2026-09-25 19:43:10 iteration 10408: note latency sample
 - 2026-09-25 19:43:10 iteration 10409: log control tweak
+- 2026-09-25 19:43:10 iteration 10410: mark test run
