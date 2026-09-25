@@ -25474,3 +25474,4 @@
 - 2026-09-25 20:33:04 iteration 13007: record checkpoint
 - 2026-09-25 20:33:04 iteration 13008: append session line
 - 2026-09-25 20:33:04 iteration 13009: log planning iteration
+- 2026-09-25 20:33:04 iteration 13010: log perception note
