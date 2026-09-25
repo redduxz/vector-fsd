@@ -3880,3 +3880,4 @@
 - 2026-09-25 19:27:56 iteration 3878: log loop iteration
 - 2026-09-25 19:27:56 iteration 3879: note latency sample
 - 2026-09-25 19:27:56 iteration 3880: update research log
+- 2026-09-25 19:27:57 iteration 3881: note tuning delta
