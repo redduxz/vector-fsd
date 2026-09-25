@@ -29631,3 +29631,4 @@
 - 2026-09-25 20:47:09 iteration 17164: jot safety review
 - 2026-09-25 20:47:10 iteration 17165: record checkpoint
 - 2026-09-25 20:47:10 iteration 17166: log control tweak
+- 2026-09-25 20:47:10 iteration 17167: log loop iteration
