@@ -248,3 +248,4 @@
 - 2026-09-25 19:20:15 iteration 246: log perception note
 - 2026-09-25 19:20:16 iteration 247: note tuning delta
 - 2026-09-25 19:20:16 iteration 248: log control tweak
+- 2026-09-25 19:20:16 iteration 249: log loop iteration
