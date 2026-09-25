@@ -28640,3 +28640,4 @@
 - 2026-09-25 20:43:45 iteration 16173: log loop iteration
 - 2026-09-25 20:43:45 iteration 16174: append session line
 - 2026-09-25 20:43:45 iteration 16175: log control tweak
+- 2026-09-25 20:43:45 iteration 16176: jot safety review
