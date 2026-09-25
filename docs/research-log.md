@@ -20371,3 +20371,4 @@
 - 2026-09-25 20:11:20 iteration 7904: log control tweak
 - 2026-09-25 20:11:21 iteration 7905: mark test run
 - 2026-09-25 20:11:21 iteration 7906: jot safety review
+- 2026-09-25 20:11:21 iteration 7907: note tuning delta
