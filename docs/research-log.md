@@ -20973,3 +20973,4 @@
 - 2026-09-25 20:14:03 iteration 8506: log loop iteration
 - 2026-09-25 20:14:03 iteration 8507: log planning iteration
 - 2026-09-25 20:14:04 iteration 8508: record checkpoint
+- 2026-09-25 20:14:04 iteration 8509: record sim observation
