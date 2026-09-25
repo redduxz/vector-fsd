@@ -20789,3 +20789,4 @@
 - 2026-09-25 20:13:20 iteration 8322: record checkpoint
 - 2026-09-25 20:13:21 iteration 8323: append session line
 - 2026-09-25 20:13:21 iteration 8324: append session line
+- 2026-09-25 20:13:21 iteration 8325: record sim observation
