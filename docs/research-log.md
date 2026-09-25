@@ -7490,3 +7490,4 @@
 - 2026-09-25 19:36:30 iteration 7488: mark test run
 - 2026-09-25 19:36:30 iteration 7489: note latency sample
 - 2026-09-25 19:36:30 iteration 7490: record checkpoint
+- 2026-09-25 19:36:30 iteration 7491: note tuning delta
