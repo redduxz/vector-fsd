@@ -12436,3 +12436,4 @@
 - 2026-09-25 19:47:47 iteration 12434: update research log
 - 2026-09-25 19:47:47 iteration 12435: record checkpoint
 - 2026-09-25 19:47:47 iteration 12436: jot safety review
+- 2026-09-25 19:47:48 iteration 12437: note latency sample
