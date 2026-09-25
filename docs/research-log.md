@@ -4880,3 +4880,4 @@
 - 2026-09-25 19:30:18 iteration 4878: log control tweak
 - 2026-09-25 19:30:18 iteration 4879: log loop iteration
 - 2026-09-25 19:30:18 iteration 4880: append session line
+- 2026-09-25 19:30:18 iteration 4881: record checkpoint
