@@ -15714,3 +15714,4 @@
 - 2026-09-25 19:56:22 iteration 3247: jot safety review
 - 2026-09-25 19:56:22 iteration 3248: log planning iteration
 - 2026-09-25 19:56:22 iteration 3249: log control tweak
+- 2026-09-25 19:56:22 iteration 3250: log perception note
