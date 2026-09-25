@@ -8981,3 +8981,4 @@
 - 2026-09-25 19:39:56 iteration 8979: update research log
 - 2026-09-25 19:39:56 iteration 8980: jot safety review
 - 2026-09-25 19:39:56 iteration 8981: log control tweak
+- 2026-09-25 19:39:56 iteration 8982: record sim observation
