@@ -20546,3 +20546,4 @@
 - 2026-09-25 20:12:20 iteration 8079: log control tweak
 - 2026-09-25 20:12:20 iteration 8080: note latency sample
 - 2026-09-25 20:12:20 iteration 8081: log perception note
+- 2026-09-25 20:12:21 iteration 8082: update research log
