@@ -5028,3 +5028,4 @@
 - 2026-09-25 19:30:38 iteration 5026: log loop iteration
 - 2026-09-25 19:30:38 iteration 5027: record checkpoint
 - 2026-09-25 19:30:38 iteration 5028: note latency sample
+- 2026-09-25 19:30:38 iteration 5029: mark test run
