@@ -22688,3 +22688,4 @@
 - 2026-09-25 20:21:40 iteration 10221: log perception note
 - 2026-09-25 20:21:40 iteration 10222: log planning iteration
 - 2026-09-25 20:21:41 iteration 10223: jot safety review
+- 2026-09-25 20:21:41 iteration 10224: log control tweak
