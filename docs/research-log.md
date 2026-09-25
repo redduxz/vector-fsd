@@ -27632,3 +27632,4 @@
 - 2026-09-25 20:40:37 iteration 15165: note latency sample
 - 2026-09-25 20:40:37 iteration 15166: append session line
 - 2026-09-25 20:40:37 iteration 15167: note tuning delta
+- 2026-09-25 20:40:37 iteration 15168: jot safety review
