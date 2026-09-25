@@ -15995,3 +15995,4 @@
 - 2026-09-25 19:57:00 iteration 3528: log perception note
 - 2026-09-25 19:57:00 iteration 3529: log control tweak
 - 2026-09-25 19:57:01 iteration 3530: note tuning delta
+- 2026-09-25 19:57:01 iteration 3531: note latency sample
