@@ -8155,3 +8155,4 @@
 - 2026-09-25 19:37:58 iteration 8153: log control tweak
 - 2026-09-25 19:37:58 iteration 8154: log loop iteration
 - 2026-09-25 19:37:58 iteration 8155: note latency sample
+- 2026-09-25 19:37:58 iteration 8156: record sim observation
