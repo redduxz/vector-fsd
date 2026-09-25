@@ -34136,3 +34136,4 @@
 - 2026-09-25 21:02:46 iteration 21669: log perception note
 - 2026-09-25 21:02:46 iteration 21670: append session line
 - 2026-09-25 21:02:46 iteration 21671: append session line
+- 2026-09-25 21:02:47 iteration 21672: log control tweak
