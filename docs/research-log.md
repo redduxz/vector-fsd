@@ -21413,3 +21413,4 @@
 - 2026-09-25 20:15:47 iteration 8946: note latency sample
 - 2026-09-25 20:15:48 iteration 8947: jot safety review
 - 2026-09-25 20:15:48 iteration 8948: append session line
+- 2026-09-25 20:15:48 iteration 8949: log perception note
