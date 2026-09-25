@@ -34128,3 +34128,4 @@
 - 2026-09-25 21:02:44 iteration 21661: note tuning delta
 - 2026-09-25 21:02:44 iteration 21662: append session line
 - 2026-09-25 21:02:44 iteration 21663: log control tweak
+- 2026-09-25 21:02:45 iteration 21664: note latency sample
