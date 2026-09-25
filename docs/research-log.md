@@ -8123,3 +8123,4 @@
 - 2026-09-25 19:37:54 iteration 8121: note tuning delta
 - 2026-09-25 19:37:54 iteration 8122: log control tweak
 - 2026-09-25 19:37:54 iteration 8123: note latency sample
+- 2026-09-25 19:37:54 iteration 8124: update research log
