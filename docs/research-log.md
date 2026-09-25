@@ -3996,3 +3996,4 @@
 - 2026-09-25 19:28:12 iteration 3994: log planning iteration
 - 2026-09-25 19:28:12 iteration 3995: note latency sample
 - 2026-09-25 19:28:12 iteration 3996: record checkpoint
+- 2026-09-25 19:28:12 iteration 3997: log control tweak
