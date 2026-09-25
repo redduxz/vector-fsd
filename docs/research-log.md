@@ -25967,3 +25967,4 @@
 - 2026-09-25 20:34:20 iteration 13500: append session line
 - 2026-09-25 20:34:20 iteration 13501: note latency sample
 - 2026-09-25 20:34:20 iteration 13502: mark test run
+- 2026-09-25 20:34:20 iteration 13503: log perception note
