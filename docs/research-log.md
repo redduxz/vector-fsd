@@ -17636,3 +17636,4 @@
 - 2026-09-25 20:00:58 iteration 5169: log perception note
 - 2026-09-25 20:00:59 iteration 5170: jot safety review
 - 2026-09-25 20:00:59 iteration 5171: note latency sample
+- 2026-09-25 20:00:59 iteration 5172: note tuning delta
