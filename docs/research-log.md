@@ -26997,3 +26997,4 @@
 - 2026-09-25 20:38:46 iteration 14530: log control tweak
 - 2026-09-25 20:38:47 iteration 14531: note latency sample
 - 2026-09-25 20:38:47 iteration 14532: record checkpoint
+- 2026-09-25 20:38:47 iteration 14533: jot safety review
