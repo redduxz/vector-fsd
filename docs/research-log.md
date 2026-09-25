@@ -7623,3 +7623,4 @@
 - 2026-09-25 19:36:47 iteration 7621: log loop iteration
 - 2026-09-25 19:36:47 iteration 7622: append session line
 - 2026-09-25 19:36:47 iteration 7623: record sim observation
+- 2026-09-25 19:36:48 iteration 7624: note tuning delta
