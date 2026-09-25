@@ -2513,3 +2513,4 @@
 - 2026-09-25 19:24:44 iteration 2511: update research log
 - 2026-09-25 19:24:44 iteration 2512: note tuning delta
 - 2026-09-25 19:24:45 iteration 2513: log perception note
+- 2026-09-25 19:24:45 iteration 2514: log control tweak
