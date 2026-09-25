@@ -20900,3 +20900,4 @@
 - 2026-09-25 20:13:44 iteration 8433: note tuning delta
 - 2026-09-25 20:13:44 iteration 8434: log perception note
 - 2026-09-25 20:13:44 iteration 8435: mark test run
+- 2026-09-25 20:13:44 iteration 8436: note latency sample
