@@ -892,3 +892,4 @@
 - 2026-09-25 19:21:30 iteration 890: record sim observation
 - 2026-09-25 19:21:30 iteration 891: note tuning delta
 - 2026-09-25 19:21:30 iteration 892: mark test run
+- 2026-09-25 19:21:30 iteration 893: log control tweak
