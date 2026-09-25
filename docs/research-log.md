@@ -2546,3 +2546,4 @@
 - 2026-09-25 19:24:49 iteration 2544: mark test run
 - 2026-09-25 19:24:49 iteration 2545: note latency sample
 - 2026-09-25 19:24:49 iteration 2546: record checkpoint
+- 2026-09-25 19:24:49 iteration 2547: jot safety review
