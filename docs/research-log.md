@@ -20603,3 +20603,4 @@
 - 2026-09-25 20:12:36 iteration 8136: log control tweak
 - 2026-09-25 20:12:37 iteration 8137: append session line
 - 2026-09-25 20:12:37 iteration 8138: note latency sample
+- 2026-09-25 20:12:37 iteration 8139: record checkpoint
