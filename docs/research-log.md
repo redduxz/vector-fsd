@@ -30099,3 +30099,4 @@
 - 2026-09-25 20:48:40 iteration 17632: jot safety review
 - 2026-09-25 20:48:40 iteration 17633: log perception note
 - 2026-09-25 20:48:40 iteration 17634: record checkpoint
+- 2026-09-25 20:48:40 iteration 17635: log control tweak
