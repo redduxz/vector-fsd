@@ -1307,3 +1307,4 @@
 - 2026-09-25 19:22:17 iteration 1305: log control tweak
 - 2026-09-25 19:22:18 iteration 1306: log perception note
 - 2026-09-25 19:22:18 iteration 1307: record checkpoint
+- 2026-09-25 19:22:18 iteration 1308: log control tweak
