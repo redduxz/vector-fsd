@@ -33855,3 +33855,4 @@
 - 2026-09-25 21:01:49 iteration 21388: log planning iteration
 - 2026-09-25 21:01:50 iteration 21389: mark test run
 - 2026-09-25 21:01:50 iteration 21390: append session line
+- 2026-09-25 21:01:50 iteration 21391: note tuning delta
