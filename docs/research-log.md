@@ -9558,3 +9558,4 @@
 - 2026-09-25 19:41:10 iteration 9556: log loop iteration
 - 2026-09-25 19:41:10 iteration 9557: jot safety review
 - 2026-09-25 19:41:11 iteration 9558: note latency sample
+- 2026-09-25 19:41:11 iteration 9559: log control tweak
