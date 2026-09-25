@@ -125,4 +125,5 @@ class PerceptionOutput:
     light: LightState = LightState.UNKNOWN
     free_space_ahead: float = 100.0   # m of clear path ahead
     stop_line_m: float = math.inf     # m to the constraining TL stop line
+    junction_dist: float = math.inf   # m to next junction entry (0 = inside)
     timestamp: float = field(default_factory=time.time)

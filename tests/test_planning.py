@@ -80,6 +80,50 @@ class TestBehaviorPlanner(unittest.TestCase):
         self.assertEqual(name, BehaviorPlanner.EMERGENCY_STOP)
         self.assertEqual(speed, 0.0)
 
+    def test_junction_approach_tapers_speed(self):
+        # 10m before a junction: factor = 0.55 + 0.45*(10/30) = 0.70
+        p = _perception()
+        p.junction_dist = 10.0
+        name, speed = self.planner.decide(p, _state())
+        self.assertEqual(name, BehaviorPlanner.LANE_KEEP)
+        self.assertAlmostEqual(
+            speed, self.planner.cruise_speed * 0.70, places=3)
+
+    def test_inside_junction_uses_full_factor(self):
+        p = _perception()
+        p.junction_dist = 0.0
+        _, speed = self.planner.decide(p, _state())
+        self.assertAlmostEqual(
+            speed, self.planner.cruise_speed
+            * self.planner.junction_factor, places=3)
+
+    def test_beyond_zone_no_cap(self):
+        p = _perception()
+        p.junction_dist = 60.0
+        _, speed = self.planner.decide(p, _state())
+        self.assertAlmostEqual(
+            speed, self.planner.cruise_speed, places=3)
+
+    def test_junction_dist_walks_waypoints(self):
+        from fsd.agents.autopilot import AutopilotAgent
+
+        class _Wp:
+            def __init__(self, junction=False, ahead=None):
+                self.is_junction = junction
+                self._ahead = ahead or []
+
+            def next(self, d):
+                return self._ahead if d >= 4.0 else []
+
+        # junction wp sits 8m ahead on the lane
+        deep = _Wp(junction=True)
+        wp = _Wp(ahead=[deep])
+        self.assertEqual(AutopilotAgent._junction_dist(wp), 4.0)
+        self.assertEqual(
+            AutopilotAgent._junction_dist(_Wp(junction=True)), 0.0)
+        self.assertEqual(
+            AutopilotAgent._junction_dist(_Wp()), float("inf"))
+
 
 class TestTrajectoryPlanner(unittest.TestCase):
     """Trajectory generation must produce forward waypoints or an empty

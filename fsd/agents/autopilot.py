@@ -523,6 +523,7 @@ class AutopilotAgent:
         self._last_ok: Dict[str, float] = {}
         self._last_perception: Optional[PerceptionOutput] = None
         self._last_stop_m = math.inf
+        self._last_junction_m = math.inf
         self._fail_counts: Dict[str, int] = {}
         self._stuck_ticks = 0
         self._recover_ticks = 0
@@ -659,12 +660,34 @@ class AutopilotAgent:
                     actor.get_location(), project_to_road=True)
                 if wp is not None:
                     wp_arg = (wp, ego)
+                    self._last_junction_m = self._junction_dist(wp)
             except Exception:
                 wp_arg, carla_map = None, None
         return _as_lane(_call_flex(fn, img, ego,
                                    image=img, rgb=img, semantic=sem,
                                    carla_waypoint=wp_arg, carla_map=carla_map,
                                    ego=ego, state=ego))
+
+    @staticmethod
+    def _junction_dist(wp, horizon_m: float = 50.0) -> float:
+        """Distance along the lane to the next junction entry.
+
+        ``wp.next(d)`` returns the waypoints ~d metres ahead on every
+        connected outgoing lane — the first hit flagged ``is_junction``
+        is the entry distance. 0 means we are already inside one.
+        """
+        try:
+            if getattr(wp, "is_junction", False):
+                return 0.0
+            d = 4.0
+            while d <= horizon_m:
+                for cand in wp.next(d):
+                    if getattr(cand, "is_junction", False):
+                        return d
+                d += 4.0
+        except Exception:
+            pass
+        return math.inf
 
     def _detect_objects(self, ego, sensors):
         if self.object_detector is None:
@@ -878,6 +901,7 @@ class AutopilotAgent:
             perception = self._fuse(ego, sensors, lane, objects, light)
             try:
                 perception.stop_line_m = self._last_stop_m
+                perception.junction_dist = self._last_junction_m
             except AttributeError:
                 pass
             try:

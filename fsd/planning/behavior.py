@@ -80,6 +80,8 @@ class BehaviorPlanner:
         lane_change_time_s: float = 4.0,
         min_dwell_s: float = 0.8,
         no_lane_speed_factor: float = 0.7,
+        junction_zone_m: float = 30.0,
+        junction_speed_factor: float = 0.55,
     ) -> None:
         self.cruise_speed = float(cruise_speed_mps)
         self.min_ttc = float(min_ttc_s)
@@ -98,6 +100,8 @@ class BehaviorPlanner:
         self.lane_change_time = float(lane_change_time_s)
         self.min_dwell = float(min_dwell_s)
         self.no_lane_speed_factor = float(no_lane_speed_factor)
+        self.junction_zone = float(junction_zone_m)
+        self.junction_factor = float(junction_speed_factor)
 
         self.state: str = self.LANE_KEEP
         self._state_since: float | None = None
@@ -155,6 +159,15 @@ class BehaviorPlanner:
         if want_stop_light:
             d_eff = d_light - self.stop_margin
             caps.append(math.sqrt(max(0.0, 2.0 * self.comfort_decel * d_eff)))
+
+        # junction approach — taper cruise down to `junction_factor` at the
+        # entry (Autoware-style intersection velocity): blending is linear
+        # in distance so there is no step change at the zone boundary.
+        d_j = getattr(perception, "junction_dist", math.inf)
+        if d_j < self.junction_zone:
+            t = d_j / self.junction_zone            # 0 inside -> 1 at edge
+            caps.append(cruise * (self.junction_factor
+                                  + (1.0 - self.junction_factor) * t))
 
         in_lane_change = self.state in (self.LANE_CHANGE_LEFT,
                                         self.LANE_CHANGE_RIGHT)
