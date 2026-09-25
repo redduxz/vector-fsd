@@ -5040,3 +5040,4 @@
 - 2026-09-25 19:30:39 iteration 5038: append session line
 - 2026-09-25 19:30:40 iteration 5039: record checkpoint
 - 2026-09-25 19:30:40 iteration 5040: record checkpoint
+- 2026-09-25 19:30:40 iteration 5041: log control tweak
