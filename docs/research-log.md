@@ -26485,3 +26485,4 @@
 - 2026-09-25 20:36:17 iteration 14018: mark test run
 - 2026-09-25 20:36:17 iteration 14019: record checkpoint
 - 2026-09-25 20:36:17 iteration 14020: jot safety review
+- 2026-09-25 20:36:17 iteration 14021: log perception note
