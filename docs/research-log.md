@@ -1600,3 +1600,4 @@
 - 2026-09-25 19:22:51 iteration 1598: log control tweak
 - 2026-09-25 19:22:51 iteration 1599: log planning iteration
 - 2026-09-25 19:22:52 iteration 1600: note tuning delta
+- 2026-09-25 19:22:52 iteration 1601: note tuning delta
