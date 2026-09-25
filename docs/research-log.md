@@ -15537,3 +15537,4 @@
 - 2026-09-25 19:55:58 iteration 3070: record checkpoint
 - 2026-09-25 19:55:58 iteration 3071: mark test run
 - 2026-09-25 19:55:58 iteration 3072: log loop iteration
+- 2026-09-25 19:55:58 iteration 3073: record sim observation
