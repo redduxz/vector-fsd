@@ -2225,3 +2225,4 @@
 - 2026-09-25 19:24:09 iteration 2223: log control tweak
 - 2026-09-25 19:24:10 iteration 2224: append session line
 - 2026-09-25 19:24:10 iteration 2225: update research log
+- 2026-09-25 19:24:10 iteration 2226: note latency sample
