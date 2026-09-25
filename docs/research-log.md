@@ -5241,3 +5241,4 @@
 - 2026-09-25 19:31:07 iteration 5239: log planning iteration
 - 2026-09-25 19:31:07 iteration 5240: append session line
 - 2026-09-25 19:31:07 iteration 5241: note tuning delta
+- 2026-09-25 19:31:07 iteration 5242: note latency sample
