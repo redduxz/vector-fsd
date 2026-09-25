@@ -9229,3 +9229,4 @@
 - 2026-09-25 19:40:29 iteration 9227: note latency sample
 - 2026-09-25 19:40:29 iteration 9228: log control tweak
 - 2026-09-25 19:40:30 iteration 9229: mark test run
+- 2026-09-25 19:40:30 iteration 9230: update research log
