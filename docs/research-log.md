@@ -174,3 +174,4 @@
 - 2026-09-25 19:20:07 iteration 172: mark test run
 - 2026-09-25 19:20:07 iteration 173: record checkpoint
 - 2026-09-25 19:20:07 iteration 174: update research log
+- 2026-09-25 19:20:07 iteration 175: note tuning delta
