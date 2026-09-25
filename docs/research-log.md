@@ -3810,3 +3810,4 @@
 - 2026-09-25 19:27:47 iteration 3808: append session line
 - 2026-09-25 19:27:47 iteration 3809: note tuning delta
 - 2026-09-25 19:27:47 iteration 3810: record checkpoint
+- 2026-09-25 19:27:47 iteration 3811: record sim observation
