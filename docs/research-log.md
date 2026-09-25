@@ -1002,3 +1002,4 @@
 - 2026-09-25 19:21:42 iteration 1000: log perception note
 - 2026-09-25 19:21:42 iteration 1001: note latency sample
 - 2026-09-25 19:21:42 iteration 1002: log perception note
+- 2026-09-25 19:21:43 iteration 1003: jot safety review
