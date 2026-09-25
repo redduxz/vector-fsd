@@ -2806,3 +2806,4 @@
 - 2026-09-25 19:25:25 iteration 2804: note tuning delta
 - 2026-09-25 19:25:25 iteration 2805: log control tweak
 - 2026-09-25 19:25:25 iteration 2806: log planning iteration
+- 2026-09-25 19:25:25 iteration 2807: note latency sample
