@@ -3120,3 +3120,4 @@
 - 2026-09-25 19:26:04 iteration 3118: note latency sample
 - 2026-09-25 19:26:04 iteration 3119: log perception note
 - 2026-09-25 19:26:04 iteration 3120: note latency sample
+- 2026-09-25 19:26:04 iteration 3121: log control tweak
