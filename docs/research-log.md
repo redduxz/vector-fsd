@@ -12936,3 +12936,4 @@
 - 2026-09-25 19:49:57 iteration 469: update research log
 - 2026-09-25 19:49:57 iteration 470: log perception note
 - 2026-09-25 19:49:57 iteration 471: log perception note
+- 2026-09-25 19:49:57 iteration 472: note tuning delta
