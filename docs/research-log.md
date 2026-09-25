@@ -5518,3 +5518,4 @@
 - 2026-09-25 19:31:46 iteration 5516: log planning iteration
 - 2026-09-25 19:31:46 iteration 5517: append session line
 - 2026-09-25 19:31:46 iteration 5518: log planning iteration
+- 2026-09-25 19:31:46 iteration 5519: note tuning delta
