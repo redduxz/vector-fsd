@@ -9583,3 +9583,4 @@
 - 2026-09-25 19:41:14 iteration 9581: log perception note
 - 2026-09-25 19:41:14 iteration 9582: note latency sample
 - 2026-09-25 19:41:14 iteration 9583: mark test run
+- 2026-09-25 19:41:14 iteration 9584: record sim observation
