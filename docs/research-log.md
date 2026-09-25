@@ -5175,3 +5175,4 @@
 - 2026-09-25 19:30:58 iteration 5173: log control tweak
 - 2026-09-25 19:30:58 iteration 5174: note tuning delta
 - 2026-09-25 19:30:58 iteration 5175: jot safety review
+- 2026-09-25 19:30:58 iteration 5176: log control tweak
