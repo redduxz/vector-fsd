@@ -1522,3 +1522,4 @@
 - 2026-09-25 19:22:42 iteration 1520: log perception note
 - 2026-09-25 19:22:42 iteration 1521: jot safety review
 - 2026-09-25 19:22:42 iteration 1522: log planning iteration
+- 2026-09-25 19:22:42 iteration 1523: note tuning delta
