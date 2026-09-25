@@ -8500,3 +8500,4 @@
 - 2026-09-25 19:38:49 iteration 8498: record sim observation
 - 2026-09-25 19:38:49 iteration 8499: update research log
 - 2026-09-25 19:38:49 iteration 8500: jot safety review
+- 2026-09-25 19:38:49 iteration 8501: note tuning delta
