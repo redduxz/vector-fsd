@@ -27847,3 +27847,4 @@
 - 2026-09-25 20:41:11 iteration 15380: log loop iteration
 - 2026-09-25 20:41:11 iteration 15381: log perception note
 - 2026-09-25 20:41:12 iteration 15382: record checkpoint
+- 2026-09-25 20:41:12 iteration 15383: note latency sample
