@@ -5739,3 +5739,4 @@
 - 2026-09-25 19:32:17 iteration 5737: append session line
 - 2026-09-25 19:32:18 iteration 5738: record checkpoint
 - 2026-09-25 19:32:18 iteration 5739: record sim observation
+- 2026-09-25 19:32:18 iteration 5740: note latency sample
