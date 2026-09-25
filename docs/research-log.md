@@ -3087,3 +3087,4 @@
 - 2026-09-25 19:26:00 iteration 3085: jot safety review
 - 2026-09-25 19:26:00 iteration 3086: record checkpoint
 - 2026-09-25 19:26:00 iteration 3087: log planning iteration
+- 2026-09-25 19:26:00 iteration 3088: note tuning delta
