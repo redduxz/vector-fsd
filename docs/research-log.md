@@ -7746,3 +7746,4 @@
 - 2026-09-25 19:37:05 iteration 7744: log planning iteration
 - 2026-09-25 19:37:05 iteration 7745: note latency sample
 - 2026-09-25 19:37:05 iteration 7746: note tuning delta
+- 2026-09-25 19:37:05 iteration 7747: record sim observation
