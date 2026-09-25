@@ -7006,3 +7006,4 @@
 - 2026-09-25 19:35:22 iteration 7004: note tuning delta
 - 2026-09-25 19:35:22 iteration 7005: append session line
 - 2026-09-25 19:35:22 iteration 7006: log control tweak
+- 2026-09-25 19:35:22 iteration 7007: record sim observation
