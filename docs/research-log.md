@@ -5899,3 +5899,4 @@
 - 2026-09-25 19:32:42 iteration 5897: log planning iteration
 - 2026-09-25 19:32:42 iteration 5898: log control tweak
 - 2026-09-25 19:32:42 iteration 5899: note tuning delta
+- 2026-09-25 19:32:42 iteration 5900: record sim observation
