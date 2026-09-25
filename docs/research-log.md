@@ -1724,3 +1724,4 @@
 - 2026-09-25 19:23:06 iteration 1722: record checkpoint
 - 2026-09-25 19:23:06 iteration 1723: append session line
 - 2026-09-25 19:23:06 iteration 1724: log control tweak
+- 2026-09-25 19:23:06 iteration 1725: jot safety review
