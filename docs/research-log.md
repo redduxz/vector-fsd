@@ -9338,3 +9338,4 @@
 - 2026-09-25 19:40:43 iteration 9336: log control tweak
 - 2026-09-25 19:40:43 iteration 9337: mark test run
 - 2026-09-25 19:40:43 iteration 9338: log planning iteration
+- 2026-09-25 19:40:43 iteration 9339: note tuning delta
