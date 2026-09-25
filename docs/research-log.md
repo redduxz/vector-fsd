@@ -23856,3 +23856,4 @@
 - 2026-09-25 20:26:10 iteration 11389: mark test run
 - 2026-09-25 20:26:10 iteration 11390: note latency sample
 - 2026-09-25 20:26:10 iteration 11391: append session line
+- 2026-09-25 20:26:10 iteration 11392: record sim observation
