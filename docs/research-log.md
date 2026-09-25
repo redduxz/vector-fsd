@@ -15171,3 +15171,4 @@
 - 2026-09-25 19:55:09 iteration 2704: log perception note
 - 2026-09-25 19:55:09 iteration 2705: update research log
 - 2026-09-25 19:55:09 iteration 2706: jot safety review
+- 2026-09-25 19:55:09 iteration 2707: log control tweak
