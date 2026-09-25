@@ -950,3 +950,4 @@
 - 2026-09-25 19:21:36 iteration 948: record checkpoint
 - 2026-09-25 19:21:36 iteration 949: log control tweak
 - 2026-09-25 19:21:37 iteration 950: log control tweak
+- 2026-09-25 19:21:37 iteration 951: note tuning delta
