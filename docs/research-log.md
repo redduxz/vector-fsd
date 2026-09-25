@@ -10012,3 +10012,4 @@
 - 2026-09-25 19:42:18 iteration 10010: log loop iteration
 - 2026-09-25 19:42:18 iteration 10011: mark test run
 - 2026-09-25 19:42:18 iteration 10012: jot safety review
+- 2026-09-25 19:42:18 iteration 10013: log control tweak
