@@ -29411,3 +29411,4 @@
 - 2026-09-25 20:46:28 iteration 16944: note latency sample
 - 2026-09-25 20:46:28 iteration 16945: record sim observation
 - 2026-09-25 20:46:28 iteration 16946: jot safety review
+- 2026-09-25 20:46:28 iteration 16947: log control tweak
