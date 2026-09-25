@@ -38978,3 +38978,4 @@
 - 2026-09-25 21:20:55 iteration 26511: record checkpoint
 - 2026-09-25 21:20:56 iteration 26512: log perception note
 - 2026-09-25 21:20:56 iteration 26513: log control tweak
+- 2026-09-25 21:20:56 iteration 26514: note tuning delta
