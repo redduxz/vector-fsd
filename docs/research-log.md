@@ -25070,3 +25070,4 @@
 - 2026-09-25 20:31:33 iteration 12603: record sim observation
 - 2026-09-25 20:31:34 iteration 12604: log loop iteration
 - 2026-09-25 20:31:34 iteration 12605: note latency sample
+- 2026-09-25 20:31:34 iteration 12606: log perception note
