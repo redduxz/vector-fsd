@@ -995,3 +995,4 @@
 - 2026-09-25 19:21:41 iteration 993: note latency sample
 - 2026-09-25 19:21:42 iteration 994: log planning iteration
 - 2026-09-25 19:21:42 iteration 995: mark test run
+- 2026-09-25 19:21:42 iteration 996: log perception note
