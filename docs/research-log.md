@@ -10134,3 +10134,4 @@
 - 2026-09-25 19:42:34 iteration 10132: log loop iteration
 - 2026-09-25 19:42:34 iteration 10133: record sim observation
 - 2026-09-25 19:42:34 iteration 10134: note tuning delta
+- 2026-09-25 19:42:34 iteration 10135: log perception note
