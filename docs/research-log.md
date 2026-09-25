@@ -16889,3 +16889,4 @@
 - 2026-09-25 19:59:03 iteration 4422: log planning iteration
 - 2026-09-25 19:59:04 iteration 4423: append session line
 - 2026-09-25 19:59:04 iteration 4424: jot safety review
+- 2026-09-25 19:59:04 iteration 4425: note latency sample
