@@ -12125,3 +12125,4 @@
 - 2026-09-25 19:47:07 iteration 12123: log loop iteration
 - 2026-09-25 19:47:07 iteration 12124: log loop iteration
 - 2026-09-25 19:47:08 iteration 12125: log control tweak
+- 2026-09-25 19:47:08 iteration 12126: log perception note
