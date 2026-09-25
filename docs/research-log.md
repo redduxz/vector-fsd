@@ -5329,3 +5329,4 @@
 - 2026-09-25 19:31:20 iteration 5327: record sim observation
 - 2026-09-25 19:31:20 iteration 5328: log control tweak
 - 2026-09-25 19:31:20 iteration 5329: note latency sample
+- 2026-09-25 19:31:20 iteration 5330: log loop iteration
