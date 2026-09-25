@@ -10672,3 +10672,4 @@
 - 2026-09-25 19:43:46 iteration 10670: note tuning delta
 - 2026-09-25 19:43:46 iteration 10671: log perception note
 - 2026-09-25 19:43:46 iteration 10672: log control tweak
+- 2026-09-25 19:43:46 iteration 10673: update research log
