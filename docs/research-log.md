@@ -4837,3 +4837,4 @@
 - 2026-09-25 19:30:12 iteration 4835: log loop iteration
 - 2026-09-25 19:30:12 iteration 4836: mark test run
 - 2026-09-25 19:30:12 iteration 4837: note tuning delta
+- 2026-09-25 19:30:12 iteration 4838: log perception note
