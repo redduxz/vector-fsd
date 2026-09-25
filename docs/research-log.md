@@ -4751,3 +4751,4 @@
 - 2026-09-25 19:29:59 iteration 4749: jot safety review
 - 2026-09-25 19:30:00 iteration 4750: log planning iteration
 - 2026-09-25 19:30:00 iteration 4751: note tuning delta
+- 2026-09-25 19:30:00 iteration 4752: jot safety review
