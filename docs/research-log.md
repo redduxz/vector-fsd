@@ -3824,3 +3824,4 @@
 - 2026-09-25 19:27:49 iteration 3822: log loop iteration
 - 2026-09-25 19:27:49 iteration 3823: log planning iteration
 - 2026-09-25 19:27:49 iteration 3824: note tuning delta
+- 2026-09-25 19:27:49 iteration 3825: log perception note
