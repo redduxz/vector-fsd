@@ -31321,3 +31321,4 @@
 - 2026-09-25 20:52:40 iteration 18854: log planning iteration
 - 2026-09-25 20:52:40 iteration 18855: mark test run
 - 2026-09-25 20:52:40 iteration 18856: jot safety review
+- 2026-09-25 20:52:40 iteration 18857: log control tweak
