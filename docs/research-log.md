@@ -2937,3 +2937,4 @@
 - 2026-09-25 19:25:42 iteration 2935: log planning iteration
 - 2026-09-25 19:25:42 iteration 2936: log control tweak
 - 2026-09-25 19:25:42 iteration 2937: log planning iteration
+- 2026-09-25 19:25:42 iteration 2938: log perception note
