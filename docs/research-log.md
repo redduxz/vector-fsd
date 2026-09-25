@@ -17085,3 +17085,4 @@
 - 2026-09-25 19:59:42 iteration 4618: log planning iteration
 - 2026-09-25 19:59:42 iteration 4619: mark test run
 - 2026-09-25 19:59:42 iteration 4620: append session line
+- 2026-09-25 19:59:42 iteration 4621: record sim observation
