@@ -35707,3 +35707,4 @@
 - 2026-09-25 21:08:59 iteration 23240: log loop iteration
 - 2026-09-25 21:08:59 iteration 23241: note latency sample
 - 2026-09-25 21:08:59 iteration 23242: record sim observation
+- 2026-09-25 21:08:59 iteration 23243: log control tweak
