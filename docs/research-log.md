@@ -21080,3 +21080,4 @@
 - 2026-09-25 20:14:31 iteration 8613: log control tweak
 - 2026-09-25 20:14:32 iteration 8614: record checkpoint
 - 2026-09-25 20:14:32 iteration 8615: note latency sample
+- 2026-09-25 20:14:32 iteration 8616: record sim observation
