@@ -1603,3 +1603,4 @@
 - 2026-09-25 19:22:52 iteration 1601: note tuning delta
 - 2026-09-25 19:22:52 iteration 1602: mark test run
 - 2026-09-25 19:22:52 iteration 1603: log control tweak
+- 2026-09-25 19:22:52 iteration 1604: mark test run
