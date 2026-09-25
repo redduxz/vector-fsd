@@ -2884,3 +2884,4 @@
 - 2026-09-25 19:25:35 iteration 2882: record checkpoint
 - 2026-09-25 19:25:35 iteration 2883: record sim observation
 - 2026-09-25 19:25:35 iteration 2884: log planning iteration
+- 2026-09-25 19:25:35 iteration 2885: log perception note
