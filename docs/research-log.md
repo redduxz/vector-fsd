@@ -28445,3 +28445,4 @@
 - 2026-09-25 20:43:09 iteration 15978: log planning iteration
 - 2026-09-25 20:43:10 iteration 15979: jot safety review
 - 2026-09-25 20:43:10 iteration 15980: jot safety review
+- 2026-09-25 20:43:10 iteration 15981: log control tweak
