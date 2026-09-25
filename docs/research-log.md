@@ -1971,3 +1971,4 @@
 - 2026-09-25 19:23:34 iteration 1969: append session line
 - 2026-09-25 19:23:34 iteration 1970: log perception note
 - 2026-09-25 19:23:35 iteration 1971: log control tweak
+- 2026-09-25 19:23:35 iteration 1972: log planning iteration
