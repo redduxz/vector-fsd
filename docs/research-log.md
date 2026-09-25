@@ -10600,3 +10600,4 @@
 - 2026-09-25 19:43:35 iteration 10598: note latency sample
 - 2026-09-25 19:43:35 iteration 10599: log perception note
 - 2026-09-25 19:43:35 iteration 10600: append session line
+- 2026-09-25 19:43:36 iteration 10601: jot safety review
