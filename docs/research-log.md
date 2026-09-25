@@ -5605,3 +5605,4 @@
 - 2026-09-25 19:31:59 iteration 5603: log control tweak
 - 2026-09-25 19:31:59 iteration 5604: log perception note
 - 2026-09-25 19:31:59 iteration 5605: mark test run
+- 2026-09-25 19:31:59 iteration 5606: append session line
