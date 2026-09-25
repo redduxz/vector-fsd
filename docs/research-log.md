@@ -34961,3 +34961,4 @@
 - 2026-09-25 21:05:53 iteration 22494: append session line
 - 2026-09-25 21:05:54 iteration 22495: record checkpoint
 - 2026-09-25 21:05:54 iteration 22496: log perception note
+- 2026-09-25 21:05:54 iteration 22497: note tuning delta
