@@ -5715,3 +5715,4 @@
 - 2026-09-25 19:32:14 iteration 5713: mark test run
 - 2026-09-25 19:32:14 iteration 5714: log control tweak
 - 2026-09-25 19:32:14 iteration 5715: update research log
+- 2026-09-25 19:32:14 iteration 5716: note latency sample
