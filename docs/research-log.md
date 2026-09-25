@@ -3512,3 +3512,4 @@
 - 2026-09-25 19:26:59 iteration 3510: record checkpoint
 - 2026-09-25 19:27:00 iteration 3511: note tuning delta
 - 2026-09-25 19:27:00 iteration 3512: log control tweak
+- 2026-09-25 19:27:00 iteration 3513: record sim observation
