@@ -20569,3 +20569,4 @@
 - 2026-09-25 20:12:25 iteration 8102: mark test run
 - 2026-09-25 20:12:25 iteration 8103: jot safety review
 - 2026-09-25 20:12:26 iteration 8104: log perception note
+- 2026-09-25 20:12:26 iteration 8105: log control tweak
