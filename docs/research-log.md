@@ -25814,3 +25814,4 @@
 - 2026-09-25 20:33:55 iteration 13347: log planning iteration
 - 2026-09-25 20:33:55 iteration 13348: record checkpoint
 - 2026-09-25 20:33:55 iteration 13349: append session line
+- 2026-09-25 20:33:55 iteration 13350: note latency sample
