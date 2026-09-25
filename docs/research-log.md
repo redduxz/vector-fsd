@@ -3499,3 +3499,4 @@
 - 2026-09-25 19:26:58 iteration 3497: jot safety review
 - 2026-09-25 19:26:58 iteration 3498: log control tweak
 - 2026-09-25 19:26:58 iteration 3499: append session line
+- 2026-09-25 19:26:58 iteration 3500: log perception note
