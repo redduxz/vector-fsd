@@ -11842,3 +11842,4 @@
 - 2026-09-25 19:46:32 iteration 11840: record checkpoint
 - 2026-09-25 19:46:32 iteration 11841: append session line
 - 2026-09-25 19:46:32 iteration 11842: log planning iteration
+- 2026-09-25 19:46:32 iteration 11843: note tuning delta
