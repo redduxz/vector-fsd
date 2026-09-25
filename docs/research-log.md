@@ -39070,3 +39070,4 @@
 - 2026-09-25 21:21:14 iteration 26603: jot safety review
 - 2026-09-25 21:21:14 iteration 26604: update research log
 - 2026-09-25 21:21:15 iteration 26605: log control tweak
+- 2026-09-25 21:21:15 iteration 26606: log control tweak
