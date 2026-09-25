@@ -16764,3 +16764,4 @@
 - 2026-09-25 19:58:46 iteration 4297: note latency sample
 - 2026-09-25 19:58:46 iteration 4298: mark test run
 - 2026-09-25 19:58:46 iteration 4299: append session line
+- 2026-09-25 19:58:46 iteration 4300: jot safety review
