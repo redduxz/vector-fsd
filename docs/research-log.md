@@ -8938,3 +8938,4 @@
 - 2026-09-25 19:39:50 iteration 8936: record sim observation
 - 2026-09-25 19:39:50 iteration 8937: log perception note
 - 2026-09-25 19:39:50 iteration 8938: log control tweak
+- 2026-09-25 19:39:50 iteration 8939: note tuning delta
