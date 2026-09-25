@@ -8774,3 +8774,4 @@
 - 2026-09-25 19:39:27 iteration 8772: log planning iteration
 - 2026-09-25 19:39:27 iteration 8773: log perception note
 - 2026-09-25 19:39:28 iteration 8774: log control tweak
+- 2026-09-25 19:39:28 iteration 8775: note tuning delta
