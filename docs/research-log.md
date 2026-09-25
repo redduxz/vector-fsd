@@ -21943,3 +21943,4 @@
 - 2026-09-25 20:18:04 iteration 9476: jot safety review
 - 2026-09-25 20:18:04 iteration 9477: update research log
 - 2026-09-25 20:18:05 iteration 9478: log loop iteration
+- 2026-09-25 20:18:05 iteration 9479: log control tweak
