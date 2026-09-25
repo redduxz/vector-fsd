@@ -19552,3 +19552,4 @@
 - 2026-09-25 20:07:31 iteration 7085: append session line
 - 2026-09-25 20:07:31 iteration 7086: log perception note
 - 2026-09-25 20:07:32 iteration 7087: mark test run
+- 2026-09-25 20:07:32 iteration 7088: note tuning delta
