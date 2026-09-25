@@ -10493,3 +10493,4 @@
 - 2026-09-25 19:43:21 iteration 10491: log perception note
 - 2026-09-25 19:43:21 iteration 10492: mark test run
 - 2026-09-25 19:43:21 iteration 10493: record checkpoint
+- 2026-09-25 19:43:21 iteration 10494: note tuning delta
