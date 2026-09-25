@@ -22955,3 +22955,4 @@
 - 2026-09-25 20:22:37 iteration 10488: append session line
 - 2026-09-25 20:22:37 iteration 10489: note tuning delta
 - 2026-09-25 20:22:37 iteration 10490: jot safety review
+- 2026-09-25 20:22:38 iteration 10491: note latency sample
