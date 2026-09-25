@@ -34939,3 +34939,4 @@
 - 2026-09-25 21:05:49 iteration 22472: jot safety review
 - 2026-09-25 21:05:50 iteration 22473: log planning iteration
 - 2026-09-25 21:05:50 iteration 22474: update research log
+- 2026-09-25 21:05:50 iteration 22475: note latency sample
