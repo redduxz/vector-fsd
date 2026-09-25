@@ -8305,3 +8305,4 @@
 - 2026-09-25 19:38:17 iteration 8303: log control tweak
 - 2026-09-25 19:38:22 iteration 8304: log loop iteration
 - 2026-09-25 19:38:23 iteration 8305: note latency sample
+- 2026-09-25 19:38:23 iteration 8306: mark test run
