@@ -894,3 +894,4 @@
 - 2026-09-25 19:21:30 iteration 892: mark test run
 - 2026-09-25 19:21:30 iteration 893: log control tweak
 - 2026-09-25 19:21:30 iteration 894: log planning iteration
+- 2026-09-25 19:21:30 iteration 895: log perception note
