@@ -4096,3 +4096,4 @@
 - 2026-09-25 19:28:29 iteration 4094: record sim observation
 - 2026-09-25 19:28:29 iteration 4095: record checkpoint
 - 2026-09-25 19:28:29 iteration 4096: record checkpoint
+- 2026-09-25 19:28:29 iteration 4097: log control tweak
