@@ -8835,3 +8835,4 @@
 - 2026-09-25 19:39:36 iteration 8833: append session line
 - 2026-09-25 19:39:36 iteration 8834: record checkpoint
 - 2026-09-25 19:39:36 iteration 8835: log perception note
+- 2026-09-25 19:39:36 iteration 8836: record sim observation
