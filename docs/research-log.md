@@ -11707,3 +11707,4 @@
 - 2026-09-25 19:46:13 iteration 11705: log perception note
 - 2026-09-25 19:46:14 iteration 11706: log perception note
 - 2026-09-25 19:46:14 iteration 11707: mark test run
+- 2026-09-25 19:46:14 iteration 11708: note tuning delta
