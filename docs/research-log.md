@@ -4087,3 +4087,4 @@
 - 2026-09-25 19:28:28 iteration 4085: append session line
 - 2026-09-25 19:28:28 iteration 4086: log control tweak
 - 2026-09-25 19:28:28 iteration 4087: note latency sample
+- 2026-09-25 19:28:28 iteration 4088: log control tweak
