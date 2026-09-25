@@ -17283,3 +17283,4 @@
 - 2026-09-25 20:00:10 iteration 4816: record checkpoint
 - 2026-09-25 20:00:10 iteration 4817: append session line
 - 2026-09-25 20:00:10 iteration 4818: note tuning delta
+- 2026-09-25 20:00:10 iteration 4819: record sim observation
