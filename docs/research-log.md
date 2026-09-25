@@ -30298,3 +30298,4 @@
 - 2026-09-25 20:49:19 iteration 17831: log loop iteration
 - 2026-09-25 20:49:19 iteration 17832: log control tweak
 - 2026-09-25 20:49:19 iteration 17833: record checkpoint
+- 2026-09-25 20:49:19 iteration 17834: log perception note
