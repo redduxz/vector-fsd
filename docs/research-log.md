@@ -16969,3 +16969,4 @@
 - 2026-09-25 19:59:24 iteration 4502: note tuning delta
 - 2026-09-25 19:59:24 iteration 4503: mark test run
 - 2026-09-25 19:59:24 iteration 4504: jot safety review
+- 2026-09-25 19:59:24 iteration 4505: log control tweak
