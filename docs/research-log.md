@@ -4603,3 +4603,4 @@
 - 2026-09-25 19:29:39 iteration 4601: append session line
 - 2026-09-25 19:29:40 iteration 4602: jot safety review
 - 2026-09-25 19:29:40 iteration 4603: record sim observation
+- 2026-09-25 19:29:40 iteration 4604: record checkpoint
