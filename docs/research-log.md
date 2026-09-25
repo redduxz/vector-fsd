@@ -2984,3 +2984,4 @@
 - 2026-09-25 19:25:47 iteration 2982: note latency sample
 - 2026-09-25 19:25:47 iteration 2983: log loop iteration
 - 2026-09-25 19:25:47 iteration 2984: jot safety review
+- 2026-09-25 19:25:47 iteration 2985: log perception note
