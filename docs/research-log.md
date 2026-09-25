@@ -8077,3 +8077,4 @@
 - 2026-09-25 19:37:48 iteration 8075: record checkpoint
 - 2026-09-25 19:37:48 iteration 8076: append session line
 - 2026-09-25 19:37:49 iteration 8077: jot safety review
+- 2026-09-25 19:37:49 iteration 8078: note tuning delta
