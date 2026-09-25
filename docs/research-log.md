@@ -17399,3 +17399,4 @@
 - 2026-09-25 20:00:26 iteration 4932: append session line
 - 2026-09-25 20:00:26 iteration 4933: log control tweak
 - 2026-09-25 20:00:26 iteration 4934: record sim observation
+- 2026-09-25 20:00:26 iteration 4935: jot safety review
