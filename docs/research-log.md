@@ -38612,3 +38612,4 @@
 - 2026-09-25 21:19:48 iteration 26145: log loop iteration
 - 2026-09-25 21:19:49 iteration 26146: record checkpoint
 - 2026-09-25 21:19:49 iteration 26147: log loop iteration
+- 2026-09-25 21:19:49 iteration 26148: note latency sample
