@@ -8596,3 +8596,4 @@
 - 2026-09-25 19:39:03 iteration 8594: note tuning delta
 - 2026-09-25 19:39:03 iteration 8595: update research log
 - 2026-09-25 19:39:03 iteration 8596: log planning iteration
+- 2026-09-25 19:39:03 iteration 8597: log perception note
