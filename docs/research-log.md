@@ -13999,3 +13999,4 @@
 - 2026-09-25 19:52:22 iteration 1532: append session line
 - 2026-09-25 19:52:22 iteration 1533: log perception note
 - 2026-09-25 19:52:22 iteration 1534: log control tweak
+- 2026-09-25 19:52:23 iteration 1535: note tuning delta
