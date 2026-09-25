@@ -6598,3 +6598,4 @@
 - 2026-09-25 19:34:26 iteration 6596: update research log
 - 2026-09-25 19:34:26 iteration 6597: update research log
 - 2026-09-25 19:34:26 iteration 6598: log control tweak
+- 2026-09-25 19:34:26 iteration 6599: jot safety review
