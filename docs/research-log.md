@@ -4555,3 +4555,4 @@
 - 2026-09-25 19:29:33 iteration 4553: log control tweak
 - 2026-09-25 19:29:33 iteration 4554: log loop iteration
 - 2026-09-25 19:29:33 iteration 4555: append session line
+- 2026-09-25 19:29:33 iteration 4556: note latency sample
