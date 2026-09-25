@@ -27,3 +27,4 @@
 - 2026-09-25 19:19:50 iteration 25: mark test run
 - 2026-09-25 19:19:50 iteration 26: update research log
 - 2026-09-25 19:19:50 iteration 27: log control tweak
+- 2026-09-25 19:19:50 iteration 28: record sim observation
