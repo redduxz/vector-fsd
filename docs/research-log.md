@@ -9507,3 +9507,4 @@
 - 2026-09-25 19:41:04 iteration 9505: log planning iteration
 - 2026-09-25 19:41:04 iteration 9506: record sim observation
 - 2026-09-25 19:41:04 iteration 9507: mark test run
+- 2026-09-25 19:41:05 iteration 9508: log control tweak
