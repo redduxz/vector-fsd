@@ -12504,3 +12504,4 @@
 - 2026-09-25 19:48:51 iteration 37: note tuning delta
 - 2026-09-25 19:48:51 iteration 38: jot safety review
 - 2026-09-25 19:48:51 iteration 39: mark test run
+- 2026-09-25 19:48:51 iteration 40: note latency sample
