@@ -574,3 +574,4 @@
 - 2026-09-25 19:20:53 iteration 572: log control tweak
 - 2026-09-25 19:20:53 iteration 573: record sim observation
 - 2026-09-25 19:20:53 iteration 574: log loop iteration
+- 2026-09-25 19:20:53 iteration 575: log perception note
