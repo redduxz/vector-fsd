@@ -8591,3 +8591,4 @@
 - 2026-09-25 19:39:02 iteration 8589: update research log
 - 2026-09-25 19:39:02 iteration 8590: jot safety review
 - 2026-09-25 19:39:02 iteration 8591: jot safety review
+- 2026-09-25 19:39:02 iteration 8592: note tuning delta
