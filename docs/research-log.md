@@ -18179,3 +18179,4 @@
 - 2026-09-25 20:02:21 iteration 5712: note tuning delta
 - 2026-09-25 20:02:21 iteration 5713: mark test run
 - 2026-09-25 20:02:21 iteration 5714: log control tweak
+- 2026-09-25 20:02:21 iteration 5715: log perception note
