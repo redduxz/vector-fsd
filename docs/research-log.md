@@ -5988,3 +5988,4 @@
 - 2026-09-25 19:32:54 iteration 5986: log control tweak
 - 2026-09-25 19:32:54 iteration 5987: log loop iteration
 - 2026-09-25 19:32:54 iteration 5988: note latency sample
+- 2026-09-25 19:32:54 iteration 5989: record checkpoint
