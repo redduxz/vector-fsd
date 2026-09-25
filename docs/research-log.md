@@ -992,3 +992,4 @@
 - 2026-09-25 19:21:41 iteration 990: jot safety review
 - 2026-09-25 19:21:41 iteration 991: record sim observation
 - 2026-09-25 19:21:41 iteration 992: log planning iteration
+- 2026-09-25 19:21:41 iteration 993: note latency sample
