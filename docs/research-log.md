@@ -2954,3 +2954,4 @@
 - 2026-09-25 19:25:44 iteration 2952: log control tweak
 - 2026-09-25 19:25:44 iteration 2953: update research log
 - 2026-09-25 19:25:44 iteration 2954: mark test run
+- 2026-09-25 19:25:44 iteration 2955: log perception note
