@@ -8112,3 +8112,4 @@
 - 2026-09-25 19:37:53 iteration 8110: log control tweak
 - 2026-09-25 19:37:53 iteration 8111: log loop iteration
 - 2026-09-25 19:37:53 iteration 8112: log loop iteration
+- 2026-09-25 19:37:53 iteration 8113: record sim observation
