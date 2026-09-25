@@ -4054,3 +4054,4 @@
 - 2026-09-25 19:28:23 iteration 4052: log control tweak
 - 2026-09-25 19:28:23 iteration 4053: log loop iteration
 - 2026-09-25 19:28:23 iteration 4054: mark test run
+- 2026-09-25 19:28:23 iteration 4055: note latency sample
