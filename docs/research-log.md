@@ -13164,3 +13164,4 @@
 - 2026-09-25 19:50:28 iteration 697: jot safety review
 - 2026-09-25 19:50:28 iteration 698: update research log
 - 2026-09-25 19:50:28 iteration 699: log loop iteration
+- 2026-09-25 19:50:28 iteration 700: log control tweak
