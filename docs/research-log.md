@@ -19281,3 +19281,4 @@
 - 2026-09-25 20:06:03 iteration 6814: log planning iteration
 - 2026-09-25 20:06:04 iteration 6815: mark test run
 - 2026-09-25 20:06:04 iteration 6816: append session line
+- 2026-09-25 20:06:04 iteration 6817: log control tweak
