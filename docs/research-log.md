@@ -5169,3 +5169,4 @@
 - 2026-09-25 19:30:57 iteration 5167: note latency sample
 - 2026-09-25 19:30:57 iteration 5168: jot safety review
 - 2026-09-25 19:30:57 iteration 5169: jot safety review
+- 2026-09-25 19:30:57 iteration 5170: log perception note
