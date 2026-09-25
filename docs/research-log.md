@@ -8095,3 +8095,4 @@
 - 2026-09-25 19:37:51 iteration 8093: record checkpoint
 - 2026-09-25 19:37:51 iteration 8094: note tuning delta
 - 2026-09-25 19:37:51 iteration 8095: jot safety review
+- 2026-09-25 19:37:51 iteration 8096: note latency sample
