@@ -32259,3 +32259,4 @@
 - 2026-09-25 20:56:05 iteration 19792: jot safety review
 - 2026-09-25 20:56:06 iteration 19793: mark test run
 - 2026-09-25 20:56:06 iteration 19794: note latency sample
+- 2026-09-25 20:56:06 iteration 19795: log control tweak
