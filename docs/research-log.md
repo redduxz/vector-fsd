@@ -4405,3 +4405,4 @@
 - 2026-09-25 19:29:12 iteration 4403: log control tweak
 - 2026-09-25 19:29:12 iteration 4404: log perception note
 - 2026-09-25 19:29:13 iteration 4405: note tuning delta
+- 2026-09-25 19:29:13 iteration 4406: jot safety review
