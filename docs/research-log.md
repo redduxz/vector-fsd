@@ -39730,3 +39730,4 @@
 - 2026-09-25 21:23:32 iteration 27263: jot safety review
 - 2026-09-25 21:23:32 iteration 27264: log control tweak
 - 2026-09-25 21:23:32 iteration 27265: log control tweak
+- 2026-09-25 21:23:33 iteration 27266: record sim observation
