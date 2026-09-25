@@ -25990,3 +25990,4 @@
 - 2026-09-25 20:34:24 iteration 13523: log perception note
 - 2026-09-25 20:34:24 iteration 13524: record sim observation
 - 2026-09-25 20:34:24 iteration 13525: record checkpoint
+- 2026-09-25 20:34:25 iteration 13526: log control tweak
