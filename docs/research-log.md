@@ -36901,3 +36901,4 @@
 - 2026-09-25 21:13:46 iteration 24434: jot safety review
 - 2026-09-25 21:13:46 iteration 24435: log control tweak
 - 2026-09-25 21:13:46 iteration 24436: log control tweak
+- 2026-09-25 21:13:46 iteration 24437: log perception note
