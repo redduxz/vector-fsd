@@ -22185,3 +22185,4 @@
 - 2026-09-25 20:19:12 iteration 9718: log loop iteration
 - 2026-09-25 20:19:12 iteration 9719: mark test run
 - 2026-09-25 20:19:12 iteration 9720: log control tweak
+- 2026-09-25 20:19:12 iteration 9721: log perception note
