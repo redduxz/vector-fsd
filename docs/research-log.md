@@ -9011,3 +9011,4 @@
 - 2026-09-25 19:40:00 iteration 9009: log control tweak
 - 2026-09-25 19:40:00 iteration 9010: log planning iteration
 - 2026-09-25 19:40:00 iteration 9011: note latency sample
+- 2026-09-25 19:40:00 iteration 9012: append session line
