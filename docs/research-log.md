@@ -12252,3 +12252,4 @@
 - 2026-09-25 19:47:24 iteration 12250: record sim observation
 - 2026-09-25 19:47:24 iteration 12251: log planning iteration
 - 2026-09-25 19:47:24 iteration 12252: mark test run
+- 2026-09-25 19:47:24 iteration 12253: log perception note
