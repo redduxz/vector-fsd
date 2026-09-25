@@ -28279,3 +28279,4 @@
 - 2026-09-25 20:42:38 iteration 15812: jot safety review
 - 2026-09-25 20:42:38 iteration 15813: record checkpoint
 - 2026-09-25 20:42:38 iteration 15814: record checkpoint
+- 2026-09-25 20:42:38 iteration 15815: log control tweak
