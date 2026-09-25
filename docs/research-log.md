@@ -2705,3 +2705,4 @@
 - 2026-09-25 19:25:12 iteration 2703: log planning iteration
 - 2026-09-25 19:25:12 iteration 2704: mark test run
 - 2026-09-25 19:25:12 iteration 2705: log loop iteration
+- 2026-09-25 19:25:12 iteration 2706: log perception note
