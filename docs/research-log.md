@@ -28959,3 +28959,4 @@
 - 2026-09-25 20:44:59 iteration 16492: jot safety review
 - 2026-09-25 20:44:59 iteration 16493: record checkpoint
 - 2026-09-25 20:44:59 iteration 16494: log perception note
+- 2026-09-25 20:45:00 iteration 16495: note tuning delta
