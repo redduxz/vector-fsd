@@ -5332,3 +5332,4 @@
 - 2026-09-25 19:31:20 iteration 5330: log loop iteration
 - 2026-09-25 19:31:20 iteration 5331: mark test run
 - 2026-09-25 19:31:20 iteration 5332: record checkpoint
+- 2026-09-25 19:31:20 iteration 5333: note latency sample
