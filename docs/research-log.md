@@ -17585,3 +17585,4 @@
 - 2026-09-25 20:00:51 iteration 5118: mark test run
 - 2026-09-25 20:00:52 iteration 5119: note latency sample
 - 2026-09-25 20:00:52 iteration 5120: jot safety review
+- 2026-09-25 20:00:52 iteration 5121: update research log
