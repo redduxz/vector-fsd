@@ -11936,3 +11936,4 @@
 - 2026-09-25 19:46:43 iteration 11934: jot safety review
 - 2026-09-25 19:46:43 iteration 11935: jot safety review
 - 2026-09-25 19:46:44 iteration 11936: note tuning delta
+- 2026-09-25 19:46:44 iteration 11937: update research log
