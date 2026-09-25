@@ -10886,3 +10886,4 @@
 - 2026-09-25 19:44:16 iteration 10884: update research log
 - 2026-09-25 19:44:17 iteration 10885: jot safety review
 - 2026-09-25 19:44:17 iteration 10886: log planning iteration
+- 2026-09-25 19:44:17 iteration 10887: note latency sample
