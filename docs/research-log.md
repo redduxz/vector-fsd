@@ -7937,3 +7937,4 @@
 - 2026-09-25 19:37:30 iteration 7935: update research log
 - 2026-09-25 19:37:31 iteration 7936: append session line
 - 2026-09-25 19:37:31 iteration 7937: note tuning delta
+- 2026-09-25 19:37:31 iteration 7938: mark test run
