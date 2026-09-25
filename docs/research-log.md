@@ -10320,3 +10320,4 @@
 - 2026-09-25 19:42:58 iteration 10318: jot safety review
 - 2026-09-25 19:42:58 iteration 10319: append session line
 - 2026-09-25 19:42:58 iteration 10320: note tuning delta
+- 2026-09-25 19:42:58 iteration 10321: record sim observation
