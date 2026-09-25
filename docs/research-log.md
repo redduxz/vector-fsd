@@ -837,3 +837,4 @@
 - 2026-09-25 19:21:23 iteration 835: note tuning delta
 - 2026-09-25 19:21:23 iteration 836: log control tweak
 - 2026-09-25 19:21:24 iteration 837: note latency sample
+- 2026-09-25 19:21:24 iteration 838: append session line
