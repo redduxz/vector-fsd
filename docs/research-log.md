@@ -2221,3 +2221,4 @@
 - 2026-09-25 19:24:09 iteration 2219: update research log
 - 2026-09-25 19:24:09 iteration 2220: log loop iteration
 - 2026-09-25 19:24:09 iteration 2221: note latency sample
+- 2026-09-25 19:24:09 iteration 2222: note tuning delta
