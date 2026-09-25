@@ -481,3 +481,4 @@
 - 2026-09-25 19:20:42 iteration 479: log control tweak
 - 2026-09-25 19:20:42 iteration 480: jot safety review
 - 2026-09-25 19:20:42 iteration 481: note latency sample
+- 2026-09-25 19:20:42 iteration 482: record checkpoint
