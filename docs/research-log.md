@@ -9710,3 +9710,4 @@
 - 2026-09-25 19:41:36 iteration 9708: log loop iteration
 - 2026-09-25 19:41:36 iteration 9709: note latency sample
 - 2026-09-25 19:41:36 iteration 9710: record sim observation
+- 2026-09-25 19:41:36 iteration 9711: log perception note
