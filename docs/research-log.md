@@ -25853,3 +25853,4 @@
 - 2026-09-25 20:34:01 iteration 13386: record checkpoint
 - 2026-09-25 20:34:01 iteration 13387: log control tweak
 - 2026-09-25 20:34:02 iteration 13388: mark test run
+- 2026-09-25 20:34:02 iteration 13389: log loop iteration
