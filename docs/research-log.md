@@ -34292,3 +34292,4 @@
 - 2026-09-25 21:03:17 iteration 21825: log control tweak
 - 2026-09-25 21:03:17 iteration 21826: log control tweak
 - 2026-09-25 21:03:17 iteration 21827: jot safety review
+- 2026-09-25 21:03:17 iteration 21828: log control tweak
