@@ -2300,3 +2300,4 @@
 - 2026-09-25 19:24:18 iteration 2298: jot safety review
 - 2026-09-25 19:24:19 iteration 2299: jot safety review
 - 2026-09-25 19:24:19 iteration 2300: append session line
+- 2026-09-25 19:24:19 iteration 2301: log control tweak
