@@ -38696,3 +38696,4 @@
 - 2026-09-25 21:20:05 iteration 26229: mark test run
 - 2026-09-25 21:20:05 iteration 26230: record checkpoint
 - 2026-09-25 21:20:05 iteration 26231: jot safety review
+- 2026-09-25 21:20:05 iteration 26232: log control tweak
