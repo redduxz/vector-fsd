@@ -35011,3 +35011,4 @@
 - 2026-09-25 21:06:05 iteration 22544: jot safety review
 - 2026-09-25 21:06:06 iteration 22545: note tuning delta
 - 2026-09-25 21:06:06 iteration 22546: update research log
+- 2026-09-25 21:06:06 iteration 22547: log control tweak
