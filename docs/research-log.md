@@ -24072,3 +24072,4 @@
 - 2026-09-25 20:27:09 iteration 11605: record checkpoint
 - 2026-09-25 20:27:10 iteration 11606: append session line
 - 2026-09-25 20:27:10 iteration 11607: note tuning delta
+- 2026-09-25 20:27:10 iteration 11608: note latency sample
