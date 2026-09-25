@@ -9751,3 +9751,4 @@
 - 2026-09-25 19:41:42 iteration 9749: jot safety review
 - 2026-09-25 19:41:42 iteration 9750: update research log
 - 2026-09-25 19:41:42 iteration 9751: append session line
+- 2026-09-25 19:41:42 iteration 9752: note tuning delta
