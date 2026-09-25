@@ -12289,3 +12289,4 @@
 - 2026-09-25 19:47:28 iteration 12287: note latency sample
 - 2026-09-25 19:47:28 iteration 12288: log control tweak
 - 2026-09-25 19:47:29 iteration 12289: mark test run
+- 2026-09-25 19:47:29 iteration 12290: log control tweak
