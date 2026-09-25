@@ -17598,3 +17598,4 @@
 - 2026-09-25 20:00:53 iteration 5131: jot safety review
 - 2026-09-25 20:00:53 iteration 5132: append session line
 - 2026-09-25 20:00:54 iteration 5133: jot safety review
+- 2026-09-25 20:00:54 iteration 5134: log control tweak
