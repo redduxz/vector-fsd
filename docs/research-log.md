@@ -4585,3 +4585,4 @@
 - 2026-09-25 19:29:37 iteration 4583: note tuning delta
 - 2026-09-25 19:29:37 iteration 4584: jot safety review
 - 2026-09-25 19:29:37 iteration 4585: log planning iteration
+- 2026-09-25 19:29:37 iteration 4586: log control tweak
