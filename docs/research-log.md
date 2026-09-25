@@ -21492,3 +21492,4 @@
 - 2026-09-25 20:16:04 iteration 9025: log perception note
 - 2026-09-25 20:16:04 iteration 9026: note tuning delta
 - 2026-09-25 20:16:04 iteration 9027: log loop iteration
+- 2026-09-25 20:16:04 iteration 9028: log control tweak
