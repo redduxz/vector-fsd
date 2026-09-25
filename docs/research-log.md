@@ -11504,3 +11504,4 @@
 - 2026-09-25 19:45:46 iteration 11502: note latency sample
 - 2026-09-25 19:45:46 iteration 11503: log control tweak
 - 2026-09-25 19:45:47 iteration 11504: note tuning delta
+- 2026-09-25 19:45:47 iteration 11505: record sim observation
