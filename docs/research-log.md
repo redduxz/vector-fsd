@@ -38103,3 +38103,4 @@
 - 2026-09-25 21:18:04 iteration 25636: append session line
 - 2026-09-25 21:18:04 iteration 25637: mark test run
 - 2026-09-25 21:18:04 iteration 25638: note latency sample
+- 2026-09-25 21:18:04 iteration 25639: record checkpoint
