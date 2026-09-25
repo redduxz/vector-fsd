@@ -2842,3 +2842,4 @@
 - 2026-09-25 19:25:30 iteration 2840: log loop iteration
 - 2026-09-25 19:25:30 iteration 2841: jot safety review
 - 2026-09-25 19:25:30 iteration 2842: record sim observation
+- 2026-09-25 19:25:30 iteration 2843: log perception note
