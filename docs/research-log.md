@@ -1649,3 +1649,4 @@
 - 2026-09-25 19:22:57 iteration 1647: log control tweak
 - 2026-09-25 19:22:57 iteration 1648: log planning iteration
 - 2026-09-25 19:22:57 iteration 1649: record sim observation
+- 2026-09-25 19:22:57 iteration 1650: log perception note
