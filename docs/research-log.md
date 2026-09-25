@@ -10828,3 +10828,4 @@
 - 2026-09-25 19:44:08 iteration 10826: record checkpoint
 - 2026-09-25 19:44:08 iteration 10827: jot safety review
 - 2026-09-25 19:44:08 iteration 10828: jot safety review
+- 2026-09-25 19:44:09 iteration 10829: log control tweak
