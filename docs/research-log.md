@@ -16315,3 +16315,4 @@
 - 2026-09-25 19:57:44 iteration 3848: mark test run
 - 2026-09-25 19:57:44 iteration 3849: note tuning delta
 - 2026-09-25 19:57:44 iteration 3850: log planning iteration
+- 2026-09-25 19:57:44 iteration 3851: log control tweak
