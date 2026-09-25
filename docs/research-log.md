@@ -12547,3 +12547,4 @@
 - 2026-09-25 19:48:57 iteration 80: append session line
 - 2026-09-25 19:48:57 iteration 81: log planning iteration
 - 2026-09-25 19:48:57 iteration 82: log loop iteration
+- 2026-09-25 19:48:57 iteration 83: log control tweak
