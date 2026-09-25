@@ -17600,3 +17600,4 @@
 - 2026-09-25 20:00:54 iteration 5133: jot safety review
 - 2026-09-25 20:00:54 iteration 5134: log control tweak
 - 2026-09-25 20:00:54 iteration 5135: log perception note
+- 2026-09-25 20:00:54 iteration 5136: note tuning delta
