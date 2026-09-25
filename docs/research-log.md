@@ -30780,3 +30780,4 @@
 - 2026-09-25 20:50:54 iteration 18313: log planning iteration
 - 2026-09-25 20:50:54 iteration 18314: log perception note
 - 2026-09-25 20:50:54 iteration 18315: mark test run
+- 2026-09-25 20:50:54 iteration 18316: log control tweak
