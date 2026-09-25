@@ -7660,3 +7660,4 @@
 - 2026-09-25 19:36:52 iteration 7658: note tuning delta
 - 2026-09-25 19:36:52 iteration 7659: note latency sample
 - 2026-09-25 19:36:53 iteration 7660: log planning iteration
+- 2026-09-25 19:36:53 iteration 7661: log control tweak
