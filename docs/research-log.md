@@ -12226,3 +12226,4 @@
 - 2026-09-25 19:47:20 iteration 12224: log planning iteration
 - 2026-09-25 19:47:20 iteration 12225: log loop iteration
 - 2026-09-25 19:47:21 iteration 12226: mark test run
+- 2026-09-25 19:47:21 iteration 12227: note latency sample
