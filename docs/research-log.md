@@ -38916,3 +38916,4 @@
 - 2026-09-25 21:20:44 iteration 26449: log control tweak
 - 2026-09-25 21:20:44 iteration 26450: log perception note
 - 2026-09-25 21:20:44 iteration 26451: mark test run
+- 2026-09-25 21:20:44 iteration 26452: note tuning delta
