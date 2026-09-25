@@ -4,3 +4,5 @@ logs/
 ml/checkpoints/
 *.npz
 *.egg-info/
+cpp/build/
+*.pyd
