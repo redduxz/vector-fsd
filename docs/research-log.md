@@ -4300,3 +4300,4 @@
 - 2026-09-25 19:28:58 iteration 4298: log loop iteration
 - 2026-09-25 19:28:58 iteration 4299: update research log
 - 2026-09-25 19:28:58 iteration 4300: record sim observation
+- 2026-09-25 19:28:58 iteration 4301: log control tweak
