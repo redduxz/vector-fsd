@@ -340,3 +340,4 @@
 - 2026-09-25 19:20:26 iteration 338: record checkpoint
 - 2026-09-25 19:20:26 iteration 339: record checkpoint
 - 2026-09-25 19:20:26 iteration 340: note tuning delta
+- 2026-09-25 19:20:26 iteration 341: note latency sample
