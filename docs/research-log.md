@@ -22100,3 +22100,4 @@
 - 2026-09-25 20:18:50 iteration 9633: record checkpoint
 - 2026-09-25 20:18:50 iteration 9634: log planning iteration
 - 2026-09-25 20:18:50 iteration 9635: note tuning delta
+- 2026-09-25 20:18:51 iteration 9636: log control tweak
