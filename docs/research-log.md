@@ -8898,3 +8898,4 @@
 - 2026-09-25 19:39:44 iteration 8896: record checkpoint
 - 2026-09-25 19:39:44 iteration 8897: log planning iteration
 - 2026-09-25 19:39:45 iteration 8898: append session line
+- 2026-09-25 19:39:45 iteration 8899: note latency sample
