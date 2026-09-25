@@ -25050,3 +25050,4 @@
 - 2026-09-25 20:31:29 iteration 12583: append session line
 - 2026-09-25 20:31:29 iteration 12584: log control tweak
 - 2026-09-25 20:31:30 iteration 12585: mark test run
+- 2026-09-25 20:31:30 iteration 12586: jot safety review
