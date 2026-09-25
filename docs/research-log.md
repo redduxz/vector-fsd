@@ -9019,3 +9019,4 @@
 - 2026-09-25 19:40:01 iteration 9017: record checkpoint
 - 2026-09-25 19:40:01 iteration 9018: update research log
 - 2026-09-25 19:40:01 iteration 9019: log control tweak
+- 2026-09-25 19:40:01 iteration 9020: note latency sample
