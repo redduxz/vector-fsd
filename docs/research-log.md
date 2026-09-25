@@ -20518,3 +20518,4 @@
 - 2026-09-25 20:12:14 iteration 8051: record checkpoint
 - 2026-09-25 20:12:14 iteration 8052: note tuning delta
 - 2026-09-25 20:12:14 iteration 8053: jot safety review
+- 2026-09-25 20:12:14 iteration 8054: log control tweak
