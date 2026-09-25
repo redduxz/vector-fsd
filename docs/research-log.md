@@ -23332,3 +23332,4 @@
 - 2026-09-25 20:24:12 iteration 10865: note latency sample
 - 2026-09-25 20:24:12 iteration 10866: mark test run
 - 2026-09-25 20:24:12 iteration 10867: mark test run
+- 2026-09-25 20:24:12 iteration 10868: log perception note
