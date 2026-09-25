@@ -21238,3 +21238,4 @@
 - 2026-09-25 20:15:10 iteration 8771: log perception note
 - 2026-09-25 20:15:10 iteration 8772: note latency sample
 - 2026-09-25 20:15:10 iteration 8773: record checkpoint
+- 2026-09-25 20:15:10 iteration 8774: mark test run
