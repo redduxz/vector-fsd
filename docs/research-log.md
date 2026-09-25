@@ -3097,3 +3097,4 @@
 - 2026-09-25 19:26:01 iteration 3095: update research log
 - 2026-09-25 19:26:01 iteration 3096: log loop iteration
 - 2026-09-25 19:26:01 iteration 3097: log control tweak
+- 2026-09-25 19:26:01 iteration 3098: note latency sample
