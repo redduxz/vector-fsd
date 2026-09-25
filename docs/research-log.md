@@ -1093,3 +1093,4 @@
 - 2026-09-25 19:21:53 iteration 1091: jot safety review
 - 2026-09-25 19:21:53 iteration 1092: update research log
 - 2026-09-25 19:21:53 iteration 1093: mark test run
+- 2026-09-25 19:21:53 iteration 1094: note tuning delta
