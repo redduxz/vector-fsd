@@ -4360,3 +4360,4 @@
 - 2026-09-25 19:29:06 iteration 4358: append session line
 - 2026-09-25 19:29:07 iteration 4359: log planning iteration
 - 2026-09-25 19:29:07 iteration 4360: log perception note
+- 2026-09-25 19:29:07 iteration 4361: jot safety review
