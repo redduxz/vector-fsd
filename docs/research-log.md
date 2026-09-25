@@ -9049,3 +9049,4 @@
 - 2026-09-25 19:40:05 iteration 9047: note latency sample
 - 2026-09-25 19:40:05 iteration 9048: append session line
 - 2026-09-25 19:40:05 iteration 9049: log control tweak
+- 2026-09-25 19:40:05 iteration 9050: note tuning delta
