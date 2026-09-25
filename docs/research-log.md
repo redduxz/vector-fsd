@@ -2264,3 +2264,4 @@
 - 2026-09-25 19:24:14 iteration 2262: record sim observation
 - 2026-09-25 19:24:14 iteration 2263: note latency sample
 - 2026-09-25 19:24:14 iteration 2264: note tuning delta
+- 2026-09-25 19:24:15 iteration 2265: jot safety review
