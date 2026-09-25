@@ -37860,3 +37860,4 @@
 - 2026-09-25 21:17:16 iteration 25393: jot safety review
 - 2026-09-25 21:17:16 iteration 25394: mark test run
 - 2026-09-25 21:17:17 iteration 25395: log loop iteration
+- 2026-09-25 21:17:17 iteration 25396: log control tweak
