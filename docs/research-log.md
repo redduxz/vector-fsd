@@ -10120,3 +10120,4 @@
 - 2026-09-25 19:42:32 iteration 10118: jot safety review
 - 2026-09-25 19:42:32 iteration 10119: jot safety review
 - 2026-09-25 19:42:32 iteration 10120: log control tweak
+- 2026-09-25 19:42:32 iteration 10121: mark test run
