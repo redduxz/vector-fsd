@@ -3596,3 +3596,4 @@
 - 2026-09-25 19:27:11 iteration 3594: mark test run
 - 2026-09-25 19:27:11 iteration 3595: log loop iteration
 - 2026-09-25 19:27:12 iteration 3596: log planning iteration
+- 2026-09-25 19:27:12 iteration 3597: log perception note
