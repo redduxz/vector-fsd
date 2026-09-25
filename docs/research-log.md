@@ -4813,3 +4813,4 @@
 - 2026-09-25 19:30:08 iteration 4811: note tuning delta
 - 2026-09-25 19:30:09 iteration 4812: update research log
 - 2026-09-25 19:30:09 iteration 4813: mark test run
+- 2026-09-25 19:30:09 iteration 4814: log control tweak
