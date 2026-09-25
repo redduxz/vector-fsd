@@ -9309,3 +9309,4 @@
 - 2026-09-25 19:40:40 iteration 9307: log control tweak
 - 2026-09-25 19:40:40 iteration 9308: record sim observation
 - 2026-09-25 19:40:40 iteration 9309: append session line
+- 2026-09-25 19:40:40 iteration 9310: log planning iteration
