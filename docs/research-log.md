@@ -12827,3 +12827,4 @@
 - 2026-09-25 19:49:36 iteration 360: append session line
 - 2026-09-25 19:49:36 iteration 361: record sim observation
 - 2026-09-25 19:49:36 iteration 362: update research log
+- 2026-09-25 19:49:36 iteration 363: log perception note
