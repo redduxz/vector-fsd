@@ -16723,3 +16723,4 @@
 - 2026-09-25 19:58:40 iteration 4256: mark test run
 - 2026-09-25 19:58:41 iteration 4257: jot safety review
 - 2026-09-25 19:58:41 iteration 4258: record sim observation
+- 2026-09-25 19:58:41 iteration 4259: log control tweak
