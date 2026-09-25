@@ -12280,3 +12280,4 @@
 - 2026-09-25 19:47:27 iteration 12278: append session line
 - 2026-09-25 19:47:27 iteration 12279: log control tweak
 - 2026-09-25 19:47:27 iteration 12280: note tuning delta
+- 2026-09-25 19:47:28 iteration 12281: jot safety review
