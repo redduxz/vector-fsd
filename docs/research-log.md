@@ -29714,3 +29714,4 @@
 - 2026-09-25 20:47:26 iteration 17247: jot safety review
 - 2026-09-25 20:47:26 iteration 17248: update research log
 - 2026-09-25 20:47:26 iteration 17249: log planning iteration
+- 2026-09-25 20:47:26 iteration 17250: note tuning delta
