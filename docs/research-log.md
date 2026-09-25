@@ -780,3 +780,4 @@
 - 2026-09-25 19:21:17 iteration 778: mark test run
 - 2026-09-25 19:21:17 iteration 779: note latency sample
 - 2026-09-25 19:21:17 iteration 780: update research log
+- 2026-09-25 19:21:17 iteration 781: log perception note
