@@ -10780,3 +10780,4 @@
 - 2026-09-25 19:44:01 iteration 10778: append session line
 - 2026-09-25 19:44:02 iteration 10779: log perception note
 - 2026-09-25 19:44:02 iteration 10780: note tuning delta
+- 2026-09-25 19:44:02 iteration 10781: log perception note
