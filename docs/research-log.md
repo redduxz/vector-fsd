@@ -1750,3 +1750,4 @@
 - 2026-09-25 19:23:09 iteration 1748: log perception note
 - 2026-09-25 19:23:09 iteration 1749: note tuning delta
 - 2026-09-25 19:23:09 iteration 1750: mark test run
+- 2026-09-25 19:23:09 iteration 1751: record sim observation
