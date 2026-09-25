@@ -16,3 +16,4 @@
 - 2026-09-25 19:19:48 iteration 14: log loop iteration
 - 2026-09-25 19:19:48 iteration 15: update research log
 - 2026-09-25 19:19:49 iteration 16: log perception note
+- 2026-09-25 19:19:49 iteration 17: log control tweak
