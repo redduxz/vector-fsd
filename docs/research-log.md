@@ -13205,3 +13205,4 @@
 - 2026-09-25 19:50:33 iteration 738: record sim observation
 - 2026-09-25 19:50:33 iteration 739: update research log
 - 2026-09-25 19:50:34 iteration 740: jot safety review
+- 2026-09-25 19:50:34 iteration 741: log control tweak
