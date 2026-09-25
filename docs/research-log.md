@@ -312,3 +312,4 @@
 - 2026-09-25 19:20:23 iteration 310: jot safety review
 - 2026-09-25 19:20:23 iteration 311: jot safety review
 - 2026-09-25 19:20:23 iteration 312: mark test run
+- 2026-09-25 19:20:23 iteration 313: note tuning delta
