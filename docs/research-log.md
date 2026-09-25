@@ -8563,3 +8563,4 @@
 - 2026-09-25 19:38:58 iteration 8561: append session line
 - 2026-09-25 19:38:58 iteration 8562: jot safety review
 - 2026-09-25 19:38:58 iteration 8563: note tuning delta
+- 2026-09-25 19:38:58 iteration 8564: note tuning delta
