@@ -35442,3 +35442,4 @@
 - 2026-09-25 21:08:03 iteration 22975: mark test run
 - 2026-09-25 21:08:04 iteration 22976: log planning iteration
 - 2026-09-25 21:08:04 iteration 22977: log control tweak
+- 2026-09-25 21:08:04 iteration 22978: note tuning delta
