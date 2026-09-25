@@ -36355,3 +36355,4 @@
 - 2026-09-25 21:11:25 iteration 23888: mark test run
 - 2026-09-25 21:11:25 iteration 23889: record checkpoint
 - 2026-09-25 21:11:25 iteration 23890: note tuning delta
+- 2026-09-25 21:11:26 iteration 23891: log control tweak
