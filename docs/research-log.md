@@ -3240,3 +3240,4 @@
 - 2026-09-25 19:26:21 iteration 3238: log planning iteration
 - 2026-09-25 19:26:21 iteration 3239: note tuning delta
 - 2026-09-25 19:26:22 iteration 3240: append session line
+- 2026-09-25 19:26:22 iteration 3241: note latency sample
