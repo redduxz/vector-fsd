@@ -2250,3 +2250,4 @@
 - 2026-09-25 19:24:13 iteration 2248: mark test run
 - 2026-09-25 19:24:13 iteration 2249: jot safety review
 - 2026-09-25 19:24:13 iteration 2250: mark test run
+- 2026-09-25 19:24:13 iteration 2251: note latency sample
