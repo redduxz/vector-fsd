@@ -8365,3 +8365,4 @@
 - 2026-09-25 19:38:30 iteration 8363: note tuning delta
 - 2026-09-25 19:38:30 iteration 8364: jot safety review
 - 2026-09-25 19:38:31 iteration 8365: log loop iteration
+- 2026-09-25 19:38:31 iteration 8366: log perception note
