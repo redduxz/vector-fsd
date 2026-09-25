@@ -9523,3 +9523,4 @@
 - 2026-09-25 19:41:06 iteration 9521: record checkpoint
 - 2026-09-25 19:41:06 iteration 9522: jot safety review
 - 2026-09-25 19:41:06 iteration 9523: append session line
+- 2026-09-25 19:41:06 iteration 9524: note latency sample
