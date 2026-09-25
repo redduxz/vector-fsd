@@ -8401,3 +8401,4 @@
 - 2026-09-25 19:38:35 iteration 8399: note latency sample
 - 2026-09-25 19:38:35 iteration 8400: log perception note
 - 2026-09-25 19:38:35 iteration 8401: append session line
+- 2026-09-25 19:38:35 iteration 8402: log control tweak
