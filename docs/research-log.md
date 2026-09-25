@@ -4176,3 +4176,4 @@
 - 2026-09-25 19:28:40 iteration 4174: update research log
 - 2026-09-25 19:28:40 iteration 4175: mark test run
 - 2026-09-25 19:28:40 iteration 4176: note tuning delta
+- 2026-09-25 19:28:40 iteration 4177: log perception note
