@@ -10907,3 +10907,4 @@
 - 2026-09-25 19:44:19 iteration 10905: jot safety review
 - 2026-09-25 19:44:20 iteration 10906: log control tweak
 - 2026-09-25 19:44:20 iteration 10907: append session line
+- 2026-09-25 19:44:20 iteration 10908: note tuning delta
