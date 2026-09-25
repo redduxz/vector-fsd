@@ -5900,3 +5900,4 @@
 - 2026-09-25 19:32:42 iteration 5898: log control tweak
 - 2026-09-25 19:32:42 iteration 5899: note tuning delta
 - 2026-09-25 19:32:42 iteration 5900: record sim observation
+- 2026-09-25 19:32:42 iteration 5901: record sim observation
