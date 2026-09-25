@@ -10989,3 +10989,4 @@
 - 2026-09-25 19:44:31 iteration 10987: log loop iteration
 - 2026-09-25 19:44:31 iteration 10988: note latency sample
 - 2026-09-25 19:44:31 iteration 10989: record checkpoint
+- 2026-09-25 19:44:31 iteration 10990: mark test run
