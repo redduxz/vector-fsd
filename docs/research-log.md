@@ -4023,3 +4023,4 @@
 - 2026-09-25 19:28:16 iteration 4021: log planning iteration
 - 2026-09-25 19:28:16 iteration 4022: jot safety review
 - 2026-09-25 19:28:16 iteration 4023: log control tweak
+- 2026-09-25 19:28:16 iteration 4024: record sim observation
