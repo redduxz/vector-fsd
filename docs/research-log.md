@@ -38955,3 +38955,4 @@
 - 2026-09-25 21:20:51 iteration 26488: mark test run
 - 2026-09-25 21:20:51 iteration 26489: log loop iteration
 - 2026-09-25 21:20:51 iteration 26490: append session line
+- 2026-09-25 21:20:51 iteration 26491: note tuning delta
