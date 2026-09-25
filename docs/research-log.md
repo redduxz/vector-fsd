@@ -9059,3 +9059,4 @@
 - 2026-09-25 19:40:06 iteration 9057: note latency sample
 - 2026-09-25 19:40:07 iteration 9058: update research log
 - 2026-09-25 19:40:07 iteration 9059: mark test run
+- 2026-09-25 19:40:07 iteration 9060: log control tweak
