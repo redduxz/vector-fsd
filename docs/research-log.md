@@ -21981,3 +21981,4 @@
 - 2026-09-25 20:18:15 iteration 9514: mark test run
 - 2026-09-25 20:18:16 iteration 9515: update research log
 - 2026-09-25 20:18:16 iteration 9516: note latency sample
+- 2026-09-25 20:18:16 iteration 9517: note tuning delta
