@@ -8743,3 +8743,4 @@
 - 2026-09-25 19:39:23 iteration 8741: append session line
 - 2026-09-25 19:39:23 iteration 8742: mark test run
 - 2026-09-25 19:39:23 iteration 8743: update research log
+- 2026-09-25 19:39:23 iteration 8744: record sim observation
