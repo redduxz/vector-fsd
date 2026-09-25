@@ -10260,3 +10260,4 @@
 - 2026-09-25 19:42:50 iteration 10258: log control tweak
 - 2026-09-25 19:42:50 iteration 10259: note latency sample
 - 2026-09-25 19:42:50 iteration 10260: update research log
+- 2026-09-25 19:42:50 iteration 10261: log control tweak
