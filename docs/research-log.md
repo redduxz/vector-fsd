@@ -14720,3 +14720,4 @@
 - 2026-09-25 19:54:00 iteration 2253: record checkpoint
 - 2026-09-25 19:54:00 iteration 2254: mark test run
 - 2026-09-25 19:54:00 iteration 2255: append session line
+- 2026-09-25 19:54:00 iteration 2256: record sim observation
