@@ -11811,3 +11811,4 @@
 - 2026-09-25 19:46:28 iteration 11809: log planning iteration
 - 2026-09-25 19:46:28 iteration 11810: log control tweak
 - 2026-09-25 19:46:28 iteration 11811: log loop iteration
+- 2026-09-25 19:46:28 iteration 11812: note latency sample
