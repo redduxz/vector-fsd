@@ -7990,3 +7990,4 @@
 - 2026-09-25 19:37:37 iteration 7988: log planning iteration
 - 2026-09-25 19:37:37 iteration 7989: log control tweak
 - 2026-09-25 19:37:38 iteration 7990: note tuning delta
+- 2026-09-25 19:37:38 iteration 7991: log loop iteration
