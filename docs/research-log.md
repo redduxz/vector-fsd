@@ -4430,3 +4430,4 @@
 - 2026-09-25 19:29:16 iteration 4428: log planning iteration
 - 2026-09-25 19:29:16 iteration 4429: jot safety review
 - 2026-09-25 19:29:16 iteration 4430: log control tweak
+- 2026-09-25 19:29:16 iteration 4431: record checkpoint
