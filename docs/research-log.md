@@ -24680,3 +24680,4 @@
 - 2026-09-25 20:29:50 iteration 12213: update research log
 - 2026-09-25 20:29:50 iteration 12214: append session line
 - 2026-09-25 20:29:50 iteration 12215: record sim observation
+- 2026-09-25 20:29:51 iteration 12216: note tuning delta
