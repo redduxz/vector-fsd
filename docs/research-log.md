@@ -25819,3 +25819,4 @@
 - 2026-09-25 20:33:56 iteration 13352: append session line
 - 2026-09-25 20:33:56 iteration 13353: jot safety review
 - 2026-09-25 20:33:56 iteration 13354: note latency sample
+- 2026-09-25 20:33:56 iteration 13355: log control tweak
