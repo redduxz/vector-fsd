@@ -9252,3 +9252,4 @@
 - 2026-09-25 19:40:32 iteration 9250: record checkpoint
 - 2026-09-25 19:40:32 iteration 9251: append session line
 - 2026-09-25 19:40:32 iteration 9252: note tuning delta
+- 2026-09-25 19:40:32 iteration 9253: jot safety review
