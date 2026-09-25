@@ -1799,3 +1799,4 @@
 - 2026-09-25 19:23:14 iteration 1797: log perception note
 - 2026-09-25 19:23:15 iteration 1798: log planning iteration
 - 2026-09-25 19:23:15 iteration 1799: jot safety review
+- 2026-09-25 19:23:15 iteration 1800: log control tweak
