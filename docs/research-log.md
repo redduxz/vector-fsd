@@ -4732,3 +4732,4 @@
 - 2026-09-25 19:29:57 iteration 4730: jot safety review
 - 2026-09-25 19:29:57 iteration 4731: log planning iteration
 - 2026-09-25 19:29:57 iteration 4732: log loop iteration
+- 2026-09-25 19:29:57 iteration 4733: log control tweak
