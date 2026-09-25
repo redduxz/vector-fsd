@@ -94,6 +94,11 @@ RoutePlanner = _optional_import("fsd.planning.route", "RoutePlanner")
 TrajectoryPlanner = _optional_import("fsd.planning.trajectory", "TrajectoryPlanner")
 VehicleController = _optional_import("fsd.control.controller", "VehicleController")
 SafetyMonitor = _optional_import("fsd.safety.monitor", "SafetyMonitor")
+# compat adapters pick the C++ (fsd_cpp) backend when the extension is
+# importable and degrade to the same Python classes otherwise
+CppVehicleController = _optional_import("fsd.compat.control",
+                                        "CppVehicleController")
+CppSafetyMonitor = _optional_import("fsd.compat.safety", "CppSafetyMonitor")
 
 # Candidate method names — downstream signatures aren't frozen yet, so the
 # agent resolves the first matching callable and calls it flexibly.
@@ -537,9 +542,10 @@ class AutopilotAgent:
         self.route_planner = _build(RoutePlanner, cfg)
         self.behavior_planner = _build(BehaviorPlanner, cfg)
         self.traj_planner = _build(TrajectoryPlanner, cfg)
-        self.controller = _build(VehicleController, cfg) \
-            or _FallbackController(cfg)
-        self.safety = _build(SafetyMonitor, cfg) or _FallbackSafety(cfg)
+        self.controller = _build(CppVehicleController or VehicleController,
+                                 cfg) or _FallbackController(cfg)
+        self.safety = _build(CppSafetyMonitor or SafetyMonitor, cfg) \
+            or _FallbackSafety(cfg)
         self._module_names = {
             "lane": self.lane_detector is not None,
             "objects": self.object_detector is not None,
@@ -549,12 +555,18 @@ class AutopilotAgent:
             "route": self.route_planner is not None,
             "behavior": self.behavior_planner is not None,
             "trajectory": self.traj_planner is not None,
-            "controller": (isinstance(self.controller, VehicleController)
-                           if VehicleController is not None
-                           else self.controller is not None),
-            "safety": (isinstance(self.safety, SafetyMonitor)
-                       if SafetyMonitor is not None
-                       else self.safety is not None),
+            "controller": (isinstance(
+                self.controller,
+                tuple(c for c in (VehicleController, CppVehicleController)
+                      if c is not None))
+                if (VehicleController or CppVehicleController) is not None
+                else self.controller is not None),
+            "safety": (isinstance(
+                self.safety,
+                tuple(c for c in (SafetyMonitor, CppSafetyMonitor)
+                      if c is not None))
+                if (SafetyMonitor or CppSafetyMonitor) is not None
+                else self.safety is not None),
         }
         real = [k for k, v in self._module_names.items() if v]
         fb = [k for k, v in self._module_names.items() if not v]
