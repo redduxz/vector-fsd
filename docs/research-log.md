@@ -38068,3 +38068,4 @@
 - 2026-09-25 21:17:57 iteration 25601: mark test run
 - 2026-09-25 21:17:57 iteration 25602: log control tweak
 - 2026-09-25 21:17:58 iteration 25603: update research log
+- 2026-09-25 21:17:58 iteration 25604: note tuning delta
