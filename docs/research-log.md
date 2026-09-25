@@ -3263,3 +3263,4 @@
 - 2026-09-25 19:26:25 iteration 3261: log planning iteration
 - 2026-09-25 19:26:25 iteration 3262: jot safety review
 - 2026-09-25 19:26:25 iteration 3263: note latency sample
+- 2026-09-25 19:26:25 iteration 3264: record sim observation
