@@ -8270,3 +8270,4 @@
 - 2026-09-25 19:38:13 iteration 8268: log control tweak
 - 2026-09-25 19:38:13 iteration 8269: log control tweak
 - 2026-09-25 19:38:13 iteration 8270: jot safety review
+- 2026-09-25 19:38:13 iteration 8271: mark test run
