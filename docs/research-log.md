@@ -709,3 +709,4 @@
 - 2026-09-25 19:21:08 iteration 707: log control tweak
 - 2026-09-25 19:21:09 iteration 708: record checkpoint
 - 2026-09-25 19:21:09 iteration 709: log planning iteration
+- 2026-09-25 19:21:09 iteration 710: note latency sample
