@@ -7349,3 +7349,4 @@
 - 2026-09-25 19:36:10 iteration 7347: log perception note
 - 2026-09-25 19:36:10 iteration 7348: log perception note
 - 2026-09-25 19:36:10 iteration 7349: jot safety review
+- 2026-09-25 19:36:10 iteration 7350: note latency sample
