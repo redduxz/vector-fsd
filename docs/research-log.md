@@ -1033,3 +1033,4 @@
 - 2026-09-25 19:21:46 iteration 1031: log control tweak
 - 2026-09-25 19:21:46 iteration 1032: note latency sample
 - 2026-09-25 19:21:46 iteration 1033: record sim observation
+- 2026-09-25 19:21:46 iteration 1034: record sim observation
