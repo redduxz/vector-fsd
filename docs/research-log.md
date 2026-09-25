@@ -7194,3 +7194,4 @@
 - 2026-09-25 19:35:48 iteration 7192: jot safety review
 - 2026-09-25 19:35:48 iteration 7193: record checkpoint
 - 2026-09-25 19:35:48 iteration 7194: log perception note
+- 2026-09-25 19:35:48 iteration 7195: log control tweak
