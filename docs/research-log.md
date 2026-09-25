@@ -3224,3 +3224,4 @@
 - 2026-09-25 19:26:19 iteration 3222: log control tweak
 - 2026-09-25 19:26:19 iteration 3223: jot safety review
 - 2026-09-25 19:26:19 iteration 3224: mark test run
+- 2026-09-25 19:26:19 iteration 3225: log control tweak
