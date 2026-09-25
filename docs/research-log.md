@@ -35455,3 +35455,4 @@
 - 2026-09-25 21:08:08 iteration 22988: record sim observation
 - 2026-09-25 21:08:08 iteration 22989: note latency sample
 - 2026-09-25 21:08:08 iteration 22990: record checkpoint
+- 2026-09-25 21:08:08 iteration 22991: note tuning delta
