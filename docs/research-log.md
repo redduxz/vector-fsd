@@ -37505,3 +37505,4 @@
 - 2026-09-25 21:16:00 iteration 25038: log control tweak
 - 2026-09-25 21:16:00 iteration 25039: update research log
 - 2026-09-25 21:16:00 iteration 25040: note tuning delta
+- 2026-09-25 21:16:00 iteration 25041: log loop iteration
