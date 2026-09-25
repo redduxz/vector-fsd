@@ -5823,3 +5823,4 @@
 - 2026-09-25 19:32:31 iteration 5821: jot safety review
 - 2026-09-25 19:32:31 iteration 5822: record sim observation
 - 2026-09-25 19:32:31 iteration 5823: log control tweak
+- 2026-09-25 19:32:31 iteration 5824: log planning iteration
