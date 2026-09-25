@@ -3010,3 +3010,4 @@
 - 2026-09-25 19:25:50 iteration 3008: append session line
 - 2026-09-25 19:25:50 iteration 3009: note tuning delta
 - 2026-09-25 19:25:51 iteration 3010: log perception note
+- 2026-09-25 19:25:51 iteration 3011: log perception note
