@@ -7065,3 +7065,4 @@
 - 2026-09-25 19:35:30 iteration 7063: log planning iteration
 - 2026-09-25 19:35:30 iteration 7064: note tuning delta
 - 2026-09-25 19:35:30 iteration 7065: update research log
+- 2026-09-25 19:35:30 iteration 7066: log control tweak
