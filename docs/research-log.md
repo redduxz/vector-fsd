@@ -4006,3 +4006,4 @@
 - 2026-09-25 19:28:13 iteration 4004: jot safety review
 - 2026-09-25 19:28:13 iteration 4005: log perception note
 - 2026-09-25 19:28:13 iteration 4006: log control tweak
+- 2026-09-25 19:28:14 iteration 4007: record sim observation
