@@ -26423,3 +26423,4 @@
 - 2026-09-25 20:36:07 iteration 13956: append session line
 - 2026-09-25 20:36:07 iteration 13957: log loop iteration
 - 2026-09-25 20:36:07 iteration 13958: record checkpoint
+- 2026-09-25 20:36:07 iteration 13959: mark test run
