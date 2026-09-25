@@ -7488,3 +7488,4 @@
 - 2026-09-25 19:36:29 iteration 7486: log control tweak
 - 2026-09-25 19:36:29 iteration 7487: jot safety review
 - 2026-09-25 19:36:30 iteration 7488: mark test run
+- 2026-09-25 19:36:30 iteration 7489: note latency sample
