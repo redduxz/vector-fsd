@@ -273,3 +273,4 @@
 - 2026-09-25 19:20:18 iteration 271: update research log
 - 2026-09-25 19:20:18 iteration 272: note tuning delta
 - 2026-09-25 19:20:18 iteration 273: mark test run
+- 2026-09-25 19:20:19 iteration 274: log control tweak
