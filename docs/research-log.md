@@ -9008,3 +9008,4 @@
 - 2026-09-25 19:39:59 iteration 9006: note tuning delta
 - 2026-09-25 19:39:59 iteration 9007: update research log
 - 2026-09-25 19:40:00 iteration 9008: jot safety review
+- 2026-09-25 19:40:00 iteration 9009: log control tweak
