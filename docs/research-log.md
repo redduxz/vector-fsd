@@ -6600,3 +6600,4 @@
 - 2026-09-25 19:34:26 iteration 6598: log control tweak
 - 2026-09-25 19:34:26 iteration 6599: jot safety review
 - 2026-09-25 19:34:26 iteration 6600: record sim observation
+- 2026-09-25 19:34:26 iteration 6601: append session line
