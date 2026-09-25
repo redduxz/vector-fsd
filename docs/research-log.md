@@ -17950,3 +17950,4 @@
 - 2026-09-25 20:01:42 iteration 5483: log planning iteration
 - 2026-09-25 20:01:42 iteration 5484: log control tweak
 - 2026-09-25 20:01:42 iteration 5485: jot safety review
+- 2026-09-25 20:01:42 iteration 5486: note tuning delta
