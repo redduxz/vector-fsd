@@ -394,3 +394,4 @@
 - 2026-09-25 19:20:32 iteration 392: record checkpoint
 - 2026-09-25 19:20:32 iteration 393: append session line
 - 2026-09-25 19:20:32 iteration 394: log control tweak
+- 2026-09-25 19:20:32 iteration 395: log perception note
