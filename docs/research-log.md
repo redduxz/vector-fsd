@@ -18293,3 +18293,4 @@
 - 2026-09-25 20:02:39 iteration 5826: jot safety review
 - 2026-09-25 20:02:39 iteration 5827: record checkpoint
 - 2026-09-25 20:02:40 iteration 5828: update research log
+- 2026-09-25 20:02:40 iteration 5829: log control tweak
