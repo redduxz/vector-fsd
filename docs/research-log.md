@@ -614,3 +614,4 @@
 - 2026-09-25 19:20:58 iteration 612: update research log
 - 2026-09-25 19:20:58 iteration 613: mark test run
 - 2026-09-25 19:20:58 iteration 614: record sim observation
+- 2026-09-25 19:20:58 iteration 615: note tuning delta
