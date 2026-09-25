@@ -21000,3 +21000,4 @@
 - 2026-09-25 20:14:10 iteration 8533: log planning iteration
 - 2026-09-25 20:14:10 iteration 8534: log control tweak
 - 2026-09-25 20:14:10 iteration 8535: log perception note
+- 2026-09-25 20:14:11 iteration 8536: record checkpoint
