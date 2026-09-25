@@ -4516,3 +4516,4 @@
 - 2026-09-25 19:29:27 iteration 4514: log loop iteration
 - 2026-09-25 19:29:28 iteration 4515: mark test run
 - 2026-09-25 19:29:28 iteration 4516: jot safety review
+- 2026-09-25 19:29:28 iteration 4517: note tuning delta
