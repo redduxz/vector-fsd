@@ -21545,3 +21545,4 @@
 - 2026-09-25 20:16:17 iteration 9078: record sim observation
 - 2026-09-25 20:16:17 iteration 9079: log control tweak
 - 2026-09-25 20:16:17 iteration 9080: log loop iteration
+- 2026-09-25 20:16:17 iteration 9081: note tuning delta
