@@ -13070,3 +13070,4 @@
 - 2026-09-25 19:50:16 iteration 603: record sim observation
 - 2026-09-25 19:50:16 iteration 604: log loop iteration
 - 2026-09-25 19:50:16 iteration 605: mark test run
+- 2026-09-25 19:50:16 iteration 606: record checkpoint
