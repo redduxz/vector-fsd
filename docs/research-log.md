@@ -9084,3 +9084,4 @@
 - 2026-09-25 19:40:10 iteration 9082: jot safety review
 - 2026-09-25 19:40:10 iteration 9083: append session line
 - 2026-09-25 19:40:10 iteration 9084: record sim observation
+- 2026-09-25 19:40:11 iteration 9085: note tuning delta
