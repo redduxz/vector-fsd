@@ -14262,3 +14262,4 @@
 - 2026-09-25 19:52:57 iteration 1795: record checkpoint
 - 2026-09-25 19:52:58 iteration 1796: mark test run
 - 2026-09-25 19:52:58 iteration 1797: jot safety review
+- 2026-09-25 19:52:58 iteration 1798: log control tweak
