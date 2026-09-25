@@ -5918,3 +5918,4 @@
 - 2026-09-25 19:32:45 iteration 5916: mark test run
 - 2026-09-25 19:32:45 iteration 5917: mark test run
 - 2026-09-25 19:32:45 iteration 5918: append session line
+- 2026-09-25 19:32:45 iteration 5919: log control tweak
