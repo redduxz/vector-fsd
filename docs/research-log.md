@@ -2196,3 +2196,4 @@
 - 2026-09-25 19:24:06 iteration 2194: update research log
 - 2026-09-25 19:24:06 iteration 2195: record checkpoint
 - 2026-09-25 19:24:06 iteration 2196: append session line
+- 2026-09-25 19:24:06 iteration 2197: note tuning delta
