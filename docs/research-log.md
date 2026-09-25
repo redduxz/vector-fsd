@@ -11039,3 +11039,4 @@
 - 2026-09-25 19:44:37 iteration 11037: record checkpoint
 - 2026-09-25 19:44:38 iteration 11038: log loop iteration
 - 2026-09-25 19:44:38 iteration 11039: log control tweak
+- 2026-09-25 19:44:38 iteration 11040: note tuning delta
