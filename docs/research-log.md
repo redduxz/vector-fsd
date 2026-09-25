@@ -655,3 +655,4 @@
 - 2026-09-25 19:21:02 iteration 653: mark test run
 - 2026-09-25 19:21:02 iteration 654: append session line
 - 2026-09-25 19:21:03 iteration 655: record sim observation
+- 2026-09-25 19:21:03 iteration 656: log perception note
