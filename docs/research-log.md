@@ -10140,3 +10140,4 @@
 - 2026-09-25 19:42:34 iteration 10138: log control tweak
 - 2026-09-25 19:42:34 iteration 10139: note tuning delta
 - 2026-09-25 19:42:35 iteration 10140: append session line
+- 2026-09-25 19:42:35 iteration 10141: note latency sample
