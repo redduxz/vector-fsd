@@ -7381,3 +7381,4 @@
 - 2026-09-25 19:36:14 iteration 7379: log control tweak
 - 2026-09-25 19:36:15 iteration 7380: jot safety review
 - 2026-09-25 19:36:15 iteration 7381: append session line
+- 2026-09-25 19:36:15 iteration 7382: record sim observation
