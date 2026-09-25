@@ -3889,3 +3889,4 @@
 - 2026-09-25 19:27:57 iteration 3887: update research log
 - 2026-09-25 19:27:57 iteration 3888: jot safety review
 - 2026-09-25 19:27:58 iteration 3889: note tuning delta
+- 2026-09-25 19:27:58 iteration 3890: log control tweak
