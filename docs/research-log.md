@@ -19620,3 +19620,4 @@
 - 2026-09-25 20:07:46 iteration 7153: log planning iteration
 - 2026-09-25 20:07:47 iteration 7154: record checkpoint
 - 2026-09-25 20:07:47 iteration 7155: append session line
+- 2026-09-25 20:07:47 iteration 7156: log control tweak
