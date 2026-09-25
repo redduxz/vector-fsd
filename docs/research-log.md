@@ -9026,3 +9026,4 @@
 - 2026-09-25 19:40:02 iteration 9024: record sim observation
 - 2026-09-25 19:40:02 iteration 9025: log planning iteration
 - 2026-09-25 19:40:02 iteration 9026: mark test run
+- 2026-09-25 19:40:02 iteration 9027: note latency sample
