@@ -5188,3 +5188,4 @@
 - 2026-09-25 19:31:00 iteration 5186: log control tweak
 - 2026-09-25 19:31:00 iteration 5187: mark test run
 - 2026-09-25 19:31:00 iteration 5188: note tuning delta
+- 2026-09-25 19:31:00 iteration 5189: record sim observation
