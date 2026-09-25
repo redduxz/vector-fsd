@@ -10020,3 +10020,4 @@
 - 2026-09-25 19:42:18 iteration 10018: update research log
 - 2026-09-25 19:42:19 iteration 10019: note latency sample
 - 2026-09-25 19:42:19 iteration 10020: note latency sample
+- 2026-09-25 19:42:19 iteration 10021: log perception note
