@@ -26505,3 +26505,4 @@
 - 2026-09-25 20:37:12 iteration 14038: log planning iteration
 - 2026-09-25 20:37:12 iteration 14039: mark test run
 - 2026-09-25 20:37:13 iteration 14040: jot safety review
+- 2026-09-25 20:37:13 iteration 14041: log control tweak
