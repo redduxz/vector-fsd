@@ -7824,3 +7824,4 @@
 - 2026-09-25 19:37:15 iteration 7822: note latency sample
 - 2026-09-25 19:37:15 iteration 7823: log planning iteration
 - 2026-09-25 19:37:16 iteration 7824: append session line
+- 2026-09-25 19:37:16 iteration 7825: note tuning delta
