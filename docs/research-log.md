@@ -13241,3 +13241,4 @@
 - 2026-09-25 19:50:38 iteration 774: record checkpoint
 - 2026-09-25 19:50:38 iteration 775: log planning iteration
 - 2026-09-25 19:50:38 iteration 776: jot safety review
+- 2026-09-25 19:50:38 iteration 777: log control tweak
