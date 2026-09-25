@@ -5805,3 +5805,4 @@
 - 2026-09-25 19:32:28 iteration 5803: log loop iteration
 - 2026-09-25 19:32:28 iteration 5804: append session line
 - 2026-09-25 19:32:28 iteration 5805: record checkpoint
+- 2026-09-25 19:32:28 iteration 5806: note tuning delta
