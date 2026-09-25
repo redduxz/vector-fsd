@@ -3307,3 +3307,4 @@
 - 2026-09-25 19:26:31 iteration 3305: note tuning delta
 - 2026-09-25 19:26:31 iteration 3306: log control tweak
 - 2026-09-25 19:26:31 iteration 3307: note latency sample
+- 2026-09-25 19:26:31 iteration 3308: log perception note
