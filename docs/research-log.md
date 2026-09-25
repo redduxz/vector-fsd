@@ -4808,3 +4808,4 @@
 - 2026-09-25 19:30:08 iteration 4806: append session line
 - 2026-09-25 19:30:08 iteration 4807: mark test run
 - 2026-09-25 19:30:08 iteration 4808: record checkpoint
+- 2026-09-25 19:30:08 iteration 4809: log perception note
