@@ -28214,3 +28214,4 @@
 - 2026-09-25 20:42:26 iteration 15747: log control tweak
 - 2026-09-25 20:42:26 iteration 15748: log loop iteration
 - 2026-09-25 20:42:26 iteration 15749: note latency sample
+- 2026-09-25 20:42:26 iteration 15750: note tuning delta
