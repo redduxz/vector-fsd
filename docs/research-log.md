@@ -12010,3 +12010,4 @@
 - 2026-09-25 19:46:53 iteration 12008: jot safety review
 - 2026-09-25 19:46:53 iteration 12009: jot safety review
 - 2026-09-25 19:46:53 iteration 12010: record checkpoint
+- 2026-09-25 19:46:53 iteration 12011: note latency sample
