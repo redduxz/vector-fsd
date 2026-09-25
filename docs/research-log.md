@@ -3808,3 +3808,4 @@
 - 2026-09-25 19:27:47 iteration 3806: log perception note
 - 2026-09-25 19:27:47 iteration 3807: log perception note
 - 2026-09-25 19:27:47 iteration 3808: append session line
+- 2026-09-25 19:27:47 iteration 3809: note tuning delta
