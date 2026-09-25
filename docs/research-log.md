@@ -12135,3 +12135,4 @@
 - 2026-09-25 19:47:09 iteration 12133: append session line
 - 2026-09-25 19:47:09 iteration 12134: record sim observation
 - 2026-09-25 19:47:09 iteration 12135: note tuning delta
+- 2026-09-25 19:47:09 iteration 12136: log loop iteration
