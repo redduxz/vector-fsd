@@ -5072,3 +5072,4 @@
 - 2026-09-25 19:30:44 iteration 5070: log loop iteration
 - 2026-09-25 19:30:44 iteration 5071: record checkpoint
 - 2026-09-25 19:30:44 iteration 5072: log perception note
+- 2026-09-25 19:30:44 iteration 5073: log control tweak
