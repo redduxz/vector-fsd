@@ -411,3 +411,4 @@
 - 2026-09-25 19:20:34 iteration 409: mark test run
 - 2026-09-25 19:20:34 iteration 410: log loop iteration
 - 2026-09-25 19:20:34 iteration 411: log control tweak
+- 2026-09-25 19:20:34 iteration 412: note tuning delta
