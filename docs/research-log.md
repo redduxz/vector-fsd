@@ -22035,3 +22035,4 @@
 - 2026-09-25 20:18:31 iteration 9568: append session line
 - 2026-09-25 20:18:31 iteration 9569: jot safety review
 - 2026-09-25 20:18:31 iteration 9570: log loop iteration
+- 2026-09-25 20:18:31 iteration 9571: log control tweak
