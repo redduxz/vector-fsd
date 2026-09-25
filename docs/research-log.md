@@ -30392,3 +30392,4 @@
 - 2026-09-25 20:49:39 iteration 17925: log control tweak
 - 2026-09-25 20:49:39 iteration 17926: note tuning delta
 - 2026-09-25 20:49:39 iteration 17927: append session line
+- 2026-09-25 20:49:39 iteration 17928: record sim observation
