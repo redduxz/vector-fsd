@@ -20770,3 +20770,4 @@
 - 2026-09-25 20:13:16 iteration 8303: log control tweak
 - 2026-09-25 20:13:16 iteration 8304: log control tweak
 - 2026-09-25 20:13:16 iteration 8305: mark test run
+- 2026-09-25 20:13:17 iteration 8306: log perception note
