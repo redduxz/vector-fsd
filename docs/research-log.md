@@ -2933,3 +2933,4 @@
 - 2026-09-25 19:25:41 iteration 2931: log planning iteration
 - 2026-09-25 19:25:41 iteration 2932: record sim observation
 - 2026-09-25 19:25:41 iteration 2933: note tuning delta
+- 2026-09-25 19:25:41 iteration 2934: jot safety review
