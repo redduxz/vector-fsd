@@ -8746,3 +8746,4 @@
 - 2026-09-25 19:39:23 iteration 8744: record sim observation
 - 2026-09-25 19:39:24 iteration 8745: log perception note
 - 2026-09-25 19:39:24 iteration 8746: append session line
+- 2026-09-25 19:39:24 iteration 8747: log control tweak
