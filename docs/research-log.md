@@ -5148,3 +5148,4 @@
 - 2026-09-25 19:30:54 iteration 5146: log control tweak
 - 2026-09-25 19:30:55 iteration 5147: log loop iteration
 - 2026-09-25 19:30:55 iteration 5148: note latency sample
+- 2026-09-25 19:30:55 iteration 5149: record sim observation
