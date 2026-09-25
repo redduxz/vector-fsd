@@ -3815,3 +3815,4 @@
 - 2026-09-25 19:27:48 iteration 3813: log perception note
 - 2026-09-25 19:27:48 iteration 3814: log planning iteration
 - 2026-09-25 19:27:48 iteration 3815: log perception note
+- 2026-09-25 19:27:48 iteration 3816: note latency sample
