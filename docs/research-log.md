@@ -489,3 +489,4 @@
 - 2026-09-25 19:20:43 iteration 487: log loop iteration
 - 2026-09-25 19:20:43 iteration 488: note tuning delta
 - 2026-09-25 19:20:43 iteration 489: mark test run
+- 2026-09-25 19:20:43 iteration 490: log control tweak
