@@ -9983,3 +9983,4 @@
 - 2026-09-25 19:42:14 iteration 9981: update research log
 - 2026-09-25 19:42:14 iteration 9982: log loop iteration
 - 2026-09-25 19:42:14 iteration 9983: record sim observation
+- 2026-09-25 19:42:14 iteration 9984: note tuning delta
