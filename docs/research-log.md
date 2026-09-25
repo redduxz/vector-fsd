@@ -4952,3 +4952,4 @@
 - 2026-09-25 19:30:28 iteration 4950: append session line
 - 2026-09-25 19:30:28 iteration 4951: mark test run
 - 2026-09-25 19:30:28 iteration 4952: log loop iteration
+- 2026-09-25 19:30:28 iteration 4953: log control tweak
