@@ -5325,3 +5325,4 @@
 - 2026-09-25 19:31:19 iteration 5323: record checkpoint
 - 2026-09-25 19:31:19 iteration 5324: update research log
 - 2026-09-25 19:31:19 iteration 5325: log control tweak
+- 2026-09-25 19:31:19 iteration 5326: note tuning delta
