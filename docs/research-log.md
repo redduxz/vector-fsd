@@ -9927,3 +9927,4 @@
 - 2026-09-25 19:42:06 iteration 9925: append session line
 - 2026-09-25 19:42:07 iteration 9926: update research log
 - 2026-09-25 19:42:07 iteration 9927: note latency sample
+- 2026-09-25 19:42:07 iteration 9928: record sim observation
