@@ -5809,3 +5809,4 @@
 - 2026-09-25 19:32:29 iteration 5807: append session line
 - 2026-09-25 19:32:29 iteration 5808: note tuning delta
 - 2026-09-25 19:32:29 iteration 5809: append session line
+- 2026-09-25 19:32:29 iteration 5810: note latency sample
