@@ -479,3 +479,4 @@
 - 2026-09-25 19:20:42 iteration 477: note tuning delta
 - 2026-09-25 19:20:42 iteration 478: mark test run
 - 2026-09-25 19:20:42 iteration 479: log control tweak
+- 2026-09-25 19:20:42 iteration 480: jot safety review
