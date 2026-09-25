@@ -7492,3 +7492,4 @@
 - 2026-09-25 19:36:30 iteration 7490: record checkpoint
 - 2026-09-25 19:36:30 iteration 7491: note tuning delta
 - 2026-09-25 19:36:30 iteration 7492: log control tweak
+- 2026-09-25 19:36:30 iteration 7493: log perception note
