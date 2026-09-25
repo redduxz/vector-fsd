@@ -12086,3 +12086,4 @@
 - 2026-09-25 19:47:02 iteration 12084: mark test run
 - 2026-09-25 19:47:03 iteration 12085: note tuning delta
 - 2026-09-25 19:47:03 iteration 12086: note latency sample
+- 2026-09-25 19:47:03 iteration 12087: log perception note
