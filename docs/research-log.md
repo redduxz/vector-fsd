@@ -922,3 +922,4 @@
 - 2026-09-25 19:21:33 iteration 920: jot safety review
 - 2026-09-25 19:21:33 iteration 921: log perception note
 - 2026-09-25 19:21:33 iteration 922: log perception note
+- 2026-09-25 19:21:33 iteration 923: note tuning delta
