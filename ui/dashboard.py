@@ -26,7 +26,7 @@ from fsd.core.types import DriveMode
 app = Flask(__name__)
 
 # Shared state written by the driving thread, read by HTTP handlers.
-STATE = {"running": False, "agent": None, "latest": {}}
+STATE = {"running": False, "agent": None, "latest": {}, "error": None}
 LOCK = threading.Lock()
 
 
@@ -273,7 +273,10 @@ def stream_sem():
 
 @app.get("/state")
 def state():
-    return jsonify(STATE["latest"])
+    out = dict(STATE["latest"])
+    if STATE.get("error"):
+        out["error"] = STATE["error"]
+    return jsonify(out)
 
 
 @app.get("/")
@@ -309,6 +312,9 @@ PAGE = """<!doctype html>
   .bar { height:8px; background:#1e2530; border-radius:4px; margin-top:6px; }
   .bar > div { height:8px; border-radius:4px; }
 </style></head><body>
+<div id="errbar" style="display:none;background:#3d1214;border:1px solid #f85149;
+     border-radius:8px;color:#ffd8d3;padding:10px 16px;margin:0 auto 14px;
+     max-width:1500px;font-size:12px;white-space:pre-wrap;"></div>
 <div class="grid">
   <div>
     <div class="stats">
@@ -337,6 +343,10 @@ PAGE = """<!doctype html>
 setInterval(async () => {
   try {
     const s = await (await fetch('/state')).json();
+    const eb = document.getElementById('errbar');
+    if (s.error) { eb.style.display='block';
+                 eb.textContent='AGENT FAULT — '+s.error; }
+    else eb.style.display='none';
     document.getElementById('mode').textContent = s.mode || '—';
     document.getElementById('mode').className = 'v ' + (s.mode || '');
     document.getElementById('spd').textContent = (s.speed_kph||0).toFixed(0);
@@ -371,14 +381,29 @@ setInterval(async () => {
 # --------------------------------------------------------------------------- #
 
 def drive(cfg_path: str, smoke: bool):
+    import traceback
     from fsd.agents.autopilot import AutopilotAgent
-    agent = AutopilotAgent(Config.load(cfg_path), smoke=smoke)
-    STATE["agent"] = agent
-    agent.setup()
+    try:
+        agent = AutopilotAgent(Config.load(cfg_path), smoke=smoke)
+        STATE["agent"] = agent
+        agent.setup()
+    except Exception:
+        STATE["error"] = traceback.format_exc(limit=3)
+        log.error("agent setup failed:\n%s", STATE["error"])
+        return
+    tick_errors = 0
     while STATE["running"]:
         try:
             r = agent.tick()
-        except Exception:
+            tick_errors = 0
+        except Exception as exc:
+            tick_errors += 1
+            if tick_errors in (1, 10, 100):
+                log.warning("tick error x%d: %s", tick_errors, exc)
+            if tick_errors > 50:
+                STATE["error"] = f"agent loop died: {exc}"
+                return
+            time.sleep(0.1)
             continue
         ego = r.get("ego")
         cmd = r.get("cmd")
