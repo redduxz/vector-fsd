@@ -3070,3 +3070,4 @@
 - 2026-09-25 19:25:57 iteration 3068: record sim observation
 - 2026-09-25 19:25:57 iteration 3069: record checkpoint
 - 2026-09-25 19:25:58 iteration 3070: jot safety review
+- 2026-09-25 19:25:58 iteration 3071: log control tweak
