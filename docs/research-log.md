@@ -8046,3 +8046,4 @@
 - 2026-09-25 19:37:44 iteration 8044: append session line
 - 2026-09-25 19:37:44 iteration 8045: log perception note
 - 2026-09-25 19:37:45 iteration 8046: log control tweak
+- 2026-09-25 19:37:45 iteration 8047: log planning iteration
