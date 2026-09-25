@@ -524,6 +524,7 @@ class AutopilotAgent:
         self._last_perception: Optional[PerceptionOutput] = None
         self._last_stop_m = math.inf
         self._last_junction_m = math.inf
+        self._speed_limit_mps = math.inf
         self._fail_counts: Dict[str, int] = {}
         self._stuck_ticks = 0
         self._recover_ticks = 0
@@ -688,6 +689,27 @@ class AutopilotAgent:
         except Exception:
             pass
         return math.inf
+
+    def _poll_speed_limit(self) -> float:
+        """Posted speed limit for the current road section, m/s.
+
+        ``actor.get_speed_limit()`` is a server round-trip — cache it for
+        10 ticks (0.5 s, ~7 m of travel) instead of polling every tick.
+        """
+        if self.vehicle is None:
+            return math.inf
+        if (self._tick_idx % 10 == 0
+                or not math.isfinite(self._speed_limit_mps)):
+            try:
+                actor = getattr(self.vehicle, "actor", None)
+                if actor is not None:
+                    kph = float(actor.get_speed_limit())
+                    self._speed_limit_mps = (kph / 3.6
+                                             if 0.5 < kph < 300.0
+                                             else math.inf)
+            except Exception:
+                pass
+        return self._speed_limit_mps
 
     def _detect_objects(self, ego, sensors):
         if self.object_detector is None:
@@ -902,6 +924,7 @@ class AutopilotAgent:
             try:
                 perception.stop_line_m = self._last_stop_m
                 perception.junction_dist = self._last_junction_m
+                perception.speed_limit_mps = self._poll_speed_limit()
             except AttributeError:
                 pass
             try:

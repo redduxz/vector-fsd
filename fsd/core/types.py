@@ -126,4 +126,5 @@ class PerceptionOutput:
     free_space_ahead: float = 100.0   # m of clear path ahead
     stop_line_m: float = math.inf     # m to the constraining TL stop line
     junction_dist: float = math.inf   # m to next junction entry (0 = inside)
+    speed_limit_mps: float = math.inf  # posted limit from the road section
     timestamp: float = field(default_factory=time.time)

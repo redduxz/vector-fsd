@@ -169,6 +169,11 @@ class BehaviorPlanner:
             caps.append(cruise * (self.junction_factor
                                   + (1.0 - self.junction_factor) * t))
 
+        # posted speed limit from the road section (CARLA ground truth)
+        v_lim = getattr(perception, "speed_limit_mps", math.inf)
+        if math.isfinite(v_lim):
+            caps.append(v_lim)
+
         in_lane_change = self.state in (self.LANE_CHANGE_LEFT,
                                         self.LANE_CHANGE_RIGHT)
         follow_active = False

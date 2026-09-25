@@ -104,6 +104,12 @@ class TestBehaviorPlanner(unittest.TestCase):
         self.assertAlmostEqual(
             speed, self.planner.cruise_speed, places=3)
 
+    def test_posted_speed_limit_caps_cruise(self):
+        p = _perception()
+        p.speed_limit_mps = 8.3          # ~30 km/h zone
+        _, speed = self.planner.decide(p, _state())
+        self.assertAlmostEqual(speed, 8.3, places=3)
+
     def test_junction_dist_walks_waypoints(self):
         from fsd.agents.autopilot import AutopilotAgent
 
