@@ -745,7 +745,13 @@ class AutopilotAgent:
             return _fallback_route(ego)
         goal = Waypoint(x=ego.x + 200.0 * math.cos(ego.yaw),
                         y=ego.y + 200.0 * math.sin(ego.yaw))
-        carla_map = getattr(getattr(self, "world", None), "map", None)
+        carla_map = None
+        if self.world is not None:
+            try:
+                m = self.world.map
+                carla_map = m() if callable(m) else m
+            except Exception:
+                carla_map = None
         fn = _first_method(self.route_planner, _ROUTE_M)
         return _call_flex(fn, ego, goal,
                           start=ego, goal=goal, carla_map=carla_map,
