@@ -35125,3 +35125,4 @@
 - 2026-09-25 21:06:54 iteration 22658: mark test run
 - 2026-09-25 21:06:54 iteration 22659: log perception note
 - 2026-09-25 21:06:54 iteration 22660: jot safety review
+- 2026-09-25 21:06:54 iteration 22661: note latency sample
