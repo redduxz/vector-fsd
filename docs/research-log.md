@@ -16375,3 +16375,4 @@
 - 2026-09-25 19:57:52 iteration 3908: log loop iteration
 - 2026-09-25 19:57:52 iteration 3909: record checkpoint
 - 2026-09-25 19:57:52 iteration 3910: log perception note
+- 2026-09-25 19:57:52 iteration 3911: note latency sample
