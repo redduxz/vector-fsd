@@ -9880,3 +9880,4 @@
 - 2026-09-25 19:42:00 iteration 9878: record checkpoint
 - 2026-09-25 19:42:00 iteration 9879: note latency sample
 - 2026-09-25 19:42:00 iteration 9880: log loop iteration
+- 2026-09-25 19:42:01 iteration 9881: mark test run
