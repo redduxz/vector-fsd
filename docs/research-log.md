@@ -14321,3 +14321,4 @@
 - 2026-09-25 19:53:06 iteration 1854: update research log
 - 2026-09-25 19:53:06 iteration 1855: jot safety review
 - 2026-09-25 19:53:06 iteration 1856: note latency sample
+- 2026-09-25 19:53:06 iteration 1857: log control tweak
