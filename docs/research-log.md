@@ -16472,3 +16472,4 @@
 - 2026-09-25 19:58:06 iteration 4005: log perception note
 - 2026-09-25 19:58:06 iteration 4006: log control tweak
 - 2026-09-25 19:58:06 iteration 4007: record sim observation
+- 2026-09-25 19:58:06 iteration 4008: note tuning delta
