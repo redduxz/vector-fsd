@@ -10311,3 +10311,4 @@
 - 2026-09-25 19:42:56 iteration 10309: log control tweak
 - 2026-09-25 19:42:57 iteration 10310: note tuning delta
 - 2026-09-25 19:42:57 iteration 10311: log loop iteration
+- 2026-09-25 19:42:57 iteration 10312: jot safety review
