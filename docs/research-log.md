@@ -14278,3 +14278,4 @@
 - 2026-09-25 19:53:00 iteration 1811: append session line
 - 2026-09-25 19:53:00 iteration 1812: mark test run
 - 2026-09-25 19:53:00 iteration 1813: mark test run
+- 2026-09-25 19:53:00 iteration 1814: log perception note
