@@ -7819,3 +7819,4 @@
 - 2026-09-25 19:37:15 iteration 7817: mark test run
 - 2026-09-25 19:37:15 iteration 7818: log perception note
 - 2026-09-25 19:37:15 iteration 7819: update research log
+- 2026-09-25 19:37:15 iteration 7820: log control tweak
