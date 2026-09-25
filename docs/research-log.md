@@ -9491,3 +9491,4 @@
 - 2026-09-25 19:41:02 iteration 9489: record checkpoint
 - 2026-09-25 19:41:02 iteration 9490: log control tweak
 - 2026-09-25 19:41:02 iteration 9491: jot safety review
+- 2026-09-25 19:41:03 iteration 9492: update research log
