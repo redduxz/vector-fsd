@@ -9960,3 +9960,4 @@
 - 2026-09-25 19:42:11 iteration 9958: record sim observation
 - 2026-09-25 19:42:11 iteration 9959: note latency sample
 - 2026-09-25 19:42:11 iteration 9960: log control tweak
+- 2026-09-25 19:42:11 iteration 9961: log planning iteration
