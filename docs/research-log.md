@@ -24945,3 +24945,4 @@
 - 2026-09-25 20:30:53 iteration 12478: log perception note
 - 2026-09-25 20:30:53 iteration 12479: record checkpoint
 - 2026-09-25 20:30:53 iteration 12480: log planning iteration
+- 2026-09-25 20:30:53 iteration 12481: log control tweak
