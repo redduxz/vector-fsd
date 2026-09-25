@@ -2825,3 +2825,4 @@
 - 2026-09-25 19:25:27 iteration 2823: log perception note
 - 2026-09-25 19:25:28 iteration 2824: jot safety review
 - 2026-09-25 19:25:28 iteration 2825: jot safety review
+- 2026-09-25 19:25:28 iteration 2826: log control tweak
