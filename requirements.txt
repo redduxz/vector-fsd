@@ -1,0 +1,14 @@
+# Core dependencies — required to run the fsd stack.
+numpy>=1.24
+pyyaml>=6.0
+
+# ---------------------------------------------------------------------------
+# Optional — uncomment what you need. These are imported lazily, so the core
+# stack, tests, and CI work without them.
+#
+# carla==0.9.15        # CARLA PythonAPI. Platform-specific wheel; on Windows
+#                      # prefer <CARLA_ROOT>/PythonAPI/carla/dist/*.whl shipped
+#                      # with the release over PyPI.
+# torch>=2.0           # learned models (fsd/ml/models, fsd/ml/train)
+# onnxruntime>=1.16    # ONNX inference backend (fsd/ml/infer)
+# flask>=3.0           # optional debug web dashboard
