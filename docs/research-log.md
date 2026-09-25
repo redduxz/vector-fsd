@@ -17761,3 +17761,4 @@
 - 2026-09-25 20:01:16 iteration 5294: log loop iteration
 - 2026-09-25 20:01:16 iteration 5295: append session line
 - 2026-09-25 20:01:16 iteration 5296: record checkpoint
+- 2026-09-25 20:01:16 iteration 5297: record sim observation
