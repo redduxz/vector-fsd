@@ -5686,3 +5686,4 @@
 - 2026-09-25 19:32:10 iteration 5684: record sim observation
 - 2026-09-25 19:32:10 iteration 5685: append session line
 - 2026-09-25 19:32:10 iteration 5686: update research log
+- 2026-09-25 19:32:11 iteration 5687: note tuning delta
