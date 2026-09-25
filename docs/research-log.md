@@ -7172,3 +7172,4 @@
 - 2026-09-25 19:35:45 iteration 7170: append session line
 - 2026-09-25 19:35:45 iteration 7171: log loop iteration
 - 2026-09-25 19:35:45 iteration 7172: record checkpoint
+- 2026-09-25 19:35:45 iteration 7173: note latency sample
