@@ -12248,3 +12248,4 @@
 - 2026-09-25 19:47:23 iteration 12246: append session line
 - 2026-09-25 19:47:23 iteration 12247: append session line
 - 2026-09-25 19:47:23 iteration 12248: append session line
+- 2026-09-25 19:47:23 iteration 12249: note latency sample
