@@ -6992,3 +6992,4 @@
 - 2026-09-25 19:35:20 iteration 6990: jot safety review
 - 2026-09-25 19:35:20 iteration 6991: log control tweak
 - 2026-09-25 19:35:20 iteration 6992: update research log
+- 2026-09-25 19:35:20 iteration 6993: note latency sample
