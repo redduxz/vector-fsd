@@ -6020,3 +6020,4 @@
 - 2026-09-25 19:32:58 iteration 6018: append session line
 - 2026-09-25 19:32:59 iteration 6019: mark test run
 - 2026-09-25 19:32:59 iteration 6020: record checkpoint
+- 2026-09-25 19:32:59 iteration 6021: log control tweak
