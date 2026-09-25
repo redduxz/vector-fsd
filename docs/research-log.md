@@ -30415,3 +30415,4 @@
 - 2026-09-25 20:49:43 iteration 17948: record sim observation
 - 2026-09-25 20:49:43 iteration 17949: record checkpoint
 - 2026-09-25 20:49:43 iteration 17950: record checkpoint
+- 2026-09-25 20:49:44 iteration 17951: note latency sample
