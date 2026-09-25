@@ -4187,3 +4187,4 @@
 - 2026-09-25 19:28:41 iteration 4185: log perception note
 - 2026-09-25 19:28:42 iteration 4186: update research log
 - 2026-09-25 19:28:42 iteration 4187: log perception note
+- 2026-09-25 19:28:42 iteration 4188: log control tweak
