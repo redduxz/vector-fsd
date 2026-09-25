@@ -35850,3 +35850,4 @@
 - 2026-09-25 21:09:24 iteration 23383: note tuning delta
 - 2026-09-25 21:09:24 iteration 23384: update research log
 - 2026-09-25 21:09:24 iteration 23385: note latency sample
+- 2026-09-25 21:09:24 iteration 23386: jot safety review
