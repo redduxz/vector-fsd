@@ -1704,3 +1704,4 @@
 - 2026-09-25 19:23:03 iteration 1702: record checkpoint
 - 2026-09-25 19:23:03 iteration 1703: note latency sample
 - 2026-09-25 19:23:04 iteration 1704: log control tweak
+- 2026-09-25 19:23:04 iteration 1705: update research log
