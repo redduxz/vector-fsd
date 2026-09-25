@@ -36614,3 +36614,4 @@
 - 2026-09-25 21:12:15 iteration 24147: append session line
 - 2026-09-25 21:12:15 iteration 24148: record checkpoint
 - 2026-09-25 21:12:15 iteration 24149: jot safety review
+- 2026-09-25 21:12:15 iteration 24150: note tuning delta
