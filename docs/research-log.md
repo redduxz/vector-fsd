@@ -9525,3 +9525,4 @@
 - 2026-09-25 19:41:06 iteration 9523: append session line
 - 2026-09-25 19:41:06 iteration 9524: note latency sample
 - 2026-09-25 19:41:07 iteration 9525: log control tweak
+- 2026-09-25 19:41:07 iteration 9526: update research log
