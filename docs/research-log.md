@@ -14405,3 +14405,4 @@
 - 2026-09-25 19:53:17 iteration 1938: record sim observation
 - 2026-09-25 19:53:17 iteration 1939: log control tweak
 - 2026-09-25 19:53:18 iteration 1940: log control tweak
+- 2026-09-25 19:53:18 iteration 1941: log perception note
