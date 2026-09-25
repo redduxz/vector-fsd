@@ -400,3 +400,4 @@
 - 2026-09-25 19:20:33 iteration 398: log perception note
 - 2026-09-25 19:20:33 iteration 399: append session line
 - 2026-09-25 19:20:33 iteration 400: record checkpoint
+- 2026-09-25 19:20:33 iteration 401: jot safety review
