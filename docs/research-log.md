@@ -827,3 +827,4 @@
 - 2026-09-25 19:21:22 iteration 825: jot safety review
 - 2026-09-25 19:21:22 iteration 826: jot safety review
 - 2026-09-25 19:21:22 iteration 827: log control tweak
+- 2026-09-25 19:21:22 iteration 828: mark test run
