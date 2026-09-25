@@ -16681,3 +16681,4 @@
 - 2026-09-25 19:58:35 iteration 4214: log loop iteration
 - 2026-09-25 19:58:35 iteration 4215: append session line
 - 2026-09-25 19:58:35 iteration 4216: log planning iteration
+- 2026-09-25 19:58:35 iteration 4217: record sim observation
