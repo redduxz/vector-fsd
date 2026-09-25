@@ -8416,3 +8416,4 @@
 - 2026-09-25 19:38:37 iteration 8414: mark test run
 - 2026-09-25 19:38:37 iteration 8415: note tuning delta
 - 2026-09-25 19:38:37 iteration 8416: note tuning delta
+- 2026-09-25 19:38:37 iteration 8417: log control tweak
