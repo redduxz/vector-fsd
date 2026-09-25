@@ -17672,3 +17672,4 @@
 - 2026-09-25 20:01:03 iteration 5205: note latency sample
 - 2026-09-25 20:01:03 iteration 5206: note latency sample
 - 2026-09-25 20:01:04 iteration 5207: log planning iteration
+- 2026-09-25 20:01:04 iteration 5208: log perception note
