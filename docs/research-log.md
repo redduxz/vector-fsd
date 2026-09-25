@@ -7002,3 +7002,4 @@
 - 2026-09-25 19:35:21 iteration 7000: append session line
 - 2026-09-25 19:35:21 iteration 7001: jot safety review
 - 2026-09-25 19:35:21 iteration 7002: note latency sample
+- 2026-09-25 19:35:22 iteration 7003: log control tweak
