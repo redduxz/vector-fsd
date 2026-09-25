@@ -12300,3 +12300,4 @@
 - 2026-09-25 19:47:30 iteration 12298: record checkpoint
 - 2026-09-25 19:47:30 iteration 12299: note tuning delta
 - 2026-09-25 19:47:30 iteration 12300: append session line
+- 2026-09-25 19:47:30 iteration 12301: note latency sample
