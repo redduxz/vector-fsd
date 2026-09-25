@@ -38840,3 +38840,4 @@
 - 2026-09-25 21:20:31 iteration 26373: log planning iteration
 - 2026-09-25 21:20:31 iteration 26374: record sim observation
 - 2026-09-25 21:20:31 iteration 26375: note latency sample
+- 2026-09-25 21:20:31 iteration 26376: log control tweak
