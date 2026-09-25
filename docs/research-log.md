@@ -2800,3 +2800,4 @@
 - 2026-09-25 19:25:24 iteration 2798: update research log
 - 2026-09-25 19:25:24 iteration 2799: note tuning delta
 - 2026-09-25 19:25:24 iteration 2800: note latency sample
+- 2026-09-25 19:25:25 iteration 2801: record sim observation
