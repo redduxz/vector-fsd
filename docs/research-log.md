@@ -24632,3 +24632,4 @@
 - 2026-09-25 20:29:22 iteration 12165: log control tweak
 - 2026-09-25 20:29:22 iteration 12166: record sim observation
 - 2026-09-25 20:29:22 iteration 12167: record checkpoint
+- 2026-09-25 20:29:22 iteration 12168: mark test run
