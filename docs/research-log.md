@@ -13888,3 +13888,4 @@
 - 2026-09-25 19:52:07 iteration 1421: mark test run
 - 2026-09-25 19:52:07 iteration 1422: update research log
 - 2026-09-25 19:52:07 iteration 1423: note tuning delta
+- 2026-09-25 19:52:07 iteration 1424: log control tweak
