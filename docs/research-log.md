@@ -16634,3 +16634,4 @@
 - 2026-09-25 19:58:28 iteration 4167: log loop iteration
 - 2026-09-25 19:58:29 iteration 4168: mark test run
 - 2026-09-25 19:58:29 iteration 4169: jot safety review
+- 2026-09-25 19:58:29 iteration 4170: note tuning delta
