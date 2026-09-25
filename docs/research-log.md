@@ -27590,3 +27590,4 @@
 - 2026-09-25 20:40:30 iteration 15123: note latency sample
 - 2026-09-25 20:40:30 iteration 15124: update research log
 - 2026-09-25 20:40:30 iteration 15125: note tuning delta
+- 2026-09-25 20:40:30 iteration 15126: log control tweak
