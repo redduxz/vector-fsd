@@ -11123,3 +11123,4 @@
 - 2026-09-25 19:44:49 iteration 11121: mark test run
 - 2026-09-25 19:44:54 iteration 11122: record sim observation
 - 2026-09-25 19:44:54 iteration 11123: update research log
+- 2026-09-25 19:44:54 iteration 11124: log control tweak
