@@ -10403,3 +10403,4 @@
 - 2026-09-25 19:43:09 iteration 10401: log planning iteration
 - 2026-09-25 19:43:09 iteration 10402: record sim observation
 - 2026-09-25 19:43:09 iteration 10403: record sim observation
+- 2026-09-25 19:43:09 iteration 10404: note latency sample
