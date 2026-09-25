@@ -4700,3 +4700,4 @@
 - 2026-09-25 19:29:53 iteration 4698: record checkpoint
 - 2026-09-25 19:29:53 iteration 4699: log planning iteration
 - 2026-09-25 19:29:53 iteration 4700: jot safety review
+- 2026-09-25 19:29:53 iteration 4701: log control tweak
