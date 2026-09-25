@@ -2080,3 +2080,4 @@
 - 2026-09-25 19:23:51 iteration 2078: update research log
 - 2026-09-25 19:23:52 iteration 2079: append session line
 - 2026-09-25 19:23:52 iteration 2080: update research log
+- 2026-09-25 19:23:52 iteration 2081: note tuning delta
