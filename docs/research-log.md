@@ -37805,3 +37805,4 @@
 - 2026-09-25 21:17:05 iteration 25338: log planning iteration
 - 2026-09-25 21:17:05 iteration 25339: log perception note
 - 2026-09-25 21:17:05 iteration 25340: note latency sample
+- 2026-09-25 21:17:05 iteration 25341: note tuning delta
