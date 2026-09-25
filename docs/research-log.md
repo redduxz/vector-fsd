@@ -13270,3 +13270,4 @@
 - 2026-09-25 19:50:42 iteration 803: mark test run
 - 2026-09-25 19:50:42 iteration 804: jot safety review
 - 2026-09-25 19:50:42 iteration 805: log control tweak
+- 2026-09-25 19:50:42 iteration 806: note latency sample
