@@ -733,3 +733,4 @@
 - 2026-09-25 19:21:11 iteration 731: record sim observation
 - 2026-09-25 19:21:11 iteration 732: log loop iteration
 - 2026-09-25 19:21:12 iteration 733: record sim observation
+- 2026-09-25 19:21:12 iteration 734: note tuning delta
