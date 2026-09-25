@@ -22550,3 +22550,4 @@
 - 2026-09-25 20:20:37 iteration 10083: update research log
 - 2026-09-25 20:20:37 iteration 10084: mark test run
 - 2026-09-25 20:20:37 iteration 10085: note tuning delta
+- 2026-09-25 20:20:37 iteration 10086: record sim observation
