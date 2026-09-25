@@ -30561,3 +30561,4 @@
 - 2026-09-25 20:50:12 iteration 18094: record sim observation
 - 2026-09-25 20:50:12 iteration 18095: log control tweak
 - 2026-09-25 20:50:12 iteration 18096: mark test run
+- 2026-09-25 20:50:12 iteration 18097: log planning iteration
