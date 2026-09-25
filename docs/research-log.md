@@ -8293,3 +8293,4 @@
 - 2026-09-25 19:38:16 iteration 8291: log planning iteration
 - 2026-09-25 19:38:16 iteration 8292: append session line
 - 2026-09-25 19:38:16 iteration 8293: record sim observation
+- 2026-09-25 19:38:16 iteration 8294: note latency sample
