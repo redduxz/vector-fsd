@@ -3006,3 +3006,4 @@
 - 2026-09-25 19:25:50 iteration 3004: jot safety review
 - 2026-09-25 19:25:50 iteration 3005: update research log
 - 2026-09-25 19:25:50 iteration 3006: record checkpoint
+- 2026-09-25 19:25:50 iteration 3007: note latency sample
