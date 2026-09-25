@@ -26457,3 +26457,4 @@
 - 2026-09-25 20:36:12 iteration 13990: record checkpoint
 - 2026-09-25 20:36:12 iteration 13991: log control tweak
 - 2026-09-25 20:36:12 iteration 13992: mark test run
+- 2026-09-25 20:36:12 iteration 13993: note tuning delta
