@@ -13060,3 +13060,4 @@
 - 2026-09-25 19:50:14 iteration 593: note tuning delta
 - 2026-09-25 19:50:14 iteration 594: log loop iteration
 - 2026-09-25 19:50:14 iteration 595: note tuning delta
+- 2026-09-25 19:50:14 iteration 596: log control tweak
