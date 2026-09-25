@@ -6410,3 +6410,4 @@
 - 2026-09-25 19:33:52 iteration 6408: log loop iteration
 - 2026-09-25 19:33:52 iteration 6409: update research log
 - 2026-09-25 19:33:53 iteration 6410: jot safety review
+- 2026-09-25 19:33:53 iteration 6411: log control tweak
