@@ -13194,3 +13194,4 @@
 - 2026-09-25 19:50:32 iteration 727: record checkpoint
 - 2026-09-25 19:50:32 iteration 728: log control tweak
 - 2026-09-25 19:50:32 iteration 729: log perception note
+- 2026-09-25 19:50:32 iteration 730: jot safety review
