@@ -20700,3 +20700,4 @@
 - 2026-09-25 20:13:01 iteration 8233: jot safety review
 - 2026-09-25 20:13:01 iteration 8234: jot safety review
 - 2026-09-25 20:13:01 iteration 8235: note latency sample
+- 2026-09-25 20:13:01 iteration 8236: log perception note
