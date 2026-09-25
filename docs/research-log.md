@@ -30728,3 +30728,4 @@
 - 2026-09-25 20:50:44 iteration 18261: log control tweak
 - 2026-09-25 20:50:44 iteration 18262: record sim observation
 - 2026-09-25 20:50:44 iteration 18263: jot safety review
+- 2026-09-25 20:50:44 iteration 18264: note tuning delta
