@@ -39470,3 +39470,4 @@
 - 2026-09-25 21:22:30 iteration 27003: log perception note
 - 2026-09-25 21:22:31 iteration 27004: log perception note
 - 2026-09-25 21:22:31 iteration 27005: mark test run
+- 2026-09-25 21:22:31 iteration 27006: log control tweak
