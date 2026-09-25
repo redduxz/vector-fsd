@@ -11885,3 +11885,4 @@
 - 2026-09-25 19:46:37 iteration 11883: note tuning delta
 - 2026-09-25 19:46:37 iteration 11884: record sim observation
 - 2026-09-25 19:46:37 iteration 11885: mark test run
+- 2026-09-25 19:46:37 iteration 11886: log control tweak
