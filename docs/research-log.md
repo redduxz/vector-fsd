@@ -3505,3 +3505,4 @@
 - 2026-09-25 19:26:58 iteration 3503: note tuning delta
 - 2026-09-25 19:26:59 iteration 3504: update research log
 - 2026-09-25 19:26:59 iteration 3505: log planning iteration
+- 2026-09-25 19:26:59 iteration 3506: note latency sample
