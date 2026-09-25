@@ -8821,3 +8821,4 @@
 - 2026-09-25 19:39:34 iteration 8819: record checkpoint
 - 2026-09-25 19:39:34 iteration 8820: mark test run
 - 2026-09-25 19:39:34 iteration 8821: log planning iteration
+- 2026-09-25 19:39:34 iteration 8822: log control tweak
