@@ -4918,3 +4918,4 @@
 - 2026-09-25 19:30:23 iteration 4916: note tuning delta
 - 2026-09-25 19:30:23 iteration 4917: record checkpoint
 - 2026-09-25 19:30:23 iteration 4918: jot safety review
+- 2026-09-25 19:30:24 iteration 4919: log control tweak
