@@ -37777,3 +37777,4 @@
 - 2026-09-25 21:16:58 iteration 25310: append session line
 - 2026-09-25 21:16:58 iteration 25311: note latency sample
 - 2026-09-25 21:16:59 iteration 25312: note latency sample
+- 2026-09-25 21:16:59 iteration 25313: log perception note
