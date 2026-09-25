@@ -28589,3 +28589,4 @@
 - 2026-09-25 20:43:35 iteration 16122: log control tweak
 - 2026-09-25 20:43:35 iteration 16123: jot safety review
 - 2026-09-25 20:43:35 iteration 16124: jot safety review
+- 2026-09-25 20:43:35 iteration 16125: update research log
