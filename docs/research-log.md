@@ -1773,3 +1773,4 @@
 - 2026-09-25 19:23:11 iteration 1771: log perception note
 - 2026-09-25 19:23:11 iteration 1772: update research log
 - 2026-09-25 19:23:12 iteration 1773: log control tweak
+- 2026-09-25 19:23:12 iteration 1774: note tuning delta
