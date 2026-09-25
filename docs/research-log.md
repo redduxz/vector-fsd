@@ -22292,3 +22292,4 @@
 - 2026-09-25 20:19:40 iteration 9825: record sim observation
 - 2026-09-25 20:19:40 iteration 9826: note latency sample
 - 2026-09-25 20:19:41 iteration 9827: mark test run
+- 2026-09-25 20:19:41 iteration 9828: note tuning delta
