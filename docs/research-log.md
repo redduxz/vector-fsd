@@ -1089,3 +1089,4 @@
 - 2026-09-25 19:21:52 iteration 1087: note latency sample
 - 2026-09-25 19:21:52 iteration 1088: note tuning delta
 - 2026-09-25 19:21:52 iteration 1089: note tuning delta
+- 2026-09-25 19:21:53 iteration 1090: jot safety review
