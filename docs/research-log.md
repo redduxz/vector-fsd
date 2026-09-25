@@ -12072,3 +12072,4 @@
 - 2026-09-25 19:47:00 iteration 12070: jot safety review
 - 2026-09-25 19:47:01 iteration 12071: log loop iteration
 - 2026-09-25 19:47:01 iteration 12072: log control tweak
+- 2026-09-25 19:47:01 iteration 12073: log perception note
