@@ -1981,3 +1981,4 @@
 - 2026-09-25 19:23:36 iteration 1979: log control tweak
 - 2026-09-25 19:23:36 iteration 1980: note latency sample
 - 2026-09-25 19:23:36 iteration 1981: mark test run
+- 2026-09-25 19:23:36 iteration 1982: update research log
