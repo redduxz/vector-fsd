@@ -21402,3 +21402,4 @@
 - 2026-09-25 20:15:45 iteration 8935: log control tweak
 - 2026-09-25 20:15:45 iteration 8936: jot safety review
 - 2026-09-25 20:15:45 iteration 8937: log loop iteration
+- 2026-09-25 20:15:45 iteration 8938: note tuning delta
