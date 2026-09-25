@@ -17561,3 +17561,4 @@
 - 2026-09-25 20:00:48 iteration 5094: append session line
 - 2026-09-25 20:00:48 iteration 5095: jot safety review
 - 2026-09-25 20:00:48 iteration 5096: mark test run
+- 2026-09-25 20:00:48 iteration 5097: note tuning delta
