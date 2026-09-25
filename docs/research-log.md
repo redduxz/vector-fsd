@@ -36835,3 +36835,4 @@
 - 2026-09-25 21:13:30 iteration 24368: log perception note
 - 2026-09-25 21:13:31 iteration 24369: record sim observation
 - 2026-09-25 21:13:31 iteration 24370: mark test run
+- 2026-09-25 21:13:31 iteration 24371: log control tweak
