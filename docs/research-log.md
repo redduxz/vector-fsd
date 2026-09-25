@@ -14011,3 +14011,4 @@
 - 2026-09-25 19:52:24 iteration 1544: log control tweak
 - 2026-09-25 19:52:24 iteration 1545: jot safety review
 - 2026-09-25 19:52:24 iteration 1546: log perception note
+- 2026-09-25 19:52:24 iteration 1547: update research log
