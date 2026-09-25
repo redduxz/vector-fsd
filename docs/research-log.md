@@ -12829,3 +12829,4 @@
 - 2026-09-25 19:49:36 iteration 362: update research log
 - 2026-09-25 19:49:36 iteration 363: log perception note
 - 2026-09-25 19:49:36 iteration 364: log control tweak
+- 2026-09-25 19:49:36 iteration 365: note tuning delta
