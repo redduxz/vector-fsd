@@ -14761,3 +14761,4 @@
 - 2026-09-25 19:54:06 iteration 2294: log control tweak
 - 2026-09-25 19:54:06 iteration 2295: jot safety review
 - 2026-09-25 19:54:06 iteration 2296: note tuning delta
+- 2026-09-25 19:54:06 iteration 2297: log perception note
