@@ -16621,3 +16621,4 @@
 - 2026-09-25 19:58:27 iteration 4154: mark test run
 - 2026-09-25 19:58:27 iteration 4155: log loop iteration
 - 2026-09-25 19:58:27 iteration 4156: log loop iteration
+- 2026-09-25 19:58:27 iteration 4157: log control tweak
