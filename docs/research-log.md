@@ -31299,3 +31299,4 @@
 - 2026-09-25 20:52:36 iteration 18832: log planning iteration
 - 2026-09-25 20:52:36 iteration 18833: append session line
 - 2026-09-25 20:52:36 iteration 18834: jot safety review
+- 2026-09-25 20:52:36 iteration 18835: note tuning delta
