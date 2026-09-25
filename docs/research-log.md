@@ -22400,3 +22400,4 @@
 - 2026-09-25 20:20:03 iteration 9933: jot safety review
 - 2026-09-25 20:20:04 iteration 9934: note tuning delta
 - 2026-09-25 20:20:04 iteration 9935: log control tweak
+- 2026-09-25 20:20:04 iteration 9936: log planning iteration
