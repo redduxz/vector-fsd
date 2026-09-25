@@ -5509,3 +5509,4 @@
 - 2026-09-25 19:31:45 iteration 5507: append session line
 - 2026-09-25 19:31:45 iteration 5508: record sim observation
 - 2026-09-25 19:31:45 iteration 5509: log planning iteration
+- 2026-09-25 19:31:45 iteration 5510: note tuning delta
