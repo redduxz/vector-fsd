@@ -8098,3 +8098,4 @@
 - 2026-09-25 19:37:51 iteration 8096: note latency sample
 - 2026-09-25 19:37:51 iteration 8097: append session line
 - 2026-09-25 19:37:51 iteration 8098: log control tweak
+- 2026-09-25 19:37:51 iteration 8099: jot safety review
