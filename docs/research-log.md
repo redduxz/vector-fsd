@@ -12172,3 +12172,4 @@
 - 2026-09-25 19:47:13 iteration 12170: mark test run
 - 2026-09-25 19:47:13 iteration 12171: log planning iteration
 - 2026-09-25 19:47:14 iteration 12172: record sim observation
+- 2026-09-25 19:47:14 iteration 12173: note latency sample
