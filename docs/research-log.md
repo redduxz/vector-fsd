@@ -16485,3 +16485,4 @@
 - 2026-09-25 19:58:08 iteration 4018: log planning iteration
 - 2026-09-25 19:58:08 iteration 4019: jot safety review
 - 2026-09-25 19:58:08 iteration 4020: jot safety review
+- 2026-09-25 19:58:08 iteration 4021: note tuning delta
