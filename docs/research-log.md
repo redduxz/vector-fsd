@@ -39715,3 +39715,4 @@
 - 2026-09-25 21:23:29 iteration 27248: append session line
 - 2026-09-25 21:23:29 iteration 27249: log perception note
 - 2026-09-25 21:23:30 iteration 27250: note latency sample
+- 2026-09-25 21:23:30 iteration 27251: note tuning delta
