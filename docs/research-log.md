@@ -20468,3 +20468,4 @@
 - 2026-09-25 20:12:03 iteration 8001: record checkpoint
 - 2026-09-25 20:12:03 iteration 8002: update research log
 - 2026-09-25 20:12:03 iteration 8003: update research log
+- 2026-09-25 20:12:03 iteration 8004: note tuning delta
