@@ -37110,3 +37110,4 @@
 - 2026-09-25 21:14:30 iteration 24643: note latency sample
 - 2026-09-25 21:14:30 iteration 24644: jot safety review
 - 2026-09-25 21:14:30 iteration 24645: log planning iteration
+- 2026-09-25 21:14:30 iteration 24646: log perception note
