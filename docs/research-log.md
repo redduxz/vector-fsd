@@ -38956,3 +38956,4 @@
 - 2026-09-25 21:20:51 iteration 26489: log loop iteration
 - 2026-09-25 21:20:51 iteration 26490: append session line
 - 2026-09-25 21:20:51 iteration 26491: note tuning delta
+- 2026-09-25 21:20:52 iteration 26492: log perception note
