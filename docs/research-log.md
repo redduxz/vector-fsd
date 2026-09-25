@@ -29,3 +29,4 @@
 - 2026-09-25 19:19:50 iteration 27: log control tweak
 - 2026-09-25 19:19:50 iteration 28: record sim observation
 - 2026-09-25 19:19:50 iteration 29: log perception note
+- 2026-09-25 19:19:50 iteration 30: note latency sample
