@@ -19675,3 +19675,4 @@
 - 2026-09-25 20:07:59 iteration 7208: log control tweak
 - 2026-09-25 20:07:59 iteration 7209: record sim observation
 - 2026-09-25 20:07:59 iteration 7210: record checkpoint
+- 2026-09-25 20:07:59 iteration 7211: note tuning delta
