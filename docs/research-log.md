@@ -24493,3 +24493,4 @@
 - 2026-09-25 20:28:49 iteration 12026: log perception note
 - 2026-09-25 20:28:49 iteration 12027: mark test run
 - 2026-09-25 20:28:49 iteration 12028: log control tweak
+- 2026-09-25 20:28:49 iteration 12029: update research log
