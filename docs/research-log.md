@@ -128,3 +128,4 @@
 - 2026-09-25 19:20:02 iteration 126: mark test run
 - 2026-09-25 19:20:02 iteration 127: log control tweak
 - 2026-09-25 19:20:02 iteration 128: mark test run
+- 2026-09-25 19:20:02 iteration 129: record checkpoint
