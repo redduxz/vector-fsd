@@ -15254,3 +15254,4 @@
 - 2026-09-25 19:55:19 iteration 2787: record sim observation
 - 2026-09-25 19:55:20 iteration 2788: note latency sample
 - 2026-09-25 19:55:20 iteration 2789: append session line
+- 2026-09-25 19:55:20 iteration 2790: note tuning delta
