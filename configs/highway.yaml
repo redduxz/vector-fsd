@@ -1,0 +1,39 @@
+# NVIDIA-fsd — highway profile.
+#
+# Tuned for Town04's high-speed ring: higher speed cap, longer TTC horizon,
+# larger free-space requirement, gentler steering. The planning section is not
+# part of the core dataclasses — it is carried in Config.raw["planning"] for
+# fsd.planning to consume.
+
+sim:
+  host: 127.0.0.1
+  port: 2000
+  timeout_s: 20.0
+  town: Town04_Opt           # highway ring map
+  fixed_delta_s: 0.05        # still a 20 Hz loop
+  traffic_count: 30          # fewer but faster-moving vehicles
+  pedestrian_count: 0        # no walkers on the highway
+  seed: 7
+
+safety:
+  min_ttc_s: 2.5             # longer horizon at highway speeds
+  max_speed_mps: 33.3        # ~120 km/h cap
+  max_accel_mps2: 2.5        # gentler accel — passenger comfort
+  max_brake_mps2: 6.0        # brake ceiling unchanged
+  watchdog_timeout_s: 0.5    # stall budget identical to urban
+  min_free_space_m: 30.0     # ~1 s of clear road at the cap
+  max_steer_rate: 0.25       # slower slew — no swerving at 120 km/h
+
+vehicle:
+  blueprint: vehicle.tesla.model3
+  wheelbase_m: 2.875
+  max_steer_deg: 60.0
+  camera_hz: 20
+  lidar_channels: 64
+  radar_hz: 20
+
+planning:
+  horizon_s: 8.0             # trajectory horizon (default.yaml uses ~4 s)
+  lookahead_m: 45.0          # pure-pursuit lookahead grows with speed
+  lane_change_duration_s: 5.0
+  route_replan_every_s: 2.0

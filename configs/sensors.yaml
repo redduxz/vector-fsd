@@ -1,0 +1,83 @@
+# NVIDIA-fsd — ego-vehicle sensor suite.
+#
+# Consumed by fsd.carla_bridge.sensors (values arrive via Config.raw["sensors"]).
+#
+# Transform convention (CARLA):
+#   +x = forward, +y = right, +z = up, relative to the vehicle center.
+#   Rotations in degrees: pitch (nose down/up), yaw (around z), roll (around x).
+#
+# Attributes map 1:1 onto the CARLA blueprint attributes of each sensor type;
+# `sensor_tick` must stay >= sim.fixed_delta_s (0.05 s) in synchronous mode.
+
+sensors:
+  camera_front:
+    type: sensor.camera.rgb
+    transform: {x: 1.6, y: 0.0, z: 1.7, roll: 0.0, pitch: -5.0, yaw: 0.0}
+    attributes:
+      image_size_x: 1280
+      image_size_y: 720
+      fov: 90
+      sensor_tick: 0.05          # 20 Hz — matches camera_hz in vehicle config
+
+  camera_left:
+    type: sensor.camera.rgb
+    transform: {x: 0.8, y: -0.9, z: 1.5, roll: 0.0, pitch: -5.0, yaw: -60.0}
+    attributes:
+      image_size_x: 1280
+      image_size_y: 720
+      fov: 90
+      sensor_tick: 0.05
+
+  camera_right:
+    type: sensor.camera.rgb
+    transform: {x: 0.8, y: 0.9, z: 1.5, roll: 0.0, pitch: -5.0, yaw: 60.0}
+    attributes:
+      image_size_x: 1280
+      image_size_y: 720
+      fov: 90
+      sensor_tick: 0.05
+
+  lidar_top:
+    type: sensor.lidar.ray_cast
+    transform: {x: 0.0, y: 0.0, z: 2.4, roll: 0.0, pitch: 0.0, yaw: 0.0}
+    attributes:
+      channels: 64               # matches vehicle.lidar_channels
+      range: 100.0               # meters
+      points_per_second: 1300000
+      rotation_frequency: 20     # Hz — matches the world tick rate
+      upper_fov: 10.0
+      lower_fov: -30.0
+      sensor_tick: 0.05
+      atmosphere_attenuation_rate: 0.004
+      noise_stddev: 0.0          # keep the sim deterministic; add noise in tests
+
+  radar_front:
+    type: sensor.other.radar
+    transform: {x: 2.1, y: 0.0, z: 0.6, roll: 0.0, pitch: 0.0, yaw: 0.0}
+    attributes:
+      horizontal_fov: 30.0
+      vertical_fov: 10.0
+      range: 100.0
+      points_per_second: 1500
+      sensor_tick: 0.05          # 20 Hz — matches vehicle.radar_hz
+
+  gnss:
+    type: sensor.other.gnss
+    transform: {x: 1.0, y: 0.0, z: 2.0, roll: 0.0, pitch: 0.0, yaw: 0.0}
+    attributes:
+      sensor_tick: 0.05
+      noise_alt_stddev: 0.0      # zero-noise baseline; route-level truth
+      noise_lat_stddev: 0.0
+      noise_lon_stddev: 0.0
+
+  imu:
+    type: sensor.other.imu
+    transform: {x: 1.5, y: 0.0, z: 1.4, roll: 0.0, pitch: 0.0, yaw: 0.0}
+    attributes:
+      sensor_tick: 0.05
+      noise_accel_stddev_x: 0.0
+      noise_accel_stddev_y: 0.0
+      noise_accel_stddev_z: 0.0
+      noise_gyro_stddev_x: 0.0
+      noise_gyro_stddev_y: 0.0
+      noise_gyro_stddev_z: 0.0

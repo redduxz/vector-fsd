@@ -1,0 +1,33 @@
+# NVIDIA-fsd — default configuration (urban driving).
+#
+# Loaded by fsd.core.config.Config.load(). The sim/safety/vehicle sections map
+# 1:1 onto the SimConfig/SafetyConfig/VehicleConfig dataclasses — keys must
+# match dataclass field names exactly. Any other top-level section is carried
+# through Config.raw for downstream modules.
+
+sim:
+  host: 127.0.0.1            # CARLA server RPC host
+  port: 2000                 # CARLA server RPC port
+  timeout_s: 20.0            # client connect timeout
+  town: Town10HD_Opt         # urban map with dense junctions
+  fixed_delta_s: 0.05        # synchronous world tick -> 20 Hz loop
+  traffic_count: 40          # background vehicles via Traffic Manager
+  pedestrian_count: 20       # background walkers
+  seed: 7                    # world + TM + spawn RNG seed (reproducibility)
+
+safety:
+  min_ttc_s: 1.5             # time-to-collision floor -> SAFE_STOP
+  max_speed_mps: 16.7        # ~60 km/h urban cap
+  max_accel_mps2: 3.0        # longitudinal accel demand limit
+  max_brake_mps2: 6.0        # brake demand ceiling (~0.6 g)
+  watchdog_timeout_s: 0.5    # pipeline stall -> SAFE_STOP
+  min_free_space_m: 8.0      # clear path required ahead
+  max_steer_rate: 0.4        # normalized steer slew, units/s
+
+vehicle:
+  blueprint: vehicle.tesla.model3
+  wheelbase_m: 2.875
+  max_steer_deg: 60.0        # steering rack limit
+  camera_hz: 20              # RGB camera frame rate
+  lidar_channels: 64         # ray-cast lidar channel count
+  radar_hz: 20               # radar sweep rate
