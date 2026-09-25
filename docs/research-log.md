@@ -15778,3 +15778,4 @@
 - 2026-09-25 19:56:30 iteration 3311: log perception note
 - 2026-09-25 19:56:30 iteration 3312: append session line
 - 2026-09-25 19:56:30 iteration 3313: jot safety review
+- 2026-09-25 19:56:30 iteration 3314: note latency sample
