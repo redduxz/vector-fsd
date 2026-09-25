@@ -3460,3 +3460,4 @@
 - 2026-09-25 19:26:52 iteration 3458: log control tweak
 - 2026-09-25 19:26:52 iteration 3459: jot safety review
 - 2026-09-25 19:26:53 iteration 3460: note latency sample
+- 2026-09-25 19:26:53 iteration 3461: jot safety review
