@@ -37440,3 +37440,4 @@
 - 2026-09-25 21:15:45 iteration 24973: log perception note
 - 2026-09-25 21:15:45 iteration 24974: record checkpoint
 - 2026-09-25 21:15:45 iteration 24975: jot safety review
+- 2026-09-25 21:15:45 iteration 24976: note tuning delta
