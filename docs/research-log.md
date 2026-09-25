@@ -3008,3 +3008,4 @@
 - 2026-09-25 19:25:50 iteration 3006: record checkpoint
 - 2026-09-25 19:25:50 iteration 3007: note latency sample
 - 2026-09-25 19:25:50 iteration 3008: append session line
+- 2026-09-25 19:25:50 iteration 3009: note tuning delta
