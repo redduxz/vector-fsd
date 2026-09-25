@@ -4803,3 +4803,4 @@
 - 2026-09-25 19:30:07 iteration 4801: append session line
 - 2026-09-25 19:30:07 iteration 4802: note tuning delta
 - 2026-09-25 19:30:07 iteration 4803: note tuning delta
+- 2026-09-25 19:30:08 iteration 4804: record sim observation
