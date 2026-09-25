@@ -8932,3 +8932,4 @@
 - 2026-09-25 19:39:49 iteration 8930: jot safety review
 - 2026-09-25 19:39:49 iteration 8931: jot safety review
 - 2026-09-25 19:39:49 iteration 8932: note tuning delta
+- 2026-09-25 19:39:49 iteration 8933: note latency sample
