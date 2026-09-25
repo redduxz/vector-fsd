@@ -10337,3 +10337,4 @@
 - 2026-09-25 19:43:00 iteration 10335: log loop iteration
 - 2026-09-25 19:43:00 iteration 10336: log control tweak
 - 2026-09-25 19:43:00 iteration 10337: append session line
+- 2026-09-25 19:43:00 iteration 10338: record sim observation
