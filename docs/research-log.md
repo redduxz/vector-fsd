@@ -826,3 +826,4 @@
 - 2026-09-25 19:21:22 iteration 824: log planning iteration
 - 2026-09-25 19:21:22 iteration 825: jot safety review
 - 2026-09-25 19:21:22 iteration 826: jot safety review
+- 2026-09-25 19:21:22 iteration 827: log control tweak
