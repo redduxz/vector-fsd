@@ -8083,3 +8083,4 @@
 - 2026-09-25 19:37:49 iteration 8081: log control tweak
 - 2026-09-25 19:37:49 iteration 8082: log planning iteration
 - 2026-09-25 19:37:49 iteration 8083: append session line
+- 2026-09-25 19:37:49 iteration 8084: record sim observation
