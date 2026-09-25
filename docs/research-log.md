@@ -22878,3 +22878,4 @@
 - 2026-09-25 20:22:20 iteration 10411: log perception note
 - 2026-09-25 20:22:20 iteration 10412: jot safety review
 - 2026-09-25 20:22:20 iteration 10413: log planning iteration
+- 2026-09-25 20:22:20 iteration 10414: note latency sample
