@@ -139,17 +139,21 @@ class BehaviorPlanner:
         # ---- collect active speed caps (min wins) ---------------------- #
         caps = [cruise]
         want_stop_light = False
+        # distance to the constraining stop line; falls back to free space
+        # only when the monitor has no geometry (smoke tests without TLs)
+        d_light = min(perception.free_space_ahead,
+                      getattr(perception, "stop_line_m", math.inf))
         if perception.light == LightState.RED:
             want_stop_light = True
         elif perception.light == LightState.YELLOW:
             # stop only if we still can, comfortably
-            d_stop = perception.free_space_ahead - self.stop_margin
+            d_stop = d_light - self.stop_margin
             want_stop_light = (
                 self._stopping_distance(ego.speed, self.comfort_decel)
                 < d_stop)
 
         if want_stop_light:
-            d_eff = perception.free_space_ahead - self.stop_margin
+            d_eff = d_light - self.stop_margin
             caps.append(math.sqrt(max(0.0, 2.0 * self.comfort_decel * d_eff)))
 
         in_lane_change = self.state in (self.LANE_CHANGE_LEFT,

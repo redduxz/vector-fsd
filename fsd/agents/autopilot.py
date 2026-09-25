@@ -158,11 +158,10 @@ def _build(cls: Optional[type], cfg: Config):
     for args in ((cfg,), (cfg.raw,), ()):
         try:
             return cls(*args)
-        except TypeError:
-            continue
         except Exception as exc:
-            log.warning("%s init failed: %s", cls.__name__, exc)
-            return None
+            log.debug("%s(%r) init failed: %s", cls.__name__,
+                      type(args[0]).__name__ if args else "", exc)
+            continue
     log.warning("could not construct %s with any known signature",
                 cls.__name__)
     return None
@@ -518,6 +517,7 @@ class AutopilotAgent:
         self._running = False
         self._last_ok: Dict[str, float] = {}
         self._last_perception: Optional[PerceptionOutput] = None
+        self._last_stop_m = math.inf
         self._fail_counts: Dict[str, int] = {}
         self._stuck_ticks = 0
         self._recover_ticks = 0
@@ -530,7 +530,7 @@ class AutopilotAgent:
     def _build_modules(self) -> None:
         cfg = self.cfg
         self.lane_detector = _build(LaneDetector, cfg)
-        self.object_detector = _build(ObjectDetector, cfg)
+        self.object_detector = self._make_detector(cfg)
         self.tl_monitor = _build(TrafficLightMonitor, cfg)
         self.fusion = _build(SensorFusion, cfg)
         self.occupancy = _build(OccupancyGrid, cfg)
@@ -586,6 +586,23 @@ class AutopilotAgent:
         self._setup_done = True
         return self
 
+    def _make_detector(self, cfg: Config):
+        """Build ObjectDetector from the perception config section."""
+        if ObjectDetector is None:
+            return None
+        pc = getattr(cfg, "perception", None)
+        if pc is None:
+            return _build(ObjectDetector, cfg)
+        try:
+            return ObjectDetector(
+                backend=pc.object_backend,
+                model_path=pc.object_model_path or None,
+                conf_threshold=pc.object_conf_threshold,
+                max_range_m=pc.object_max_range_m)
+        except Exception as exc:
+            log.warning("ObjectDetector init failed: %s", exc)
+            return _build(ObjectDetector, cfg)
+
     # ------------------------------------------------------------------ stages
 
     def _ego_state(self) -> VehicleState:
@@ -629,18 +646,37 @@ class AutopilotAgent:
         img = _reading_data(sensors, "camera_rgb")
         lidar = _reading_data(sensors, "lidar")
         radar = _reading_data(sensors, "radar")
+        # ego carries its actor id so the detector can exclude itself
+        ego_ref = ego
+        if self.vehicle is not None:
+            try:
+                ego_id = self.vehicle.id() if callable(self.vehicle.id) \
+                    else self.vehicle.id
+            except Exception:
+                ego_id = None
+            ego_ref = {"x": ego.x, "y": ego.y, "yaw": ego.yaw, "id": ego_id}
         return _as_objects(_call_flex(fn, img, ego,
                                       image=img, rgb=img, lidar=lidar,
-                                      radar=radar, points=lidar, ego=ego,
-                                      state=ego, sensors=sensors))
+                                      radar=radar, points=lidar, ego=ego_ref,
+                                      state=ego, sensors=sensors,
+                                      world=self.world))
 
     def _light_state(self, ego, sensors):
         if self.tl_monitor is None:
             return LightState.UNKNOWN
         fn = _first_method(self.tl_monitor, _LIGHT_M)
         img = _reading_data(sensors, "camera_rgb")
-        return _as_light(_call_flex(fn, ego, img, ego=ego, state=ego,
-                                    image=img, sensors=sensors))
+        # carla.Vehicle answers is_at_traffic_light() directly — prefer the
+        # live actor over the reduced VehicleState
+        actor = getattr(self.vehicle, "actor", None) or ego
+        st = _as_light(_call_flex(fn, actor, img, ego=actor, state=ego,
+                                  image=img, sensors=sensors,
+                                  world=self.world))
+        try:
+            self._last_stop_m = float(self.tl_monitor.stop_distance_m)
+        except (TypeError, ValueError, AttributeError):
+            self._last_stop_m = math.inf
+        return st
 
     def _fuse(self, ego, sensors, lane, objects, light) -> PerceptionOutput:
         if self.fusion is None:
@@ -670,6 +706,9 @@ class AutopilotAgent:
     def _free_space(ego, objects) -> float:
         best = 100.0
         for o in objects:
+            if getattr(o, "cls", "vehicle") not in (
+                    "vehicle", "pedestrian", "cyclist", "misc"):
+                continue          # signs/poles don't cap free space
             dx, dy = o.position.x - ego.x, o.position.y - ego.y
             ahead = dx * math.cos(ego.yaw) + dy * math.sin(ego.yaw)
             lat = abs(-dx * math.sin(ego.yaw) + dy * math.cos(ego.yaw))
@@ -802,6 +841,10 @@ class AutopilotAgent:
             objects = self._detect_objects(ego, sensors)
             light = self._light_state(ego, sensors)
             perception = self._fuse(ego, sensors, lane, objects, light)
+            try:
+                perception.stop_line_m = self._last_stop_m
+            except AttributeError:
+                pass
             try:
                 self._update_occupancy(ego, sensors, perception)
             except Exception:

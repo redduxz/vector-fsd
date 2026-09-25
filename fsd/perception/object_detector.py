@@ -86,6 +86,8 @@ class ObjectDetector:
     def _from_carla(self, world, ego) -> List[DetectedObject]:
         ex, ey, _ = _ego_xy_yaw(ego)
         ego_id = getattr(ego, "id", None)
+        if ego_id is None and isinstance(ego, dict):
+            ego_id = ego.get("id")
         out = []
         for actor in world.get_actors():
             cls = self._classify(getattr(actor, "type_id", "") or "")
@@ -97,7 +99,10 @@ class ObjectDetector:
             except Exception:
                 continue
             dx, dy = t.location.x - ex, t.location.y - ey
-            if dx * dx + dy * dy > self.max_range_m ** 2:
+            d2 = dx * dx + dy * dy
+            if d2 > self.max_range_m ** 2:
+                continue
+            if d2 < 1.5 * 1.5:            # the ego actor itself (no id given)
                 continue
             bb = getattr(actor, "bounding_box", None)
             extent = (Vec3(bb.extent.x, bb.extent.y, bb.extent.z)

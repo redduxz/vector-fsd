@@ -40,10 +40,20 @@ class VehicleConfig:
 
 
 @dataclass
+class PerceptionConfig:
+    object_backend: str = "none"       # 'none' | 'yolo' | 'onnx'
+    object_model_path: str = ""
+    object_conf_threshold: float = 0.35
+    object_max_range_m: float = 120.0
+    tl_search_radius_m: float = 60.0
+
+
+@dataclass
 class Config:
     sim: SimConfig = field(default_factory=SimConfig)
     safety: SafetyConfig = field(default_factory=SafetyConfig)
     vehicle: VehicleConfig = field(default_factory=VehicleConfig)
+    perception: PerceptionConfig = field(default_factory=PerceptionConfig)
     raw: Dict[str, Any] = field(default_factory=dict)
 
     @classmethod
@@ -56,10 +66,13 @@ class Config:
             except ImportError:
                 data = {}
             cfg.raw = data
-            for section, klass in (("sim", SimConfig), ("safety", SafetyConfig), ("vehicle", VehicleConfig)):
+            for section, klass in (("sim", SimConfig), ("safety", SafetyConfig),
+                                   ("vehicle", VehicleConfig), ("perception", PerceptionConfig)):
                 if section in data:
                     setattr(cfg, section, klass(**{**asdict(getattr(cfg, section)), **data[section]}))
         return cfg
 
     def dump(self) -> Dict[str, Any]:
-        return {"sim": asdict(self.sim), "safety": asdict(self.safety), "vehicle": asdict(self.vehicle)}
+        return {"sim": asdict(self.sim), "safety": asdict(self.safety),
+                "vehicle": asdict(self.vehicle),
+                "perception": asdict(self.perception)}

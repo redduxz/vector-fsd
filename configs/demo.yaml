@@ -24,3 +24,8 @@ vehicle:
   camera_hz: 20
   lidar_channels: 16
   radar_hz: 20
+
+perception:
+  object_backend: none        # CARLA ground-truth actors; swap to 'yolo'/'onnx' with a model
+  object_max_range_m: 120.0
+  tl_search_radius_m: 60.0
