@@ -8810,3 +8810,4 @@
 - 2026-09-25 19:39:32 iteration 8808: append session line
 - 2026-09-25 19:39:32 iteration 8809: log control tweak
 - 2026-09-25 19:39:32 iteration 8810: log planning iteration
+- 2026-09-25 19:39:33 iteration 8811: note tuning delta
