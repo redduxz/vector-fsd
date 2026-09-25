@@ -1742,3 +1742,4 @@
 - 2026-09-25 19:23:08 iteration 1740: log loop iteration
 - 2026-09-25 19:23:08 iteration 1741: note latency sample
 - 2026-09-25 19:23:08 iteration 1742: record checkpoint
+- 2026-09-25 19:23:08 iteration 1743: record sim observation
