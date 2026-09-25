@@ -2728,3 +2728,4 @@
 - 2026-09-25 19:25:15 iteration 2726: update research log
 - 2026-09-25 19:25:15 iteration 2727: mark test run
 - 2026-09-25 19:25:15 iteration 2728: mark test run
+- 2026-09-25 19:25:15 iteration 2729: note tuning delta
