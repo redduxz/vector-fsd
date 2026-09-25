@@ -25492,3 +25492,4 @@
 - 2026-09-25 20:33:06 iteration 13025: log planning iteration
 - 2026-09-25 20:33:06 iteration 13026: note tuning delta
 - 2026-09-25 20:33:07 iteration 13027: mark test run
+- 2026-09-25 20:33:07 iteration 13028: log control tweak
