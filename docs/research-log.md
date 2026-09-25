@@ -17621,3 +17621,4 @@
 - 2026-09-25 20:00:56 iteration 5154: update research log
 - 2026-09-25 20:00:56 iteration 5155: append session line
 - 2026-09-25 20:00:57 iteration 5156: log loop iteration
+- 2026-09-25 20:00:57 iteration 5157: note latency sample
