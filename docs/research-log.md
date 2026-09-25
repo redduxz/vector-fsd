@@ -28821,3 +28821,4 @@
 - 2026-09-25 20:44:32 iteration 16354: log loop iteration
 - 2026-09-25 20:44:33 iteration 16355: note latency sample
 - 2026-09-25 20:44:33 iteration 16356: log planning iteration
+- 2026-09-25 20:44:33 iteration 16357: log perception note
