@@ -7932,3 +7932,4 @@
 - 2026-09-25 19:37:30 iteration 7930: mark test run
 - 2026-09-25 19:37:30 iteration 7931: record sim observation
 - 2026-09-25 19:37:30 iteration 7932: note tuning delta
+- 2026-09-25 19:37:30 iteration 7933: log control tweak
