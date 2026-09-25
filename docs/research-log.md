@@ -19721,3 +19721,4 @@
 - 2026-09-25 20:08:09 iteration 7254: append session line
 - 2026-09-25 20:08:09 iteration 7255: log perception note
 - 2026-09-25 20:08:10 iteration 7256: update research log
+- 2026-09-25 20:08:10 iteration 7257: note tuning delta
