@@ -2713,3 +2713,4 @@
 - 2026-09-25 19:25:13 iteration 2711: append session line
 - 2026-09-25 19:25:13 iteration 2712: mark test run
 - 2026-09-25 19:25:13 iteration 2713: note tuning delta
+- 2026-09-25 19:25:13 iteration 2714: log control tweak
