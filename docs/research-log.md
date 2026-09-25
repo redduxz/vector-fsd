@@ -36921,3 +36921,4 @@
 - 2026-09-25 21:13:51 iteration 24454: mark test run
 - 2026-09-25 21:13:51 iteration 24455: mark test run
 - 2026-09-25 21:13:51 iteration 24456: record checkpoint
+- 2026-09-25 21:13:52 iteration 24457: record sim observation
