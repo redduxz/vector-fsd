@@ -35144,3 +35144,4 @@
 - 2026-09-25 21:06:58 iteration 22677: log loop iteration
 - 2026-09-25 21:06:59 iteration 22678: record checkpoint
 - 2026-09-25 21:06:59 iteration 22679: note tuning delta
+- 2026-09-25 21:06:59 iteration 22680: note latency sample
