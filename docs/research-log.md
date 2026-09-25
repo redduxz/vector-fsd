@@ -22463,3 +22463,4 @@
 - 2026-09-25 20:20:17 iteration 9996: jot safety review
 - 2026-09-25 20:20:17 iteration 9997: log planning iteration
 - 2026-09-25 20:20:17 iteration 9998: log control tweak
+- 2026-09-25 20:20:18 iteration 9999: note tuning delta
