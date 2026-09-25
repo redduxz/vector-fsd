@@ -5787,3 +5787,4 @@
 - 2026-09-25 19:32:25 iteration 5785: jot safety review
 - 2026-09-25 19:32:25 iteration 5786: record checkpoint
 - 2026-09-25 19:32:26 iteration 5787: append session line
+- 2026-09-25 19:32:26 iteration 5788: log planning iteration
