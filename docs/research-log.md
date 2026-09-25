@@ -21236,3 +21236,4 @@
 - 2026-09-25 20:15:09 iteration 8769: record sim observation
 - 2026-09-25 20:15:09 iteration 8770: note tuning delta
 - 2026-09-25 20:15:10 iteration 8771: log perception note
+- 2026-09-25 20:15:10 iteration 8772: note latency sample
