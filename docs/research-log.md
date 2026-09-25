@@ -3724,3 +3724,4 @@
 - 2026-09-25 19:27:31 iteration 3722: log planning iteration
 - 2026-09-25 19:27:31 iteration 3723: mark test run
 - 2026-09-25 19:27:31 iteration 3724: log perception note
+- 2026-09-25 19:27:31 iteration 3725: note latency sample
