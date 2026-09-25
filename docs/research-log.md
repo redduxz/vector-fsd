@@ -472,3 +472,4 @@
 - 2026-09-25 19:20:41 iteration 470: jot safety review
 - 2026-09-25 19:20:41 iteration 471: log control tweak
 - 2026-09-25 19:20:41 iteration 472: note tuning delta
+- 2026-09-25 19:20:41 iteration 473: record checkpoint
