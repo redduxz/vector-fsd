@@ -28670,3 +28670,4 @@
 - 2026-09-25 20:43:51 iteration 16203: append session line
 - 2026-09-25 20:43:51 iteration 16204: log loop iteration
 - 2026-09-25 20:43:51 iteration 16205: note tuning delta
+- 2026-09-25 20:43:51 iteration 16206: log perception note
