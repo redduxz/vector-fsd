@@ -2836,3 +2836,4 @@
 - 2026-09-25 19:25:29 iteration 2834: append session line
 - 2026-09-25 19:25:29 iteration 2835: jot safety review
 - 2026-09-25 19:25:29 iteration 2836: log perception note
+- 2026-09-25 19:25:29 iteration 2837: jot safety review
