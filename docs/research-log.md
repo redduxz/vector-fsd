@@ -35289,3 +35289,4 @@
 - 2026-09-25 21:07:29 iteration 22822: log control tweak
 - 2026-09-25 21:07:30 iteration 22823: log control tweak
 - 2026-09-25 21:07:30 iteration 22824: note latency sample
+- 2026-09-25 21:07:30 iteration 22825: log loop iteration
