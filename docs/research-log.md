@@ -1419,3 +1419,4 @@
 - 2026-09-25 19:22:30 iteration 1417: log perception note
 - 2026-09-25 19:22:30 iteration 1418: note latency sample
 - 2026-09-25 19:22:30 iteration 1419: note latency sample
+- 2026-09-25 19:22:31 iteration 1420: log control tweak
