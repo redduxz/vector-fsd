@@ -12400,3 +12400,4 @@
 - 2026-09-25 19:47:43 iteration 12398: note latency sample
 - 2026-09-25 19:47:43 iteration 12399: log planning iteration
 - 2026-09-25 19:47:43 iteration 12400: record sim observation
+- 2026-09-25 19:47:43 iteration 12401: log loop iteration
