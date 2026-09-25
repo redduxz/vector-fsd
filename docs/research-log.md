@@ -10477,3 +10477,4 @@
 - 2026-09-25 19:43:19 iteration 10475: append session line
 - 2026-09-25 19:43:19 iteration 10476: log control tweak
 - 2026-09-25 19:43:19 iteration 10477: log perception note
+- 2026-09-25 19:43:19 iteration 10478: update research log
