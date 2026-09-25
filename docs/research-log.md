@@ -814,3 +814,4 @@
 - 2026-09-25 19:21:21 iteration 812: note tuning delta
 - 2026-09-25 19:21:21 iteration 813: jot safety review
 - 2026-09-25 19:21:21 iteration 814: note tuning delta
+- 2026-09-25 19:21:21 iteration 815: record sim observation
