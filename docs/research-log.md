@@ -6087,3 +6087,4 @@
 - 2026-09-25 19:33:08 iteration 6085: update research log
 - 2026-09-25 19:33:08 iteration 6086: jot safety review
 - 2026-09-25 19:33:08 iteration 6087: log perception note
+- 2026-09-25 19:33:08 iteration 6088: log control tweak
