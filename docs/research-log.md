@@ -17489,3 +17489,4 @@
 - 2026-09-25 20:00:38 iteration 5022: record checkpoint
 - 2026-09-25 20:00:38 iteration 5023: log control tweak
 - 2026-09-25 20:00:38 iteration 5024: record sim observation
+- 2026-09-25 20:00:38 iteration 5025: note latency sample
