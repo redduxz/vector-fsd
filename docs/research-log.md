@@ -8259,3 +8259,4 @@
 - 2026-09-25 19:38:11 iteration 8257: log control tweak
 - 2026-09-25 19:38:11 iteration 8258: jot safety review
 - 2026-09-25 19:38:12 iteration 8259: append session line
+- 2026-09-25 19:38:12 iteration 8260: note tuning delta
