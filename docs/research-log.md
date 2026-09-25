@@ -38440,3 +38440,4 @@
 - 2026-09-25 21:19:18 iteration 25973: append session line
 - 2026-09-25 21:19:18 iteration 25974: jot safety review
 - 2026-09-25 21:19:18 iteration 25975: record sim observation
+- 2026-09-25 21:19:18 iteration 25976: log perception note
