@@ -8605,3 +8605,4 @@
 - 2026-09-25 19:39:04 iteration 8603: mark test run
 - 2026-09-25 19:39:04 iteration 8604: note tuning delta
 - 2026-09-25 19:39:04 iteration 8605: log planning iteration
+- 2026-09-25 19:39:04 iteration 8606: note latency sample
