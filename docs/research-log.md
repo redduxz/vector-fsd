@@ -27437,3 +27437,4 @@
 - 2026-09-25 20:40:03 iteration 14970: mark test run
 - 2026-09-25 20:40:03 iteration 14971: record checkpoint
 - 2026-09-25 20:40:03 iteration 14972: log control tweak
+- 2026-09-25 20:40:03 iteration 14973: log loop iteration
