@@ -12332,3 +12332,4 @@
 - 2026-09-25 19:47:34 iteration 12330: append session line
 - 2026-09-25 19:47:34 iteration 12331: update research log
 - 2026-09-25 19:47:34 iteration 12332: append session line
+- 2026-09-25 19:47:34 iteration 12333: log control tweak
