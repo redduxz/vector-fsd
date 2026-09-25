@@ -6922,3 +6922,4 @@
 - 2026-09-25 19:35:10 iteration 6920: mark test run
 - 2026-09-25 19:35:10 iteration 6921: mark test run
 - 2026-09-25 19:35:10 iteration 6922: append session line
+- 2026-09-25 19:35:11 iteration 6923: note latency sample
