@@ -2562,3 +2562,4 @@
 - 2026-09-25 19:24:51 iteration 2560: update research log
 - 2026-09-25 19:24:51 iteration 2561: log loop iteration
 - 2026-09-25 19:24:51 iteration 2562: note latency sample
+- 2026-09-25 19:24:51 iteration 2563: note tuning delta
