@@ -14485,3 +14485,4 @@
 - 2026-09-25 19:53:28 iteration 2018: record checkpoint
 - 2026-09-25 19:53:28 iteration 2019: log control tweak
 - 2026-09-25 19:53:28 iteration 2020: jot safety review
+- 2026-09-25 19:53:28 iteration 2021: log planning iteration
