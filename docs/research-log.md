@@ -9518,3 +9518,4 @@
 - 2026-09-25 19:41:06 iteration 9516: mark test run
 - 2026-09-25 19:41:06 iteration 9517: append session line
 - 2026-09-25 19:41:06 iteration 9518: note tuning delta
+- 2026-09-25 19:41:06 iteration 9519: log control tweak
