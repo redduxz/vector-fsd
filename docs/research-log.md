@@ -2769,3 +2769,4 @@
 - 2026-09-25 19:25:20 iteration 2767: log control tweak
 - 2026-09-25 19:25:21 iteration 2768: log perception note
 - 2026-09-25 19:25:21 iteration 2769: append session line
+- 2026-09-25 19:25:21 iteration 2770: note tuning delta
