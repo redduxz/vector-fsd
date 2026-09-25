@@ -12777,3 +12777,4 @@
 - 2026-09-25 19:49:29 iteration 310: log control tweak
 - 2026-09-25 19:49:29 iteration 311: log perception note
 - 2026-09-25 19:49:29 iteration 312: record checkpoint
+- 2026-09-25 19:49:29 iteration 313: record sim observation
