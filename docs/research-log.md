@@ -12841,3 +12841,4 @@
 - 2026-09-25 19:49:38 iteration 374: note tuning delta
 - 2026-09-25 19:49:38 iteration 375: append session line
 - 2026-09-25 19:49:38 iteration 376: append session line
+- 2026-09-25 19:49:38 iteration 377: log perception note
