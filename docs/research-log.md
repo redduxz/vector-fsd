@@ -20701,3 +20701,4 @@
 - 2026-09-25 20:13:01 iteration 8234: jot safety review
 - 2026-09-25 20:13:01 iteration 8235: note latency sample
 - 2026-09-25 20:13:01 iteration 8236: log perception note
+- 2026-09-25 20:13:02 iteration 8237: log control tweak
