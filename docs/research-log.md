@@ -24969,3 +24969,4 @@
 - 2026-09-25 20:30:58 iteration 12502: log loop iteration
 - 2026-09-25 20:30:58 iteration 12503: append session line
 - 2026-09-25 20:30:58 iteration 12504: append session line
+- 2026-09-25 20:30:59 iteration 12505: record sim observation
