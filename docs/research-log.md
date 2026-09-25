@@ -25404,3 +25404,4 @@
 - 2026-09-25 20:32:51 iteration 12937: append session line
 - 2026-09-25 20:32:51 iteration 12938: record checkpoint
 - 2026-09-25 20:32:51 iteration 12939: log loop iteration
+- 2026-09-25 20:32:51 iteration 12940: log perception note
