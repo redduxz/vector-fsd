@@ -4489,3 +4489,4 @@
 - 2026-09-25 19:29:24 iteration 4487: record checkpoint
 - 2026-09-25 19:29:24 iteration 4488: append session line
 - 2026-09-25 19:29:24 iteration 4489: log control tweak
+- 2026-09-25 19:29:24 iteration 4490: record checkpoint
