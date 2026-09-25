@@ -24563,3 +24563,4 @@
 - 2026-09-25 20:29:06 iteration 12096: append session line
 - 2026-09-25 20:29:07 iteration 12097: record sim observation
 - 2026-09-25 20:29:07 iteration 12098: mark test run
+- 2026-09-25 20:29:07 iteration 12099: log control tweak
