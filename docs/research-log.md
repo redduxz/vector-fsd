@@ -16191,3 +16191,4 @@
 - 2026-09-25 19:57:27 iteration 3724: mark test run
 - 2026-09-25 19:57:27 iteration 3725: update research log
 - 2026-09-25 19:57:27 iteration 3726: note tuning delta
+- 2026-09-25 19:57:27 iteration 3727: jot safety review
