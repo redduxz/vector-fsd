@@ -2778,3 +2778,4 @@
 - 2026-09-25 19:25:21 iteration 2776: note latency sample
 - 2026-09-25 19:25:22 iteration 2777: mark test run
 - 2026-09-25 19:25:22 iteration 2778: note tuning delta
+- 2026-09-25 19:25:22 iteration 2779: record checkpoint
