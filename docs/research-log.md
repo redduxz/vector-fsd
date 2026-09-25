@@ -2150,3 +2150,4 @@
 - 2026-09-25 19:24:00 iteration 2148: append session line
 - 2026-09-25 19:24:00 iteration 2149: mark test run
 - 2026-09-25 19:24:00 iteration 2150: record checkpoint
+- 2026-09-25 19:24:01 iteration 2151: note latency sample
