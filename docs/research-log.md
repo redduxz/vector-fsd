@@ -5034,3 +5034,4 @@
 - 2026-09-25 19:30:39 iteration 5032: log perception note
 - 2026-09-25 19:30:39 iteration 5033: record sim observation
 - 2026-09-25 19:30:39 iteration 5034: note tuning delta
+- 2026-09-25 19:30:39 iteration 5035: note latency sample
