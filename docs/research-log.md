@@ -4074,3 +4074,4 @@
 - 2026-09-25 19:28:26 iteration 4072: jot safety review
 - 2026-09-25 19:28:26 iteration 4073: log planning iteration
 - 2026-09-25 19:28:26 iteration 4074: log control tweak
+- 2026-09-25 19:28:26 iteration 4075: note latency sample
