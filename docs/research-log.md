@@ -9663,3 +9663,4 @@
 - 2026-09-25 19:41:24 iteration 9661: log planning iteration
 - 2026-09-25 19:41:24 iteration 9662: log loop iteration
 - 2026-09-25 19:41:24 iteration 9663: record sim observation
+- 2026-09-25 19:41:24 iteration 9664: log control tweak
