@@ -13314,3 +13314,4 @@
 - 2026-09-25 19:50:48 iteration 847: record checkpoint
 - 2026-09-25 19:50:48 iteration 848: mark test run
 - 2026-09-25 19:50:48 iteration 849: log perception note
+- 2026-09-25 19:50:48 iteration 850: log control tweak
