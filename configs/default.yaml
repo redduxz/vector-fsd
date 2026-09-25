@@ -1,4 +1,4 @@
-# NVIDIA-fsd — default configuration (urban driving).
+# vector-fsd — default configuration (urban driving).
 #
 # Loaded by fsd.core.config.Config.load(). The sim/safety/vehicle sections map
 # 1:1 onto the SimConfig/SafetyConfig/VehicleConfig dataclasses — keys must
@@ -9,10 +9,10 @@ sim:
   host: 127.0.0.1            # CARLA server RPC host
   port: 2000                 # CARLA server RPC port
   timeout_s: 20.0            # client connect timeout
-  town: Town10HD_Opt         # urban map with dense junctions
+  town: Town05               # urban grid; Town10HD_Opt is heavier and stalls mid-range GPUs
   fixed_delta_s: 0.05        # synchronous world tick -> 20 Hz loop
-  traffic_count: 40          # background vehicles via Traffic Manager
-  pedestrian_count: 20       # background walkers
+  traffic_count: 20          # background vehicles via Traffic Manager
+  pedestrian_count: 10       # background walkers
   seed: 7                    # world + TM + spawn RNG seed (reproducibility)
 
 safety:
@@ -29,5 +29,5 @@ vehicle:
   wheelbase_m: 2.875
   max_steer_deg: 60.0        # steering rack limit
   camera_hz: 20              # RGB camera frame rate
-  lidar_channels: 64         # ray-cast lidar channel count
+  lidar_channels: 32         # ray-cast lidar; 64ch parses ~1.3M pts/s per tick
   radar_hz: 20               # radar sweep rate

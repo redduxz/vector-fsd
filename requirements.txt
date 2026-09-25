@@ -11,4 +11,5 @@ pyyaml>=6.0
 #                      # with the release over PyPI.
 # torch>=2.0           # learned models (fsd/ml/models, fsd/ml/train)
 # onnxruntime>=1.16    # ONNX inference backend (fsd/ml/infer)
-# flask>=3.0           # optional debug web dashboard
+# flask>=3.0           # live web dashboard (ui/dashboard.py)
+# opencv-python>=4.8   # dashboard frame encoding + overlays

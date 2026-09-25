@@ -12,9 +12,9 @@ class SimConfig:
     port: int = 2000
     timeout_s: float = 20.0
     fixed_delta_s: float = 0.05        # 20 Hz world tick
-    town: str = "Town10HD_Opt"
-    traffic_count: int = 40
-    pedestrian_count: int = 20
+    town: str = "Town05"               # Town10HD_Opt stalls mid-range GPUs
+    traffic_count: int = 20
+    pedestrian_count: int = 10
     seed: int = 7
 
 
@@ -35,7 +35,7 @@ class VehicleConfig:
     wheelbase_m: float = 2.875
     max_steer_deg: float = 60.0
     camera_hz: int = 20
-    lidar_channels: int = 64
+    lidar_channels: int = 32           # 64ch parses ~1.3M pts/s per tick
     radar_hz: int = 20
 
 
