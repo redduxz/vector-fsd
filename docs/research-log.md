@@ -491,3 +491,4 @@
 - 2026-09-25 19:20:43 iteration 489: mark test run
 - 2026-09-25 19:20:43 iteration 490: log control tweak
 - 2026-09-25 19:20:43 iteration 491: log planning iteration
+- 2026-09-25 19:20:44 iteration 492: record sim observation
