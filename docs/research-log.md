@@ -8816,3 +8816,4 @@
 - 2026-09-25 19:39:33 iteration 8814: record checkpoint
 - 2026-09-25 19:39:33 iteration 8815: note tuning delta
 - 2026-09-25 19:39:33 iteration 8816: append session line
+- 2026-09-25 19:39:33 iteration 8817: log perception note
