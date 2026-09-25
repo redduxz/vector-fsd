@@ -4080,3 +4080,4 @@
 - 2026-09-25 19:28:26 iteration 4078: log loop iteration
 - 2026-09-25 19:28:27 iteration 4079: note tuning delta
 - 2026-09-25 19:28:27 iteration 4080: log loop iteration
+- 2026-09-25 19:28:27 iteration 4081: log control tweak
