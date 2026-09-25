@@ -12090,3 +12090,4 @@
 - 2026-09-25 19:47:03 iteration 12088: update research log
 - 2026-09-25 19:47:03 iteration 12089: log loop iteration
 - 2026-09-25 19:47:03 iteration 12090: append session line
+- 2026-09-25 19:47:03 iteration 12091: log control tweak
