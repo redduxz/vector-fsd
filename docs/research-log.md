@@ -430,3 +430,4 @@
 - 2026-09-25 19:20:36 iteration 428: update research log
 - 2026-09-25 19:20:36 iteration 429: note tuning delta
 - 2026-09-25 19:20:36 iteration 430: record checkpoint
+- 2026-09-25 19:20:37 iteration 431: log control tweak
