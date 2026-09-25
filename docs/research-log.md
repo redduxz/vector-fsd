@@ -3071,3 +3071,4 @@
 - 2026-09-25 19:25:57 iteration 3069: record checkpoint
 - 2026-09-25 19:25:58 iteration 3070: jot safety review
 - 2026-09-25 19:25:58 iteration 3071: log control tweak
+- 2026-09-25 19:25:58 iteration 3072: append session line
