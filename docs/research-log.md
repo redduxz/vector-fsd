@@ -29436,3 +29436,4 @@
 - 2026-09-25 20:46:33 iteration 16969: jot safety review
 - 2026-09-25 20:46:33 iteration 16970: note tuning delta
 - 2026-09-25 20:46:33 iteration 16971: mark test run
+- 2026-09-25 20:46:33 iteration 16972: record sim observation
