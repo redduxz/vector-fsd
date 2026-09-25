@@ -33045,3 +33045,4 @@
 - 2026-09-25 20:58:48 iteration 20578: record sim observation
 - 2026-09-25 20:58:48 iteration 20579: mark test run
 - 2026-09-25 20:58:48 iteration 20580: note tuning delta
+- 2026-09-25 20:58:48 iteration 20581: note latency sample
