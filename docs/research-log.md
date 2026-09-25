@@ -2349,3 +2349,4 @@
 - 2026-09-25 19:24:25 iteration 2347: note tuning delta
 - 2026-09-25 19:24:25 iteration 2348: record sim observation
 - 2026-09-25 19:24:25 iteration 2349: record checkpoint
+- 2026-09-25 19:24:25 iteration 2350: log perception note
