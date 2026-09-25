@@ -32633,3 +32633,4 @@
 - 2026-09-25 20:57:20 iteration 20166: append session line
 - 2026-09-25 20:57:21 iteration 20167: mark test run
 - 2026-09-25 20:57:21 iteration 20168: log perception note
+- 2026-09-25 20:57:21 iteration 20169: log control tweak
