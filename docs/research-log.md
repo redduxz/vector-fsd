@@ -16289,3 +16289,4 @@
 - 2026-09-25 19:57:40 iteration 3822: log perception note
 - 2026-09-25 19:57:40 iteration 3823: log loop iteration
 - 2026-09-25 19:57:41 iteration 3824: update research log
+- 2026-09-25 19:57:41 iteration 3825: note tuning delta
