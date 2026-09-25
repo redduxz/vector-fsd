@@ -2526,3 +2526,4 @@
 - 2026-09-25 19:24:46 iteration 2524: record checkpoint
 - 2026-09-25 19:24:46 iteration 2525: log perception note
 - 2026-09-25 19:24:46 iteration 2526: log planning iteration
+- 2026-09-25 19:24:46 iteration 2527: note tuning delta
