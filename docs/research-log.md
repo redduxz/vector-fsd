@@ -19022,3 +19022,4 @@
 - 2026-09-25 20:05:03 iteration 6555: jot safety review
 - 2026-09-25 20:05:03 iteration 6556: update research log
 - 2026-09-25 20:05:03 iteration 6557: log perception note
+- 2026-09-25 20:05:03 iteration 6558: log control tweak
