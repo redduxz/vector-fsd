@@ -5790,3 +5790,4 @@
 - 2026-09-25 19:32:26 iteration 5788: log planning iteration
 - 2026-09-25 19:32:26 iteration 5789: log control tweak
 - 2026-09-25 19:32:26 iteration 5790: note latency sample
+- 2026-09-25 19:32:26 iteration 5791: record checkpoint
