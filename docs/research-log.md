@@ -34789,3 +34789,4 @@
 - 2026-09-25 21:05:11 iteration 22322: record checkpoint
 - 2026-09-25 21:05:11 iteration 22323: note latency sample
 - 2026-09-25 21:05:12 iteration 22324: log perception note
+- 2026-09-25 21:05:12 iteration 22325: note tuning delta
