@@ -9510,3 +9510,4 @@
 - 2026-09-25 19:41:05 iteration 9508: log control tweak
 - 2026-09-25 19:41:05 iteration 9509: log planning iteration
 - 2026-09-25 19:41:05 iteration 9510: mark test run
+- 2026-09-25 19:41:05 iteration 9511: note latency sample
