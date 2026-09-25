@@ -9995,3 +9995,4 @@
 - 2026-09-25 19:42:15 iteration 9993: log control tweak
 - 2026-09-25 19:42:16 iteration 9994: append session line
 - 2026-09-25 19:42:16 iteration 9995: jot safety review
+- 2026-09-25 19:42:16 iteration 9996: update research log
