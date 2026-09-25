@@ -3674,3 +3674,4 @@
 - 2026-09-25 19:27:23 iteration 3672: log control tweak
 - 2026-09-25 19:27:24 iteration 3673: log planning iteration
 - 2026-09-25 19:27:24 iteration 3674: update research log
+- 2026-09-25 19:27:24 iteration 3675: note tuning delta
