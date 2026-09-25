@@ -3920,3 +3920,4 @@
 - 2026-09-25 19:28:02 iteration 3918: log perception note
 - 2026-09-25 19:28:02 iteration 3919: note tuning delta
 - 2026-09-25 19:28:02 iteration 3920: jot safety review
+- 2026-09-25 19:28:02 iteration 3921: record sim observation
