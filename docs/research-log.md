@@ -8804,3 +8804,4 @@
 - 2026-09-25 19:39:31 iteration 8802: note tuning delta
 - 2026-09-25 19:39:32 iteration 8803: update research log
 - 2026-09-25 19:39:32 iteration 8804: mark test run
+- 2026-09-25 19:39:32 iteration 8805: log control tweak
