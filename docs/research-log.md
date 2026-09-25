@@ -10923,3 +10923,4 @@
 - 2026-09-25 19:44:21 iteration 10921: record sim observation
 - 2026-09-25 19:44:22 iteration 10922: mark test run
 - 2026-09-25 19:44:22 iteration 10923: log planning iteration
+- 2026-09-25 19:44:22 iteration 10924: log perception note
