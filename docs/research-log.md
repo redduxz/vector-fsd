@@ -8130,3 +8130,4 @@
 - 2026-09-25 19:37:55 iteration 8128: note tuning delta
 - 2026-09-25 19:37:55 iteration 8129: note tuning delta
 - 2026-09-25 19:37:55 iteration 8130: update research log
+- 2026-09-25 19:37:55 iteration 8131: log control tweak
