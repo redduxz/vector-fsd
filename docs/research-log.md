@@ -37572,3 +37572,4 @@
 - 2026-09-25 21:16:14 iteration 25105: update research log
 - 2026-09-25 21:16:14 iteration 25106: record checkpoint
 - 2026-09-25 21:16:14 iteration 25107: log perception note
+- 2026-09-25 21:16:14 iteration 25108: log control tweak
