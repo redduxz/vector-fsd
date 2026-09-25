@@ -10820,3 +10820,4 @@
 - 2026-09-25 19:44:07 iteration 10818: log loop iteration
 - 2026-09-25 19:44:07 iteration 10819: append session line
 - 2026-09-25 19:44:07 iteration 10820: log control tweak
+- 2026-09-25 19:44:07 iteration 10821: record checkpoint
