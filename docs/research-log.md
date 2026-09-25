@@ -180,3 +180,4 @@
 - 2026-09-25 19:20:08 iteration 178: log control tweak
 - 2026-09-25 19:20:08 iteration 179: update research log
 - 2026-09-25 19:20:08 iteration 180: log perception note
+- 2026-09-25 19:20:08 iteration 181: record sim observation
