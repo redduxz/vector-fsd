@@ -484,3 +484,4 @@
 - 2026-09-25 19:20:42 iteration 482: record checkpoint
 - 2026-09-25 19:20:42 iteration 483: append session line
 - 2026-09-25 19:20:43 iteration 484: log control tweak
+- 2026-09-25 19:20:43 iteration 485: note tuning delta
