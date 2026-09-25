@@ -24300,3 +24300,4 @@
 - 2026-09-25 20:28:05 iteration 11833: record checkpoint
 - 2026-09-25 20:28:05 iteration 11834: mark test run
 - 2026-09-25 20:28:05 iteration 11835: note tuning delta
+- 2026-09-25 20:28:05 iteration 11836: jot safety review
