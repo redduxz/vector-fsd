@@ -36676,3 +36676,4 @@
 - 2026-09-25 21:12:29 iteration 24209: append session line
 - 2026-09-25 21:12:29 iteration 24210: append session line
 - 2026-09-25 21:12:29 iteration 24211: log perception note
+- 2026-09-25 21:12:29 iteration 24212: record sim observation
