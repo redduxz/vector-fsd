@@ -17111,3 +17111,4 @@
 - 2026-09-25 19:59:45 iteration 4644: log planning iteration
 - 2026-09-25 19:59:45 iteration 4645: record checkpoint
 - 2026-09-25 19:59:45 iteration 4646: mark test run
+- 2026-09-25 19:59:46 iteration 4647: note tuning delta
