@@ -8540,3 +8540,4 @@
 - 2026-09-25 19:38:55 iteration 8538: append session line
 - 2026-09-25 19:38:55 iteration 8539: log planning iteration
 - 2026-09-25 19:38:55 iteration 8540: append session line
+- 2026-09-25 19:38:55 iteration 8541: note tuning delta
