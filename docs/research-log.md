@@ -4297,3 +4297,4 @@
 - 2026-09-25 19:28:58 iteration 4295: record checkpoint
 - 2026-09-25 19:28:58 iteration 4296: note latency sample
 - 2026-09-25 19:28:58 iteration 4297: append session line
+- 2026-09-25 19:28:58 iteration 4298: log loop iteration
