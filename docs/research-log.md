@@ -10127,3 +10127,4 @@
 - 2026-09-25 19:42:33 iteration 10125: log perception note
 - 2026-09-25 19:42:33 iteration 10126: jot safety review
 - 2026-09-25 19:42:33 iteration 10127: log control tweak
+- 2026-09-25 19:42:33 iteration 10128: note tuning delta
