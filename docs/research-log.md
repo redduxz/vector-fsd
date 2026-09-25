@@ -14491,3 +14491,4 @@
 - 2026-09-25 19:53:29 iteration 2024: update research log
 - 2026-09-25 19:53:29 iteration 2025: append session line
 - 2026-09-25 19:53:29 iteration 2026: jot safety review
+- 2026-09-25 19:53:29 iteration 2027: record sim observation
