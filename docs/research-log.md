@@ -31435,3 +31435,4 @@
 - 2026-09-25 20:53:21 iteration 18968: record checkpoint
 - 2026-09-25 20:53:21 iteration 18969: log perception note
 - 2026-09-25 20:53:22 iteration 18970: append session line
+- 2026-09-25 20:53:22 iteration 18971: note tuning delta
