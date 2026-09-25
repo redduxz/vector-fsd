@@ -27365,3 +27365,4 @@
 - 2026-09-25 20:39:48 iteration 14898: jot safety review
 - 2026-09-25 20:39:48 iteration 14899: log perception note
 - 2026-09-25 20:39:48 iteration 14900: log loop iteration
+- 2026-09-25 20:39:48 iteration 14901: note tuning delta
