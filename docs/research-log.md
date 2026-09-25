@@ -3602,3 +3602,4 @@
 - 2026-09-25 19:27:12 iteration 3600: jot safety review
 - 2026-09-25 19:27:12 iteration 3601: mark test run
 - 2026-09-25 19:27:12 iteration 3602: log control tweak
+- 2026-09-25 19:27:13 iteration 3603: log perception note
