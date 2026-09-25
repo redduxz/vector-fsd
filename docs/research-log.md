@@ -32911,3 +32911,4 @@
 - 2026-09-25 20:58:19 iteration 20444: mark test run
 - 2026-09-25 20:58:19 iteration 20445: log loop iteration
 - 2026-09-25 20:58:19 iteration 20446: record sim observation
+- 2026-09-25 20:58:19 iteration 20447: log control tweak
