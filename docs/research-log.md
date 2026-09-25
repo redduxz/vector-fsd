@@ -3630,3 +3630,4 @@
 - 2026-09-25 19:27:16 iteration 3628: log perception note
 - 2026-09-25 19:27:16 iteration 3629: log control tweak
 - 2026-09-25 19:27:16 iteration 3630: note latency sample
+- 2026-09-25 19:27:17 iteration 3631: record checkpoint
