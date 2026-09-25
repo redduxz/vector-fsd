@@ -7797,3 +7797,4 @@
 - 2026-09-25 19:37:12 iteration 7795: log perception note
 - 2026-09-25 19:37:12 iteration 7796: append session line
 - 2026-09-25 19:37:12 iteration 7797: note tuning delta
+- 2026-09-25 19:37:12 iteration 7798: update research log
