@@ -35735,3 +35735,4 @@
 - 2026-09-25 21:09:04 iteration 23268: note latency sample
 - 2026-09-25 21:09:04 iteration 23269: mark test run
 - 2026-09-25 21:09:04 iteration 23270: log perception note
+- 2026-09-25 21:09:04 iteration 23271: record sim observation
