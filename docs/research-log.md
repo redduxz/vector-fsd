@@ -20535,3 +20535,4 @@
 - 2026-09-25 20:12:18 iteration 8068: append session line
 - 2026-09-25 20:12:18 iteration 8069: note tuning delta
 - 2026-09-25 20:12:18 iteration 8070: mark test run
+- 2026-09-25 20:12:18 iteration 8071: jot safety review
