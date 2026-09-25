@@ -5730,3 +5730,4 @@
 - 2026-09-25 19:32:16 iteration 5728: log perception note
 - 2026-09-25 19:32:16 iteration 5729: log planning iteration
 - 2026-09-25 19:32:16 iteration 5730: jot safety review
+- 2026-09-25 19:32:16 iteration 5731: note latency sample
