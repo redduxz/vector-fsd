@@ -18549,3 +18549,4 @@
 - 2026-09-25 20:03:22 iteration 6082: jot safety review
 - 2026-09-25 20:03:22 iteration 6083: note latency sample
 - 2026-09-25 20:03:22 iteration 6084: log control tweak
+- 2026-09-25 20:03:23 iteration 6085: note tuning delta
