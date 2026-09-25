@@ -380,3 +380,4 @@
 - 2026-09-25 19:20:31 iteration 378: record sim observation
 - 2026-09-25 19:20:31 iteration 379: log perception note
 - 2026-09-25 19:20:31 iteration 380: log control tweak
+- 2026-09-25 19:20:31 iteration 381: append session line
