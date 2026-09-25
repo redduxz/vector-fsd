@@ -7021,3 +7021,4 @@
 - 2026-09-25 19:35:24 iteration 7019: update research log
 - 2026-09-25 19:35:24 iteration 7020: note latency sample
 - 2026-09-25 19:35:24 iteration 7021: record sim observation
+- 2026-09-25 19:35:24 iteration 7022: log control tweak
