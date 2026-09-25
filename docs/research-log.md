@@ -8936,3 +8936,4 @@
 - 2026-09-25 19:39:50 iteration 8934: append session line
 - 2026-09-25 19:39:50 iteration 8935: mark test run
 - 2026-09-25 19:39:50 iteration 8936: record sim observation
+- 2026-09-25 19:39:50 iteration 8937: log perception note
