@@ -10783,3 +10783,4 @@
 - 2026-09-25 19:44:02 iteration 10781: log perception note
 - 2026-09-25 19:44:02 iteration 10782: jot safety review
 - 2026-09-25 19:44:02 iteration 10783: note tuning delta
+- 2026-09-25 19:44:02 iteration 10784: log perception note
