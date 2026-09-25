@@ -940,3 +940,4 @@
 - 2026-09-25 19:21:35 iteration 938: log planning iteration
 - 2026-09-25 19:21:35 iteration 939: record checkpoint
 - 2026-09-25 19:21:35 iteration 940: update research log
+- 2026-09-25 19:21:35 iteration 941: note tuning delta
