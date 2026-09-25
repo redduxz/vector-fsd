@@ -9576,3 +9576,4 @@
 - 2026-09-25 19:41:13 iteration 9574: note latency sample
 - 2026-09-25 19:41:13 iteration 9575: record checkpoint
 - 2026-09-25 19:41:13 iteration 9576: update research log
+- 2026-09-25 19:41:13 iteration 9577: log control tweak
