@@ -2784,3 +2784,4 @@
 - 2026-09-25 19:25:22 iteration 2782: record sim observation
 - 2026-09-25 19:25:22 iteration 2783: log loop iteration
 - 2026-09-25 19:25:22 iteration 2784: note tuning delta
+- 2026-09-25 19:25:23 iteration 2785: jot safety review
