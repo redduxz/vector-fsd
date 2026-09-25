@@ -39629,3 +39629,4 @@
 - 2026-09-25 21:23:13 iteration 27162: append session line
 - 2026-09-25 21:23:13 iteration 27163: log loop iteration
 - 2026-09-25 21:23:13 iteration 27164: log planning iteration
+- 2026-09-25 21:23:13 iteration 27165: record sim observation
