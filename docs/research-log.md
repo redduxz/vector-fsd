@@ -13048,3 +13048,4 @@
 - 2026-09-25 19:50:12 iteration 581: append session line
 - 2026-09-25 19:50:12 iteration 582: mark test run
 - 2026-09-25 19:50:12 iteration 583: jot safety review
+- 2026-09-25 19:50:12 iteration 584: record sim observation
