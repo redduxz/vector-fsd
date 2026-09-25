@@ -6083,3 +6083,4 @@
 - 2026-09-25 19:33:07 iteration 6081: update research log
 - 2026-09-25 19:33:08 iteration 6082: log perception note
 - 2026-09-25 19:33:08 iteration 6083: note latency sample
+- 2026-09-25 19:33:08 iteration 6084: log control tweak
