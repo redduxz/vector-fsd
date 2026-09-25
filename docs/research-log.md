@@ -6608,3 +6608,4 @@
 - 2026-09-25 19:34:27 iteration 6606: mark test run
 - 2026-09-25 19:34:27 iteration 6607: log planning iteration
 - 2026-09-25 19:34:27 iteration 6608: log planning iteration
+- 2026-09-25 19:34:27 iteration 6609: log control tweak
