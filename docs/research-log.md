@@ -18297,3 +18297,4 @@
 - 2026-09-25 20:02:40 iteration 5830: mark test run
 - 2026-09-25 20:02:40 iteration 5831: append session line
 - 2026-09-25 20:02:40 iteration 5832: mark test run
+- 2026-09-25 20:02:40 iteration 5833: record checkpoint
