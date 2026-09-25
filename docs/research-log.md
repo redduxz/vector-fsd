@@ -9251,3 +9251,4 @@
 - 2026-09-25 19:40:32 iteration 9249: log planning iteration
 - 2026-09-25 19:40:32 iteration 9250: record checkpoint
 - 2026-09-25 19:40:32 iteration 9251: append session line
+- 2026-09-25 19:40:32 iteration 9252: note tuning delta
