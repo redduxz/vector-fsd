@@ -15593,3 +15593,4 @@
 - 2026-09-25 19:56:05 iteration 3126: note latency sample
 - 2026-09-25 19:56:05 iteration 3127: record checkpoint
 - 2026-09-25 19:56:06 iteration 3128: note tuning delta
+- 2026-09-25 19:56:06 iteration 3129: log control tweak
