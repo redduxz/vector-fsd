@@ -4399,3 +4399,4 @@
 - 2026-09-25 19:29:12 iteration 4397: note tuning delta
 - 2026-09-25 19:29:12 iteration 4398: jot safety review
 - 2026-09-25 19:29:12 iteration 4399: log perception note
+- 2026-09-25 19:29:12 iteration 4400: append session line
