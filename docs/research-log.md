@@ -10094,3 +10094,4 @@
 - 2026-09-25 19:42:28 iteration 10092: update research log
 - 2026-09-25 19:42:29 iteration 10093: record sim observation
 - 2026-09-25 19:42:29 iteration 10094: append session line
+- 2026-09-25 19:42:29 iteration 10095: note tuning delta
