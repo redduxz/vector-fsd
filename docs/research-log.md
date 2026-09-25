@@ -11849,3 +11849,4 @@
 - 2026-09-25 19:46:32 iteration 11847: jot safety review
 - 2026-09-25 19:46:33 iteration 11848: log perception note
 - 2026-09-25 19:46:33 iteration 11849: note latency sample
+- 2026-09-25 19:46:33 iteration 11850: log control tweak
