@@ -8565,3 +8565,4 @@
 - 2026-09-25 19:38:58 iteration 8563: note tuning delta
 - 2026-09-25 19:38:58 iteration 8564: note tuning delta
 - 2026-09-25 19:38:59 iteration 8565: log control tweak
+- 2026-09-25 19:38:59 iteration 8566: update research log
