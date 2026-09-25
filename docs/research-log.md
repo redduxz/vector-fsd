@@ -35,3 +35,4 @@
 - 2026-09-25 19:19:51 iteration 33: log loop iteration
 - 2026-09-25 19:19:51 iteration 34: update research log
 - 2026-09-25 19:19:51 iteration 35: log planning iteration
+- 2026-09-25 19:19:51 iteration 36: log control tweak
