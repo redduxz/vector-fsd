@@ -8789,3 +8789,4 @@
 - 2026-09-25 19:39:29 iteration 8787: append session line
 - 2026-09-25 19:39:30 iteration 8788: log planning iteration
 - 2026-09-25 19:39:30 iteration 8789: record checkpoint
+- 2026-09-25 19:39:30 iteration 8790: log control tweak
