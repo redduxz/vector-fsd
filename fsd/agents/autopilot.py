@@ -528,6 +528,7 @@ class AutopilotAgent:
         self._recover_ticks = 0
         self._recover_steer = 0.0
         self._relocations = 0
+        self._recorder = None
         self._setup_done = False
 
     # ------------------------------------------------------------------ setup
@@ -977,6 +978,15 @@ class AutopilotAgent:
         # 8. actuate
         self._apply(cmd)
 
+        # record (camera frame, applied command) for the imitation track
+        if self._recorder is not None:
+            try:
+                cam = _reading_data(sensors, "camera_rgb")
+                if cam is not None and cmd is not None:
+                    self._recorder.record(np.asarray(cam), cmd, ego.speed)
+            except Exception:
+                log.debug("recorder write failed", exc_info=True)
+
         # sim-time collision/lane events -> logged for the safety audit trail
         events = {}
         if self.vehicle is not None:
@@ -996,6 +1006,16 @@ class AutopilotAgent:
                 self._synthetic_ego.apply(cmd)
         elif self.vehicle is not None:
             self.vehicle.apply(cmd)
+
+    def enable_recording(self, out_dir: str) -> None:
+        """Log (camera observation, applied command) pairs to .npz episodes."""
+        try:
+            from fsd.ml.data.recorder import RunRecorder
+        except Exception as exc:
+            log.warning("recorder unavailable: %s", exc)
+            return
+        self._recorder = RunRecorder(out_dir=out_dir)
+        log.info("recording (obs, act) pairs -> %s", out_dir)
 
     # ------------------------------------------------------------------- run
 
@@ -1065,6 +1085,12 @@ class AutopilotAgent:
     def cleanup(self) -> None:
         """Destroy actors, restore async settings, stop the key listener."""
         self.override.stop()
+        if self._recorder is not None:
+            try:
+                self._recorder.close()
+            except Exception:
+                pass
+            self._recorder = None
         # Async mode first so destroy commands are processed immediately.
         try:
             if self.traffic is not None:
@@ -1126,6 +1152,8 @@ def main(argv: Optional[List[str]] = None) -> int:
                    help="seconds of sim time to run (alternative to --ticks)")
     p.add_argument("--fast", action="store_true",
                    help="disable real-time pacing")
+    p.add_argument("--record", default="",
+                   help="directory to log (obs, act) .npz episodes into")
     args = p.parse_args(argv)
 
     cfg = Config.load(args.config)
@@ -1146,6 +1174,8 @@ def main(argv: Optional[List[str]] = None) -> int:
         log.exception("setup failed")
         return 2
 
+    if args.record:
+        agent.enable_recording(args.record)
     try:
         result = agent.run(max_ticks=args.ticks,
                            duration_s=args.duration,
