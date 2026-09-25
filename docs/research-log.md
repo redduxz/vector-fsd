@@ -12296,3 +12296,4 @@
 - 2026-09-25 19:47:29 iteration 12294: log loop iteration
 - 2026-09-25 19:47:29 iteration 12295: note latency sample
 - 2026-09-25 19:47:29 iteration 12296: record checkpoint
+- 2026-09-25 19:47:30 iteration 12297: log perception note
