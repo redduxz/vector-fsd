@@ -9382,3 +9382,4 @@
 - 2026-09-25 19:40:49 iteration 9380: record checkpoint
 - 2026-09-25 19:40:49 iteration 9381: jot safety review
 - 2026-09-25 19:40:49 iteration 9382: log perception note
+- 2026-09-25 19:40:49 iteration 9383: log control tweak
