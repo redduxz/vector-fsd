@@ -6719,3 +6719,4 @@
 - 2026-09-25 19:34:42 iteration 6717: log loop iteration
 - 2026-09-25 19:34:43 iteration 6718: record sim observation
 - 2026-09-25 19:34:43 iteration 6719: log loop iteration
+- 2026-09-25 19:34:43 iteration 6720: note latency sample
