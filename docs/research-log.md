@@ -20181,3 +20181,4 @@
 - 2026-09-25 20:10:15 iteration 7714: update research log
 - 2026-09-25 20:10:15 iteration 7715: note latency sample
 - 2026-09-25 20:10:15 iteration 7716: append session line
+- 2026-09-25 20:10:16 iteration 7717: record sim observation
