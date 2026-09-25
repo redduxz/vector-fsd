@@ -32408,3 +32408,4 @@
 - 2026-09-25 20:56:35 iteration 19941: append session line
 - 2026-09-25 20:56:35 iteration 19942: record checkpoint
 - 2026-09-25 20:56:35 iteration 19943: note tuning delta
+- 2026-09-25 20:56:35 iteration 19944: note latency sample
