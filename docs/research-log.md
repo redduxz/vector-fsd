@@ -10903,3 +10903,4 @@
 - 2026-09-25 19:44:19 iteration 10901: update research log
 - 2026-09-25 19:44:19 iteration 10902: jot safety review
 - 2026-09-25 19:44:19 iteration 10903: mark test run
+- 2026-09-25 19:44:19 iteration 10904: log control tweak
