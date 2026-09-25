@@ -31181,3 +31181,4 @@
 - 2026-09-25 20:52:13 iteration 18714: jot safety review
 - 2026-09-25 20:52:13 iteration 18715: append session line
 - 2026-09-25 20:52:13 iteration 18716: log perception note
+- 2026-09-25 20:52:13 iteration 18717: note tuning delta
