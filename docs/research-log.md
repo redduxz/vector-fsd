@@ -8115,3 +8115,4 @@
 - 2026-09-25 19:37:53 iteration 8113: record sim observation
 - 2026-09-25 19:37:53 iteration 8114: mark test run
 - 2026-09-25 19:37:53 iteration 8115: log loop iteration
+- 2026-09-25 19:37:53 iteration 8116: note tuning delta
