@@ -9125,3 +9125,4 @@
 - 2026-09-25 19:40:16 iteration 9123: jot safety review
 - 2026-09-25 19:40:16 iteration 9124: log control tweak
 - 2026-09-25 19:40:16 iteration 9125: record checkpoint
+- 2026-09-25 19:40:16 iteration 9126: update research log
