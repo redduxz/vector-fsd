@@ -2649,3 +2649,4 @@
 - 2026-09-25 19:25:04 iteration 2647: note tuning delta
 - 2026-09-25 19:25:04 iteration 2648: log perception note
 - 2026-09-25 19:25:04 iteration 2649: jot safety review
+- 2026-09-25 19:25:04 iteration 2650: record sim observation
