@@ -2775,3 +2775,4 @@
 - 2026-09-25 19:25:21 iteration 2773: log loop iteration
 - 2026-09-25 19:25:21 iteration 2774: log control tweak
 - 2026-09-25 19:25:21 iteration 2775: mark test run
+- 2026-09-25 19:25:21 iteration 2776: note latency sample
