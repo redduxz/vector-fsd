@@ -12964,3 +12964,4 @@
 - 2026-09-25 19:50:00 iteration 497: note tuning delta
 - 2026-09-25 19:50:01 iteration 498: mark test run
 - 2026-09-25 19:50:01 iteration 499: record sim observation
+- 2026-09-25 19:50:01 iteration 500: log loop iteration
