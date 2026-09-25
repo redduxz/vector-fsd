@@ -17131,3 +17131,4 @@
 - 2026-09-25 19:59:48 iteration 4664: jot safety review
 - 2026-09-25 19:59:48 iteration 4665: update research log
 - 2026-09-25 19:59:48 iteration 4666: note tuning delta
+- 2026-09-25 19:59:48 iteration 4667: log perception note
