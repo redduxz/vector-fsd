@@ -2992,3 +2992,4 @@
 - 2026-09-25 19:25:48 iteration 2990: append session line
 - 2026-09-25 19:25:48 iteration 2991: log planning iteration
 - 2026-09-25 19:25:49 iteration 2992: note tuning delta
+- 2026-09-25 19:25:49 iteration 2993: record sim observation
