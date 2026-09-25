@@ -17504,3 +17504,4 @@
 - 2026-09-25 20:00:40 iteration 5037: log perception note
 - 2026-09-25 20:00:40 iteration 5038: record checkpoint
 - 2026-09-25 20:00:41 iteration 5039: log control tweak
+- 2026-09-25 20:00:41 iteration 5040: record sim observation
