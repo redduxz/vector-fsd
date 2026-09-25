@@ -1105,3 +1105,4 @@
 - 2026-09-25 19:21:54 iteration 1103: update research log
 - 2026-09-25 19:21:54 iteration 1104: log loop iteration
 - 2026-09-25 19:21:54 iteration 1105: update research log
+- 2026-09-25 19:21:54 iteration 1106: log control tweak
