@@ -17202,3 +17202,4 @@
 - 2026-09-25 19:59:58 iteration 4735: log loop iteration
 - 2026-09-25 19:59:58 iteration 4736: record sim observation
 - 2026-09-25 19:59:58 iteration 4737: append session line
+- 2026-09-25 19:59:58 iteration 4738: note tuning delta
