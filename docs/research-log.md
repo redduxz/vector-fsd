@@ -2973,3 +2973,4 @@
 - 2026-09-25 19:25:46 iteration 2971: update research log
 - 2026-09-25 19:25:46 iteration 2972: record checkpoint
 - 2026-09-25 19:25:46 iteration 2973: update research log
+- 2026-09-25 19:25:46 iteration 2974: note latency sample
