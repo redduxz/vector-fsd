@@ -38499,3 +38499,4 @@
 - 2026-09-25 21:19:29 iteration 26032: record sim observation
 - 2026-09-25 21:19:29 iteration 26033: log loop iteration
 - 2026-09-25 21:19:29 iteration 26034: record sim observation
+- 2026-09-25 21:19:29 iteration 26035: note latency sample
