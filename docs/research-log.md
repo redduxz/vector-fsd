@@ -587,3 +587,4 @@
 - 2026-09-25 19:20:54 iteration 585: note tuning delta
 - 2026-09-25 19:20:55 iteration 586: record checkpoint
 - 2026-09-25 19:20:55 iteration 587: jot safety review
+- 2026-09-25 19:20:55 iteration 588: log perception note
