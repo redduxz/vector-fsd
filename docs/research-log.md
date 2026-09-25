@@ -18450,3 +18450,4 @@
 - 2026-09-25 20:03:06 iteration 5983: append session line
 - 2026-09-25 20:03:06 iteration 5984: update research log
 - 2026-09-25 20:03:07 iteration 5985: note tuning delta
+- 2026-09-25 20:03:07 iteration 5986: log control tweak
