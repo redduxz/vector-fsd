@@ -10053,3 +10053,4 @@
 - 2026-09-25 19:42:23 iteration 10051: log perception note
 - 2026-09-25 19:42:23 iteration 10052: append session line
 - 2026-09-25 19:42:23 iteration 10053: record sim observation
+- 2026-09-25 19:42:23 iteration 10054: log control tweak
