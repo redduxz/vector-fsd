@@ -38373,3 +38373,4 @@
 - 2026-09-25 21:19:06 iteration 25906: log loop iteration
 - 2026-09-25 21:19:06 iteration 25907: log loop iteration
 - 2026-09-25 21:19:06 iteration 25908: record checkpoint
+- 2026-09-25 21:19:06 iteration 25909: record sim observation
