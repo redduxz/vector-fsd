@@ -3477,3 +3477,4 @@
 - 2026-09-25 19:26:54 iteration 3475: log loop iteration
 - 2026-09-25 19:26:55 iteration 3476: log control tweak
 - 2026-09-25 19:26:55 iteration 3477: log loop iteration
+- 2026-09-25 19:26:55 iteration 3478: log perception note
