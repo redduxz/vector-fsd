@@ -123,3 +123,4 @@
 - 2026-09-25 19:20:01 iteration 121: note tuning delta
 - 2026-09-25 19:20:01 iteration 122: log loop iteration
 - 2026-09-25 19:20:01 iteration 123: log control tweak
+- 2026-09-25 19:20:01 iteration 124: note latency sample
