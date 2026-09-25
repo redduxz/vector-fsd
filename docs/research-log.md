@@ -6578,3 +6578,4 @@
 - 2026-09-25 19:34:23 iteration 6576: note latency sample
 - 2026-09-25 19:34:23 iteration 6577: mark test run
 - 2026-09-25 19:34:23 iteration 6578: log perception note
+- 2026-09-25 19:34:23 iteration 6579: log control tweak
