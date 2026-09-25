@@ -4823,3 +4823,4 @@
 - 2026-09-25 19:30:10 iteration 4821: log planning iteration
 - 2026-09-25 19:30:10 iteration 4822: record sim observation
 - 2026-09-25 19:30:10 iteration 4823: record checkpoint
+- 2026-09-25 19:30:10 iteration 4824: log control tweak
