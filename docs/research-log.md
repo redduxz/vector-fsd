@@ -9600,3 +9600,4 @@
 - 2026-09-25 19:41:16 iteration 9598: record sim observation
 - 2026-09-25 19:41:16 iteration 9599: note tuning delta
 - 2026-09-25 19:41:16 iteration 9600: log planning iteration
+- 2026-09-25 19:41:16 iteration 9601: log loop iteration
