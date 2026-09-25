@@ -1988,3 +1988,4 @@
 - 2026-09-25 19:23:36 iteration 1986: record sim observation
 - 2026-09-25 19:23:37 iteration 1987: mark test run
 - 2026-09-25 19:23:37 iteration 1988: log planning iteration
+- 2026-09-25 19:23:37 iteration 1989: log control tweak
