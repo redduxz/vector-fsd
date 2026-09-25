@@ -10940,3 +10940,4 @@
 - 2026-09-25 19:44:24 iteration 10938: jot safety review
 - 2026-09-25 19:44:24 iteration 10939: mark test run
 - 2026-09-25 19:44:24 iteration 10940: log control tweak
+- 2026-09-25 19:44:24 iteration 10941: jot safety review
