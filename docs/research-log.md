@@ -17406,3 +17406,4 @@
 - 2026-09-25 20:00:27 iteration 4939: record checkpoint
 - 2026-09-25 20:00:27 iteration 4940: log planning iteration
 - 2026-09-25 20:00:27 iteration 4941: append session line
+- 2026-09-25 20:00:27 iteration 4942: log control tweak
