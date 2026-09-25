@@ -15205,3 +15205,4 @@
 - 2026-09-25 19:55:13 iteration 2738: log loop iteration
 - 2026-09-25 19:55:13 iteration 2739: update research log
 - 2026-09-25 19:55:13 iteration 2740: append session line
+- 2026-09-25 19:55:13 iteration 2741: log control tweak
