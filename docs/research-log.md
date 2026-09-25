@@ -29254,3 +29254,4 @@
 - 2026-09-25 20:45:56 iteration 16787: note latency sample
 - 2026-09-25 20:45:57 iteration 16788: append session line
 - 2026-09-25 20:45:57 iteration 16789: update research log
+- 2026-09-25 20:45:57 iteration 16790: note tuning delta
