@@ -12190,3 +12190,4 @@
 - 2026-09-25 19:47:16 iteration 12188: note tuning delta
 - 2026-09-25 19:47:16 iteration 12189: mark test run
 - 2026-09-25 19:47:16 iteration 12190: record checkpoint
+- 2026-09-25 19:47:16 iteration 12191: log control tweak
