@@ -3983,3 +3983,4 @@
 - 2026-09-25 19:28:10 iteration 3981: record checkpoint
 - 2026-09-25 19:28:10 iteration 3982: mark test run
 - 2026-09-25 19:28:10 iteration 3983: note tuning delta
+- 2026-09-25 19:28:11 iteration 3984: log loop iteration
