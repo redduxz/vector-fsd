@@ -16568,3 +16568,4 @@
 - 2026-09-25 19:58:19 iteration 4101: jot safety review
 - 2026-09-25 19:58:19 iteration 4102: record sim observation
 - 2026-09-25 19:58:19 iteration 4103: jot safety review
+- 2026-09-25 19:58:20 iteration 4104: log control tweak
