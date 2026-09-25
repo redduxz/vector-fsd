@@ -6712,3 +6712,4 @@
 - 2026-09-25 19:34:42 iteration 6710: note tuning delta
 - 2026-09-25 19:34:42 iteration 6711: log planning iteration
 - 2026-09-25 19:34:42 iteration 6712: record sim observation
+- 2026-09-25 19:34:42 iteration 6713: log control tweak
