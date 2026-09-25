@@ -10065,3 +10065,4 @@
 - 2026-09-25 19:42:24 iteration 10063: log control tweak
 - 2026-09-25 19:42:24 iteration 10064: note tuning delta
 - 2026-09-25 19:42:24 iteration 10065: log loop iteration
+- 2026-09-25 19:42:25 iteration 10066: jot safety review
