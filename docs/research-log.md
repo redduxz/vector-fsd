@@ -9923,3 +9923,4 @@
 - 2026-09-25 19:42:06 iteration 9921: log planning iteration
 - 2026-09-25 19:42:06 iteration 9922: append session line
 - 2026-09-25 19:42:06 iteration 9923: mark test run
+- 2026-09-25 19:42:06 iteration 9924: note latency sample
