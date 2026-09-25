@@ -565,3 +565,4 @@
 - 2026-09-25 19:20:52 iteration 563: log control tweak
 - 2026-09-25 19:20:52 iteration 564: record sim observation
 - 2026-09-25 19:20:52 iteration 565: update research log
+- 2026-09-25 19:20:52 iteration 566: note latency sample
