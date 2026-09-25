@@ -4220,3 +4220,4 @@
 - 2026-09-25 19:28:46 iteration 4218: log loop iteration
 - 2026-09-25 19:28:46 iteration 4219: log loop iteration
 - 2026-09-25 19:28:46 iteration 4220: record sim observation
+- 2026-09-25 19:28:46 iteration 4221: mark test run
