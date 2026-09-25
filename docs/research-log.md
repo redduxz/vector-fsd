@@ -3125,3 +3125,4 @@
 - 2026-09-25 19:26:05 iteration 3123: update research log
 - 2026-09-25 19:26:05 iteration 3124: append session line
 - 2026-09-25 19:26:05 iteration 3125: log control tweak
+- 2026-09-25 19:26:05 iteration 3126: log perception note
