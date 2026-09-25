@@ -8952,3 +8952,4 @@
 - 2026-09-25 19:39:52 iteration 8950: log loop iteration
 - 2026-09-25 19:39:52 iteration 8951: log planning iteration
 - 2026-09-25 19:39:52 iteration 8952: log planning iteration
+- 2026-09-25 19:39:52 iteration 8953: note latency sample
