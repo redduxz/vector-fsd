@@ -3833,3 +3833,4 @@
 - 2026-09-25 19:27:50 iteration 3831: log loop iteration
 - 2026-09-25 19:27:50 iteration 3832: log loop iteration
 - 2026-09-25 19:27:50 iteration 3833: jot safety review
+- 2026-09-25 19:27:50 iteration 3834: note tuning delta
