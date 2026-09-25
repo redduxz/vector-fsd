@@ -4596,3 +4596,4 @@
 - 2026-09-25 19:29:38 iteration 4594: log loop iteration
 - 2026-09-25 19:29:39 iteration 4595: jot safety review
 - 2026-09-25 19:29:39 iteration 4596: mark test run
+- 2026-09-25 19:29:39 iteration 4597: log perception note
