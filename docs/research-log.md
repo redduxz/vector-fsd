@@ -23058,3 +23058,4 @@
 - 2026-09-25 20:23:00 iteration 10591: append session line
 - 2026-09-25 20:23:01 iteration 10592: note tuning delta
 - 2026-09-25 20:23:01 iteration 10593: update research log
+- 2026-09-25 20:23:01 iteration 10594: log control tweak
