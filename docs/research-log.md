@@ -17448,3 +17448,4 @@
 - 2026-09-25 20:00:33 iteration 4981: record sim observation
 - 2026-09-25 20:00:33 iteration 4982: log control tweak
 - 2026-09-25 20:00:33 iteration 4983: append session line
+- 2026-09-25 20:00:33 iteration 4984: record checkpoint
