@@ -20816,3 +20816,4 @@
 - 2026-09-25 20:13:27 iteration 8349: jot safety review
 - 2026-09-25 20:13:27 iteration 8350: update research log
 - 2026-09-25 20:13:27 iteration 8351: note tuning delta
+- 2026-09-25 20:13:27 iteration 8352: note latency sample
