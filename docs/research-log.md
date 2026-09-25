@@ -30168,3 +30168,4 @@
 - 2026-09-25 20:48:53 iteration 17701: log perception note
 - 2026-09-25 20:48:54 iteration 17702: log perception note
 - 2026-09-25 20:48:54 iteration 17703: log planning iteration
+- 2026-09-25 20:48:54 iteration 17704: log control tweak
