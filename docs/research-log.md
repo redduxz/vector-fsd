@@ -4423,3 +4423,4 @@
 - 2026-09-25 19:29:15 iteration 4421: record checkpoint
 - 2026-09-25 19:29:15 iteration 4422: log loop iteration
 - 2026-09-25 19:29:15 iteration 4423: append session line
+- 2026-09-25 19:29:15 iteration 4424: log control tweak
