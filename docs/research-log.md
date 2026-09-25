@@ -15718,3 +15718,4 @@
 - 2026-09-25 19:56:22 iteration 3251: log control tweak
 - 2026-09-25 19:56:22 iteration 3252: record checkpoint
 - 2026-09-25 19:56:22 iteration 3253: log loop iteration
+- 2026-09-25 19:56:22 iteration 3254: record sim observation
