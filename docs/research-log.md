@@ -520,3 +520,4 @@
 - 2026-09-25 19:20:47 iteration 518: note tuning delta
 - 2026-09-25 19:20:47 iteration 519: log planning iteration
 - 2026-09-25 19:20:47 iteration 520: note tuning delta
+- 2026-09-25 19:20:47 iteration 521: jot safety review
