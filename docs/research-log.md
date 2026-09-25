@@ -5382,3 +5382,4 @@
 - 2026-09-25 19:31:27 iteration 5380: log loop iteration
 - 2026-09-25 19:31:27 iteration 5381: log perception note
 - 2026-09-25 19:31:27 iteration 5382: mark test run
+- 2026-09-25 19:31:27 iteration 5383: log control tweak
