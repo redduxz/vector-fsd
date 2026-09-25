@@ -8690,3 +8690,4 @@
 - 2026-09-25 19:39:16 iteration 8688: log control tweak
 - 2026-09-25 19:39:16 iteration 8689: log planning iteration
 - 2026-09-25 19:39:16 iteration 8690: append session line
+- 2026-09-25 19:39:16 iteration 8691: log perception note
