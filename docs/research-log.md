@@ -10838,3 +10838,4 @@
 - 2026-09-25 19:44:09 iteration 10836: mark test run
 - 2026-09-25 19:44:10 iteration 10837: update research log
 - 2026-09-25 19:44:10 iteration 10838: mark test run
+- 2026-09-25 19:44:10 iteration 10839: note tuning delta
