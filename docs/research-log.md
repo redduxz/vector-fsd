@@ -23229,3 +23229,4 @@
 - 2026-09-25 20:23:47 iteration 10762: update research log
 - 2026-09-25 20:23:47 iteration 10763: note latency sample
 - 2026-09-25 20:23:47 iteration 10764: log loop iteration
+- 2026-09-25 20:23:47 iteration 10765: note tuning delta
