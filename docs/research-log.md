@@ -4589,3 +4589,4 @@
 - 2026-09-25 19:29:38 iteration 4587: log loop iteration
 - 2026-09-25 19:29:38 iteration 4588: log control tweak
 - 2026-09-25 19:29:38 iteration 4589: record sim observation
+- 2026-09-25 19:29:38 iteration 4590: mark test run
