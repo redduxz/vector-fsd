@@ -38258,3 +38258,4 @@
 - 2026-09-25 21:18:45 iteration 25791: update research log
 - 2026-09-25 21:18:45 iteration 25792: record sim observation
 - 2026-09-25 21:18:45 iteration 25793: log control tweak
+- 2026-09-25 21:18:46 iteration 25794: note tuning delta
