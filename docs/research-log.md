@@ -185,3 +185,4 @@
 - 2026-09-25 19:20:08 iteration 183: note tuning delta
 - 2026-09-25 19:20:08 iteration 184: append session line
 - 2026-09-25 19:20:08 iteration 185: note tuning delta
+- 2026-09-25 19:20:08 iteration 186: log perception note
