@@ -17195,3 +17195,4 @@
 - 2026-09-25 19:59:57 iteration 4728: mark test run
 - 2026-09-25 19:59:57 iteration 4729: mark test run
 - 2026-09-25 19:59:57 iteration 4730: mark test run
+- 2026-09-25 19:59:57 iteration 4731: log control tweak
