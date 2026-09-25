@@ -2998,3 +2998,4 @@
 - 2026-09-25 19:25:49 iteration 2996: log loop iteration
 - 2026-09-25 19:25:49 iteration 2997: update research log
 - 2026-09-25 19:25:49 iteration 2998: record checkpoint
+- 2026-09-25 19:25:49 iteration 2999: log control tweak
