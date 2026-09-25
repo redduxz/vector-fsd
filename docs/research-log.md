@@ -4238,3 +4238,4 @@
 - 2026-09-25 19:28:48 iteration 4236: record checkpoint
 - 2026-09-25 19:28:49 iteration 4237: append session line
 - 2026-09-25 19:28:49 iteration 4238: log control tweak
+- 2026-09-25 19:28:49 iteration 4239: log loop iteration
