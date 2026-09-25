@@ -178,3 +178,4 @@
 - 2026-09-25 19:20:07 iteration 176: note latency sample
 - 2026-09-25 19:20:07 iteration 177: note tuning delta
 - 2026-09-25 19:20:08 iteration 178: log control tweak
+- 2026-09-25 19:20:08 iteration 179: update research log
