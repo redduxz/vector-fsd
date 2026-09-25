@@ -36788,3 +36788,4 @@
 - 2026-09-25 21:13:18 iteration 24321: mark test run
 - 2026-09-25 21:13:19 iteration 24322: append session line
 - 2026-09-25 21:13:19 iteration 24323: log planning iteration
+- 2026-09-25 21:13:19 iteration 24324: note latency sample
