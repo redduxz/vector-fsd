@@ -560,3 +560,4 @@
 - 2026-09-25 19:20:51 iteration 558: record checkpoint
 - 2026-09-25 19:20:51 iteration 559: append session line
 - 2026-09-25 19:20:52 iteration 560: record checkpoint
+- 2026-09-25 19:20:52 iteration 561: log perception note
