@@ -37771,3 +37771,4 @@
 - 2026-09-25 21:16:57 iteration 25304: mark test run
 - 2026-09-25 21:16:57 iteration 25305: log control tweak
 - 2026-09-25 21:16:57 iteration 25306: append session line
+- 2026-09-25 21:16:57 iteration 25307: note latency sample
