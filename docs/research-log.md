@@ -13145,3 +13145,4 @@
 - 2026-09-25 19:50:25 iteration 678: update research log
 - 2026-09-25 19:50:25 iteration 679: mark test run
 - 2026-09-25 19:50:26 iteration 680: log perception note
+- 2026-09-25 19:50:26 iteration 681: log control tweak
