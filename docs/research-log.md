@@ -5127,3 +5127,4 @@
 - 2026-09-25 19:30:51 iteration 5125: record sim observation
 - 2026-09-25 19:30:51 iteration 5126: note tuning delta
 - 2026-09-25 19:30:52 iteration 5127: log control tweak
+- 2026-09-25 19:30:52 iteration 5128: update research log
