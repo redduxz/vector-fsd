@@ -6810,3 +6810,4 @@
 - 2026-09-25 19:34:54 iteration 6808: record checkpoint
 - 2026-09-25 19:34:54 iteration 6809: note tuning delta
 - 2026-09-25 19:34:55 iteration 6810: log control tweak
+- 2026-09-25 19:34:55 iteration 6811: log perception note
