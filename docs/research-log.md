@@ -7329,3 +7329,4 @@
 - 2026-09-25 19:36:07 iteration 7327: jot safety review
 - 2026-09-25 19:36:07 iteration 7328: append session line
 - 2026-09-25 19:36:07 iteration 7329: log control tweak
+- 2026-09-25 19:36:07 iteration 7330: note tuning delta
