@@ -4950,3 +4950,4 @@
 - 2026-09-25 19:30:27 iteration 4948: log perception note
 - 2026-09-25 19:30:27 iteration 4949: log loop iteration
 - 2026-09-25 19:30:28 iteration 4950: append session line
+- 2026-09-25 19:30:28 iteration 4951: mark test run
