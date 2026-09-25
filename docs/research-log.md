@@ -32071,3 +32071,4 @@
 - 2026-09-25 20:55:29 iteration 19604: log planning iteration
 - 2026-09-25 20:55:29 iteration 19605: record sim observation
 - 2026-09-25 20:55:29 iteration 19606: log perception note
+- 2026-09-25 20:55:29 iteration 19607: note latency sample
