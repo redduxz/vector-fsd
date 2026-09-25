@@ -9374,3 +9374,4 @@
 - 2026-09-25 19:40:48 iteration 9372: append session line
 - 2026-09-25 19:40:48 iteration 9373: log planning iteration
 - 2026-09-25 19:40:48 iteration 9374: record sim observation
+- 2026-09-25 19:40:48 iteration 9375: mark test run
