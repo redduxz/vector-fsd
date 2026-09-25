@@ -37045,3 +37045,4 @@
 - 2026-09-25 21:14:17 iteration 24578: note latency sample
 - 2026-09-25 21:14:17 iteration 24579: log control tweak
 - 2026-09-25 21:14:17 iteration 24580: mark test run
+- 2026-09-25 21:14:17 iteration 24581: note tuning delta
