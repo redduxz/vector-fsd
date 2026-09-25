@@ -8004,3 +8004,4 @@
 - 2026-09-25 19:37:39 iteration 8002: jot safety review
 - 2026-09-25 19:37:39 iteration 8003: jot safety review
 - 2026-09-25 19:37:39 iteration 8004: note tuning delta
+- 2026-09-25 19:37:40 iteration 8005: update research log
