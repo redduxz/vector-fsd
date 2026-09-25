@@ -2935,3 +2935,4 @@
 - 2026-09-25 19:25:41 iteration 2933: note tuning delta
 - 2026-09-25 19:25:41 iteration 2934: jot safety review
 - 2026-09-25 19:25:42 iteration 2935: log planning iteration
+- 2026-09-25 19:25:42 iteration 2936: log control tweak
