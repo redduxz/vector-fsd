@@ -21267,3 +21267,4 @@
 - 2026-09-25 20:15:16 iteration 8800: log control tweak
 - 2026-09-25 20:15:16 iteration 8801: update research log
 - 2026-09-25 20:15:16 iteration 8802: log perception note
+- 2026-09-25 20:15:16 iteration 8803: jot safety review
