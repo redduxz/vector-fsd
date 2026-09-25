@@ -11835,3 +11835,4 @@
 - 2026-09-25 19:46:31 iteration 11833: log planning iteration
 - 2026-09-25 19:46:31 iteration 11834: jot safety review
 - 2026-09-25 19:46:31 iteration 11835: log perception note
+- 2026-09-25 19:46:31 iteration 11836: update research log
