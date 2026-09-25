@@ -10325,3 +10325,4 @@
 - 2026-09-25 19:42:58 iteration 10323: log control tweak
 - 2026-09-25 19:42:58 iteration 10324: note tuning delta
 - 2026-09-25 19:42:58 iteration 10325: record checkpoint
+- 2026-09-25 19:42:59 iteration 10326: jot safety review
