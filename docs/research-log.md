@@ -7417,3 +7417,4 @@
 - 2026-09-25 19:36:19 iteration 7415: log perception note
 - 2026-09-25 19:36:19 iteration 7416: log control tweak
 - 2026-09-25 19:36:19 iteration 7417: log planning iteration
+- 2026-09-25 19:36:19 iteration 7418: record sim observation
