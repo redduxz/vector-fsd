@@ -30186,3 +30186,4 @@
 - 2026-09-25 20:48:57 iteration 17719: note latency sample
 - 2026-09-25 20:48:57 iteration 17720: record checkpoint
 - 2026-09-25 20:48:57 iteration 17721: append session line
+- 2026-09-25 20:48:57 iteration 17722: log perception note
