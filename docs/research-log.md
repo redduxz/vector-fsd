@@ -3951,3 +3951,4 @@
 - 2026-09-25 19:28:06 iteration 3949: log loop iteration
 - 2026-09-25 19:28:06 iteration 3950: log loop iteration
 - 2026-09-25 19:28:06 iteration 3951: mark test run
+- 2026-09-25 19:28:06 iteration 3952: log control tweak
