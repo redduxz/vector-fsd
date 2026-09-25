@@ -13180,3 +13180,4 @@
 - 2026-09-25 19:50:30 iteration 713: record sim observation
 - 2026-09-25 19:50:30 iteration 714: append session line
 - 2026-09-25 19:50:30 iteration 715: log loop iteration
+- 2026-09-25 19:50:30 iteration 716: log control tweak
