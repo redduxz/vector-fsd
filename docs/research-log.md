@@ -23989,3 +23989,4 @@
 - 2026-09-25 20:26:49 iteration 11522: record checkpoint
 - 2026-09-25 20:26:49 iteration 11523: log perception note
 - 2026-09-25 20:26:49 iteration 11524: log control tweak
+- 2026-09-25 20:26:50 iteration 11525: note latency sample
