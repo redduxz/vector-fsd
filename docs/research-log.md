@@ -10999,3 +10999,4 @@
 - 2026-09-25 19:44:32 iteration 10997: append session line
 - 2026-09-25 19:44:32 iteration 10998: append session line
 - 2026-09-25 19:44:32 iteration 10999: record checkpoint
+- 2026-09-25 19:44:32 iteration 11000: note latency sample
