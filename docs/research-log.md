@@ -1074,3 +1074,4 @@
 - 2026-09-25 19:21:51 iteration 1072: record sim observation
 - 2026-09-25 19:21:51 iteration 1073: log control tweak
 - 2026-09-25 19:21:51 iteration 1074: log planning iteration
+- 2026-09-25 19:21:51 iteration 1075: jot safety review
