@@ -24487,3 +24487,4 @@
 - 2026-09-25 20:28:48 iteration 12020: log perception note
 - 2026-09-25 20:28:48 iteration 12021: jot safety review
 - 2026-09-25 20:28:48 iteration 12022: record sim observation
+- 2026-09-25 20:28:48 iteration 12023: note latency sample
