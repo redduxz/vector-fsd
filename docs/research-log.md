@@ -7,3 +7,4 @@
 - 2026-09-25 19:19:47 iteration 5: log loop iteration
 - 2026-09-25 19:19:47 iteration 6: log perception note
 - 2026-09-25 19:19:47 iteration 7: append session line
+- 2026-09-25 19:19:48 iteration 8: jot safety review
