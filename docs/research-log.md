@@ -34221,3 +34221,4 @@
 - 2026-09-25 21:03:03 iteration 21754: log planning iteration
 - 2026-09-25 21:03:03 iteration 21755: jot safety review
 - 2026-09-25 21:03:03 iteration 21756: update research log
+- 2026-09-25 21:03:03 iteration 21757: log control tweak
