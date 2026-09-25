@@ -1779,3 +1779,4 @@
 - 2026-09-25 19:23:12 iteration 1777: log control tweak
 - 2026-09-25 19:23:12 iteration 1778: log planning iteration
 - 2026-09-25 19:23:12 iteration 1779: log loop iteration
+- 2026-09-25 19:23:12 iteration 1780: note tuning delta
