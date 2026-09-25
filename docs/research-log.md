@@ -29190,3 +29190,4 @@
 - 2026-09-25 20:45:44 iteration 16723: append session line
 - 2026-09-25 20:45:44 iteration 16724: update research log
 - 2026-09-25 20:45:44 iteration 16725: log control tweak
+- 2026-09-25 20:45:45 iteration 16726: note tuning delta
