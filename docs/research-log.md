@@ -10733,3 +10733,4 @@
 - 2026-09-25 19:43:55 iteration 10731: log control tweak
 - 2026-09-25 19:43:55 iteration 10732: log planning iteration
 - 2026-09-25 19:43:55 iteration 10733: jot safety review
+- 2026-09-25 19:43:55 iteration 10734: note tuning delta
