@@ -20143,3 +20143,4 @@
 - 2026-09-25 20:10:02 iteration 7676: mark test run
 - 2026-09-25 20:10:03 iteration 7677: append session line
 - 2026-09-25 20:10:04 iteration 7678: update research log
+- 2026-09-25 20:10:04 iteration 7679: note tuning delta
