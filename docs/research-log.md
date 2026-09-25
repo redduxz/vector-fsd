@@ -4026,3 +4026,4 @@
 - 2026-09-25 19:28:16 iteration 4024: record sim observation
 - 2026-09-25 19:28:17 iteration 4025: record sim observation
 - 2026-09-25 19:28:17 iteration 4026: jot safety review
+- 2026-09-25 19:28:17 iteration 4027: log perception note
