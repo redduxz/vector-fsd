@@ -21355,3 +21355,4 @@
 - 2026-09-25 20:15:35 iteration 8888: note latency sample
 - 2026-09-25 20:15:35 iteration 8889: log planning iteration
 - 2026-09-25 20:15:35 iteration 8890: jot safety review
+- 2026-09-25 20:15:35 iteration 8891: record sim observation
