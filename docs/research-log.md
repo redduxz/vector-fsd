@@ -13024,3 +13024,4 @@
 - 2026-09-25 19:50:09 iteration 557: jot safety review
 - 2026-09-25 19:50:09 iteration 558: update research log
 - 2026-09-25 19:50:09 iteration 559: note latency sample
+- 2026-09-25 19:50:09 iteration 560: note tuning delta
