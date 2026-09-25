@@ -10559,3 +10559,4 @@
 - 2026-09-25 19:43:30 iteration 10557: log planning iteration
 - 2026-09-25 19:43:30 iteration 10558: log control tweak
 - 2026-09-25 19:43:30 iteration 10559: append session line
+- 2026-09-25 19:43:30 iteration 10560: log perception note
