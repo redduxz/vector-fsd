@@ -29466,3 +29466,4 @@
 - 2026-09-25 20:46:38 iteration 16999: log perception note
 - 2026-09-25 20:46:38 iteration 17000: append session line
 - 2026-09-25 20:46:39 iteration 17001: record checkpoint
+- 2026-09-25 20:46:39 iteration 17002: record sim observation
