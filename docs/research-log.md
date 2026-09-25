@@ -1859,3 +1859,4 @@
 - 2026-09-25 19:23:21 iteration 1857: update research log
 - 2026-09-25 19:23:21 iteration 1858: log planning iteration
 - 2026-09-25 19:23:21 iteration 1859: log control tweak
+- 2026-09-25 19:23:22 iteration 1860: note latency sample
