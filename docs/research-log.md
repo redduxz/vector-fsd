@@ -20534,3 +20534,4 @@
 - 2026-09-25 20:12:18 iteration 8067: record checkpoint
 - 2026-09-25 20:12:18 iteration 8068: append session line
 - 2026-09-25 20:12:18 iteration 8069: note tuning delta
+- 2026-09-25 20:12:18 iteration 8070: mark test run
