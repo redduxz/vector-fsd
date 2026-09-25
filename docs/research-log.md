@@ -27405,3 +27405,4 @@
 - 2026-09-25 20:39:57 iteration 14938: jot safety review
 - 2026-09-25 20:39:57 iteration 14939: log planning iteration
 - 2026-09-25 20:39:57 iteration 14940: log perception note
+- 2026-09-25 20:39:58 iteration 14941: note latency sample
