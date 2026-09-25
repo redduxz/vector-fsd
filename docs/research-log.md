@@ -4759,3 +4759,4 @@
 - 2026-09-25 19:30:00 iteration 4757: note tuning delta
 - 2026-09-25 19:30:01 iteration 4758: log perception note
 - 2026-09-25 19:30:01 iteration 4759: note latency sample
+- 2026-09-25 19:30:01 iteration 4760: log control tweak
