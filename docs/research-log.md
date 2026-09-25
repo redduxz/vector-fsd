@@ -2400,3 +2400,4 @@
 - 2026-09-25 19:24:31 iteration 2398: note tuning delta
 - 2026-09-25 19:24:31 iteration 2399: jot safety review
 - 2026-09-25 19:24:31 iteration 2400: jot safety review
+- 2026-09-25 19:24:31 iteration 2401: update research log
