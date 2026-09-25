@@ -10214,3 +10214,4 @@
 - 2026-09-25 19:42:44 iteration 10212: log control tweak
 - 2026-09-25 19:42:44 iteration 10213: update research log
 - 2026-09-25 19:42:44 iteration 10214: append session line
+- 2026-09-25 19:42:44 iteration 10215: note latency sample
