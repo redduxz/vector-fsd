@@ -7272,3 +7272,4 @@
 - 2026-09-25 19:35:59 iteration 7270: jot safety review
 - 2026-09-25 19:35:59 iteration 7271: record sim observation
 - 2026-09-25 19:35:59 iteration 7272: log perception note
+- 2026-09-25 19:35:59 iteration 7273: note tuning delta
