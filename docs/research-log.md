@@ -10839,3 +10839,4 @@
 - 2026-09-25 19:44:10 iteration 10837: update research log
 - 2026-09-25 19:44:10 iteration 10838: mark test run
 - 2026-09-25 19:44:10 iteration 10839: note tuning delta
+- 2026-09-25 19:44:10 iteration 10840: note latency sample
