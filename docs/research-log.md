@@ -22969,3 +22969,4 @@
 - 2026-09-25 20:22:40 iteration 10502: log planning iteration
 - 2026-09-25 20:22:40 iteration 10503: record sim observation
 - 2026-09-25 20:22:40 iteration 10504: log planning iteration
+- 2026-09-25 20:22:40 iteration 10505: log perception note
