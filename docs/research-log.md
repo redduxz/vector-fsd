@@ -4729,3 +4729,4 @@
 - 2026-09-25 19:29:57 iteration 4727: note tuning delta
 - 2026-09-25 19:29:57 iteration 4728: mark test run
 - 2026-09-25 19:29:57 iteration 4729: mark test run
+- 2026-09-25 19:29:57 iteration 4730: jot safety review
