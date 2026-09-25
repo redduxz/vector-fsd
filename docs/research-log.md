@@ -864,3 +864,4 @@
 - 2026-09-25 19:21:26 iteration 862: note latency sample
 - 2026-09-25 19:21:27 iteration 863: jot safety review
 - 2026-09-25 19:21:27 iteration 864: log perception note
+- 2026-09-25 19:21:27 iteration 865: update research log
