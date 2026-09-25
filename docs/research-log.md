@@ -3300,3 +3300,4 @@
 - 2026-09-25 19:26:30 iteration 3298: log loop iteration
 - 2026-09-25 19:26:30 iteration 3299: log loop iteration
 - 2026-09-25 19:26:30 iteration 3300: note tuning delta
+- 2026-09-25 19:26:30 iteration 3301: log perception note
