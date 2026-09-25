@@ -4269,3 +4269,4 @@
 - 2026-09-25 19:28:53 iteration 4267: note latency sample
 - 2026-09-25 19:28:53 iteration 4268: append session line
 - 2026-09-25 19:28:53 iteration 4269: update research log
+- 2026-09-25 19:28:54 iteration 4270: log control tweak
