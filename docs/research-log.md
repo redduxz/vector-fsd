@@ -362,3 +362,4 @@
 - 2026-09-25 19:20:29 iteration 360: jot safety review
 - 2026-09-25 19:20:29 iteration 361: note latency sample
 - 2026-09-25 19:20:29 iteration 362: log perception note
+- 2026-09-25 19:20:29 iteration 363: record sim observation
