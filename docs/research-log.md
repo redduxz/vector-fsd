@@ -16845,3 +16845,4 @@
 - 2026-09-25 19:58:57 iteration 4378: update research log
 - 2026-09-25 19:58:57 iteration 4379: log perception note
 - 2026-09-25 19:58:57 iteration 4380: jot safety review
+- 2026-09-25 19:58:58 iteration 4381: note latency sample
