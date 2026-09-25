@@ -15985,3 +15985,4 @@
 - 2026-09-25 19:56:59 iteration 3518: record checkpoint
 - 2026-09-25 19:56:59 iteration 3519: append session line
 - 2026-09-25 19:56:59 iteration 3520: log control tweak
+- 2026-09-25 19:56:59 iteration 3521: note tuning delta
