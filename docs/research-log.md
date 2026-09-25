@@ -32957,3 +32957,4 @@
 - 2026-09-25 20:58:29 iteration 20490: note latency sample
 - 2026-09-25 20:58:29 iteration 20491: log control tweak
 - 2026-09-25 20:58:29 iteration 20492: update research log
+- 2026-09-25 20:58:29 iteration 20493: log perception note
