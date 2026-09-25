@@ -25264,3 +25264,4 @@
 - 2026-09-25 20:32:19 iteration 12797: record checkpoint
 - 2026-09-25 20:32:20 iteration 12798: mark test run
 - 2026-09-25 20:32:20 iteration 12799: jot safety review
+- 2026-09-25 20:32:20 iteration 12800: record sim observation
