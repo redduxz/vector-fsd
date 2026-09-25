@@ -4849,3 +4849,4 @@
 - 2026-09-25 19:30:13 iteration 4847: log planning iteration
 - 2026-09-25 19:30:13 iteration 4848: jot safety review
 - 2026-09-25 19:30:13 iteration 4849: update research log
+- 2026-09-25 19:30:14 iteration 4850: note tuning delta
