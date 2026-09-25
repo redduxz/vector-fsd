@@ -84,6 +84,10 @@ python scripts/run_demo.py --carla-exe "%CARLA_ROOT%\CarlaUE4.exe" --town /Game/
 # headless autopilot without the dashboard:
 python -m fsd.agents.autopilot --config configs/default.yaml
 
+# collect data + metrics while it drives:
+python -m fsd.agents.autopilot --config configs/demo.yaml \
+    --record runs/ep1 --metrics-out runs/ep1-metrics.json
+
 # no simulator? synthetic smoke mode runs the full pipeline anyway:
 python -m fsd.agents.autopilot --no-carla --ticks 300
 ```
@@ -93,7 +97,7 @@ python -m fsd.agents.autopilot --no-carla --ticks 300
 | File | Purpose |
 | --- | --- |
 | `configs/demo.yaml` | City demo on `Town05`: light traffic, 16-ch LiDAR, tuned for real-time ticks |
-| `configs/default.yaml` | Urban driving in `Town10HD_Opt`, 60 km/h safety cap |
+| `configs/default.yaml` | Urban driving in `Town05`, 60 km/h safety cap |
 | `configs/highway.yaml` | Highway profile, higher speed cap and longer horizon |
 | `configs/sensors.yaml` | Sensor mounts and parameters (camera, lidar, radar, GNSS, IMU) |
 
@@ -153,6 +157,9 @@ CI runs both on every push ([.github/workflows/ci.yml](.github/workflows/ci.yml)
 - [x] C++ hot-path port: safety monitor and control loop, live via `fsd/compat` (see docs/PERFORMANCE.md)
 - [x] Scenario and fault-injection harness with pass/fail criteria
 - [x] Live web dashboard (camera detections, bird's-eye, semantic view)
+- [x] Junction-aware speed taper and posted-speed-limit compliance
+- [x] Stuck detection with reverse recovery and spawn relocation
+- [x] Episode recording (`--record`) and live metrics (`--metrics-out`) for evaluation
 - [ ] TensorRT-backed perception inference
 - [ ] Closed-loop evaluation dashboards (routes completed, disengagements, rule hits)
 

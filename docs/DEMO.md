@@ -22,7 +22,8 @@ log underneath.
 ## What you'll see
 
 - Tesla Model 3 driving Town05 under lane-level A* routing, replanned
-  every tick — junctions, traffic lights, lead-vehicle following
+  every tick — junctions, traffic lights, lead-vehicle following,
+  posted speed limits, junction-approach speed taper
 - Projected detection boxes + traffic-light banner on the camera
 - BEV: occupancy corridor, trajectory polyline, class-coloured actors,
   STOP marker at the active stop line
@@ -30,6 +31,21 @@ log underneath.
   explaining every transition
 - Stuck recovery: wedged ~3s -> reverse manoeuvre -> relocate to a
   fresh spawn point (max 3 per run)
+- Agent faults surface as a red banner on the page, not a frozen UI
+
+## Data + evaluation flags (headless autopilot)
+
+```bash
+# log (obs, act) .npz episodes for the imitation track
+python -m fsd.agents.autopilot --config configs/demo.yaml --record runs/ep1
+
+# stream the run through ClosedLoopMetrics -> JSON report
+python -m fsd.agents.autopilot --config configs/demo.yaml --metrics-out runs/ep1-metrics.json
+```
+
+Metrics include distance, min TTC/gap, RMS jerk, mode breakdown, and
+per-rule safety hits — same numbers `fsd/eval/report.py` renders for
+the scenario suite.
 
 ## Hard-won notes (this machine)
 
