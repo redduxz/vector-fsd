@@ -3435,3 +3435,4 @@
 - 2026-09-25 19:26:49 iteration 3433: log control tweak
 - 2026-09-25 19:26:49 iteration 3434: log perception note
 - 2026-09-25 19:26:49 iteration 3435: jot safety review
+- 2026-09-25 19:26:49 iteration 3436: record sim observation
