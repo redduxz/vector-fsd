@@ -21461,3 +21461,4 @@
 - 2026-09-25 20:15:56 iteration 8994: append session line
 - 2026-09-25 20:15:56 iteration 8995: log control tweak
 - 2026-09-25 20:15:57 iteration 8996: record sim observation
+- 2026-09-25 20:15:57 iteration 8997: update research log
