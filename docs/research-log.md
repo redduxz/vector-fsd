@@ -2365,3 +2365,4 @@
 - 2026-09-25 19:24:26 iteration 2363: mark test run
 - 2026-09-25 19:24:26 iteration 2364: log control tweak
 - 2026-09-25 19:24:27 iteration 2365: note tuning delta
+- 2026-09-25 19:24:27 iteration 2366: append session line
