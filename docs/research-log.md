@@ -5879,3 +5879,4 @@
 - 2026-09-25 19:32:39 iteration 5877: log control tweak
 - 2026-09-25 19:32:39 iteration 5878: note tuning delta
 - 2026-09-25 19:32:39 iteration 5879: note latency sample
+- 2026-09-25 19:32:40 iteration 5880: record sim observation
